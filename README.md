@@ -20,7 +20,7 @@ there are some different tools that let you access our shared space.
   - should run faster!
 - [flok.cc/s/pastagang](https://flok.cc/s/pastagang)
   - the raw flok room
-  - warning! not sandboxed, so strangers run code on your computer
+  - warning! not sandboxed, so strangers can run code on your computer
  
 ## creations
 
