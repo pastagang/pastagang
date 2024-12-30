@@ -8,7 +8,7 @@ want to join pastagang? sure thing, click on one of these links
   - more features
   - can run slower
 - [nudelsalat](https://felixroos.github.io/nudelsalat/)
-  - newer
+  - new
   - work in progress, not ready yet
   - simpler
   - should run faster
