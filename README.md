@@ -1,8 +1,14 @@
 # pastagang
 
-want to join pastagang? sure thing, click on one of these links
+pastagang is an emergent creative group that anyone can join
 
-- [todepond.cool](https://todepond.cool/flok)
+we tend to hop into the same collaborative environment at unplanned times. you are welcome to join any time you want too!
+
+## tools
+
+there are some different tools that let you access our shared space.
+
+- [todepond.cool/flok](https://todepond.cool/flok)
   - the original
   - a sandboxed flok room
   - more features
@@ -15,3 +21,16 @@ want to join pastagang? sure thing, click on one of these links
 - [flok.cc/s/pastagang](https://flok.cc/s/pastagang)
   - the raw flok room
   - warning! not sandboxed, so strangers run code on your computer
+ 
+## creations
+
+sometimes u just gotta be there to experience it!
+
+but sometimes people record stuff or take things further. here are some pastagang-related creations.
+
+- [pastagang youtube playlist](https://www.youtube.com/playlist?list=PL9uRa69RF-7wOS5CnK0wy34t5HYgFLIng)
+  - contact [todepond](https://mas.to/@todepond) to get added as an editor of the playlist.
+- [midirus's remixes](https://midirus.com/project/pastagang)
+- [todepond's ongoing writeup](https://www.todepond.com/wikiblogarden/learn/pastagang/accident/arroost/)
+
+if you make something pastagang-related, please let one of us know so we can let you add it to the list!
