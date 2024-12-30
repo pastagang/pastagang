@@ -12,12 +12,12 @@ there are some different tools that let you access our shared space.
   - the original
   - a sandboxed flok room
   - more features
-  - can run slower
+  - can run slow...
 - [nudelsalat](https://felixroos.github.io/nudelsalat/)
   - new
   - work in progress, not ready yet
   - simpler
-  - should run faster
+  - should run faster!
 - [flok.cc/s/pastagang](https://flok.cc/s/pastagang)
   - the raw flok room
   - warning! not sandboxed, so strangers run code on your computer
