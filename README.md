@@ -4,6 +4,8 @@ pastagang is an emergent creative group that anyone can join
 
 we tend to hop into the same collaborative environment at unplanned times. you are welcome to join any time you want too!
 
+<br>
+
 ## tools
 
 there are some different tools that let you access our shared space.
@@ -21,7 +23,9 @@ there are some different tools that let you access our shared space.
 - [flok.cc/s/pastagang](https://flok.cc/s/pastagang)
   - the raw flok room
   - warning! not sandboxed, so strangers can run code on your computer
- 
+
+<br>
+
 ## creations
 
 sometimes u just gotta be there to experience it!
@@ -34,6 +38,8 @@ but sometimes people record stuff or take things further. here are some pastagan
 - [todepond's ongoing writeup](https://www.todepond.com/wikiblogarden/learn/pastagang/accident/arroost/)
 
 if you make something pastagang-related, please let one of us know so we can let you add it to the list!
+
+<br>
 
 ## how to join
 
