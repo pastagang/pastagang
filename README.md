@@ -34,3 +34,7 @@ but sometimes people record stuff or take things further. here are some pastagan
 - [todepond's ongoing writeup](https://www.todepond.com/wikiblogarden/learn/pastagang/accident/arroost/)
 
 if you make something pastagang-related, please let one of us know so we can let you add it to the list!
+
+## how to join
+
+by reading this, you've already joined. welcome to pastagang 🍝
