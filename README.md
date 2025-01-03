@@ -15,7 +15,7 @@ there are some different tools that let you access our shared space.
   - a sandboxed flok room
   - more features
   - can run slow...
-- [nudel(https://nudel.cc)
+- [nudel](https://nudel.cc)
   - new
   - work in progress, not ready yet
   - simpler
