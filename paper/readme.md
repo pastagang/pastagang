@@ -15,7 +15,7 @@ Thoughts about the experience of being cursors on a screen go here
 
 ## Audience
 
-I love performing to an audience. I find it very exhausting. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
+I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
 
 ## Untitled other sections 
 
