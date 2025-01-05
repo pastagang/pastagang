@@ -6,6 +6,13 @@ This is a first attempt at an abstract. Pastagang is an accidental emergent grou
 
 ## Currently untitled introduction
 
+### Backstory
+
+- people enjoyed live coding solo but craved more group jamming.
+- how about... instead of doing our live coding "practice" in a solo editor, we all do it in a single multiplayer flok room?
+- people occasionally bump into each other in the room and jamming happens.
+- no one expected it to become so special.
+
 ## Cursors
 
 > Analogous to the pulsing live body within other forms of performance, the flashing cursor marks the point of decision-making – of consciousness perhaps – within the live programming of code; the movement of the coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational form of code and the ‘continuous’ – even sensuous – experience of coding as a lived experience.
