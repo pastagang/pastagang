@@ -39,6 +39,10 @@ Pastagang has been one of the most ... of my life. ...
 
 For me, **jamming** means high levels of trust, listening and making space for others. I hope to take these skills into other areas of my life...
 
+## Jam Oriented Programming (or another term like that)
+
+talk about nudel and how contributions are approached like a jam as well. everybody can become "maintainer" immediately, being able to change the site without asking. in a jam, communication and decision making happens mostly through the music, less through talking about it. talking is a detour. trust the process. the jam is a SUBSTRATE. similarly, in JOP, people don't need to ask before making a change (they still can if they want to have feedback etc). the software is not part of a critical infrastructure, so breaking it has no severe consequences. similar to how it happens that someone makes a mistake in a jam, it can happen that the thing breaks. it's fine. we even have a backup plan (flok.cc). focusing on a low barrier to entry also means the code should be as easy to understand as possible, so avoiding too many complexities is a good idea. perfection is not the goal. it's better to make a bad contribution than to make no contribution at all. 
+
 ## References
 
 [^website]: [Pastagang website](https://pastagang.cc)
