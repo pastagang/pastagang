@@ -13,6 +13,12 @@ This is a first attempt at an abstract. Pastagang is an accidental emergent grou
 
 Thoughts about the experience of being cursors on a screen go here
 
+## User Friendly
+
+Thoughts about the user experience and how easy it is to join go here
+
+The fact that all you need is clicking on a link to participate must not be underestimated.
+
 ## Audience
 
 I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
