@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This is a first attempt at an abstract. Pastagang is an accidental emergency group that formed in late 2024. In this paper, various participants share their personal experiences of the phenomena.
+This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants share their personal experiences of the phenomena.
 
 ## Currently untitled introduction
 
