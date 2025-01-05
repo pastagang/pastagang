@@ -31,9 +31,11 @@ The natural high and lows of activity in the shared room create opportunity for 
 
 I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
 
+Link to that audiences paper[^audience]
+
 ## Untitled other sections 
 
-## Currently untitled conclusion 
+## Currently untitled section
 
 Pastagang has been one of the most ... of my life. ...
 
@@ -48,3 +50,5 @@ talk about nudel and how contributions are approached like a jam as well. everyb
 [^website]: [Pastagang website](https://pastagang.cc)
 [^nudel]: [Nudel](https://nudel.cc)
 [^cocker2016]: Cocker, E. (2016). Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12(2), 102–116. https://doi.org/10.1080/14794713.2016.1227597
+[^audience]: McLean, A., Rohrhuber, J., & Wieser, R. (2023). The Meaning of Live: From Art Without Audience to Programs Without Users. International Conference on Live Coding (ICLC2023), Utrecht, Netherlands. https://doi.org/10.5281/zenodo.7843567
+
