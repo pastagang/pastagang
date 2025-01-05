@@ -9,7 +9,7 @@ This is a first attempt at an abstract. Pastagang is an accidental emergent grou
 ## Cursors
 
 > Analogous to the pulsing live body within other forms of performance, the flashing cursor marks the point of decision-making – of consciousness perhaps – within the live programming of code; the movement of the coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational form of code and the ‘continuous’ – even sensuous – experience of coding as a lived experience.
-> ^[Cocker, E. (2016). Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12(2), 102–116. https://doi.org/10.1080/14794713.2016.1227597]
+> [^cocker2016]
 
 Thoughts about the experience of being cursors on a screen go here
 
@@ -29,3 +29,4 @@ For me, **jamming** means high levels of trust, listening and making space for o
 
 [^website]: [Pastagang website](https://pastagang.cc)
 [^nudel]: [Nudel](https://nudel.cc)
+[^cocker2016]: Cocker, E. (2016). Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12(2), 102–116. https://doi.org/10.1080/14794713.2016.1227597
