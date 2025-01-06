@@ -38,6 +38,11 @@ My <strong>discovery</strong> of different language features was greatly improve
 
 <br>
 
+<hr>
+
+<br>
+
+
 WHen you only see cursors jumping on the it can seem like they know exactly what they are doing. It takes currage to jump in and change a number. Learning that this is ok, and actually encourage is a process. But because you see it happen, it makes doing it a bit easier every time.
 
 The natural high and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out there feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneselve gets blurry, and before you know it, you lost an hour to a jam with a bunch of people.
