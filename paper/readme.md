@@ -30,6 +30,14 @@ The fact that all you need is clicking on a link to participate must not be unde
 
 As someone who is new to the whole live coding performance thing, it is veri intimidating to see with hor much fines and focus people can perform these in live events. Because of the sharing nature of the online jam, you not only can look over the shoulder of someone else doing it, you also get access to the code in real time. Seeing how they change it and what effects it has. You can copy out code, and understand how it works. Try out some changes and bring them back into the jam. This allowed me to get the confidence needed to just jam with the others. 
 
+Yes, when I switched from strudel to flok, I thought I would learn slower because I wouldn't have the inline docs or autocomplete. But the surprising thing for me was how my learning rapidly sped up, just by looking and seeing other people code. 
+
+I remember thinking things like "`ply`? what does that do?" and then I fiddle with the number, explore it, and try it out myself. 
+
+My <strong>discovery</strong> of different language features was greatly improved by being around other people (in a virtual space). Not just discovery of the existence of these features, but also their varying uses / the moments they can good in.
+
+<br>
+
 WHen you only see cursors jumping on the it can seem like they know exactly what they are doing. It takes currage to jump in and change a number. Learning that this is ok, and actually encourage is a process. But because you see it happen, it makes doing it a bit easier every time.
 
 The natural high and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out there feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneselve gets blurry, and before you know it, you lost an hour to a jam with a bunch of people.
