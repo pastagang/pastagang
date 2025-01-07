@@ -42,7 +42,6 @@ My <strong>discovery</strong> of different language features was greatly improve
 
 <br>
 
-
 WHen you only see cursors jumping on the it can seem like they know exactly what they are doing. It takes courage to jump in and change a number. Learning that this is ok, and actually encouraged, is a process. But because you see it happen, it makes doing it a bit easier every time.
 
 The natural high and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lost an hour to a jam with a bunch of people.
@@ -60,6 +59,20 @@ Link to that audiences paper[^audience]
 Pastagang has been one of the most ... of my life. ...
 
 For me, **jamming** means high levels of trust, listening and making space for others. I hope to take these skills into other areas of my life...
+
+## Untitled but might fit in previous section ... #feelings
+
+The thing that I've noticed happens a lot in the collaborative space vs the solo space, and it's sparks of unexpected inspiration. You kind of know, more or less, what's coming when you're livecoding solo. But the moment you get a group dynamic you tend to react to the unexpected coming at you - it's generally a fairly slow burn because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece (and usually tweak it)... then you try to enjoy it for a while.
+
+These sparks of inspiration can lead to learning how to use new functions, or old functions in new ways, or discover new samples, interesting patterns etc
+
+When I'm among familiar players, I like providing that unexpected dynamic on occasion just to see what reactions/changes that causes, and where that can lead to
+
+Sometimes, I run out of ideas/inspiration and don't know what to do with my code. My go to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio) for someone else to do something (which can reignite the spark in me again). When I'm solo I need to try and keep a constant stream of new ideas going which I often find difficult.
+
+With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [muse](https://en.wikipedia.org/wiki/Muse_(person)) but it's usually a two-way muse relationship, ie inspiring for both players.
+
+I suspect this is all old news to most accomplished musicians, particularly jazz/improvisational based players - I wonder, does this serve to help validate livecoding as an instrument? Does it even need validation?
 
 ## Jam Oriented Programming (or another term like that)
 
