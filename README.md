@@ -1,8 +1,10 @@
-# pastagang
+![pastagang](/bag/pastagang.webp)
 
 pastagang is an emergent creative group that anyone can join
 
+
 we tend to hop into the same collaborative environment at unplanned times. you are welcome to join any time you want too!
+
 
 <br>
 
