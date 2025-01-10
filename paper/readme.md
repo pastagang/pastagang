@@ -88,6 +88,16 @@ Since then I contributed drums to another jam. There was one moment where I felt
 
 talk about nudel and how contributions are approached like a jam as well. everybody can become "maintainer" immediately, being able to change the site without asking. in a jam, communication and decision making happens mostly through the music, less through talking about it. talking is a detour. trust the process. the jam is a SUBSTRATE. similarly, in JOP, people don't need to ask before making a change (they still can if they want to have feedback etc). the software is not part of a critical infrastructure, so breaking it has no severe consequences. similar to how it happens that someone makes a mistake in a jam, it can happen that the thing breaks. it's fine. we even have a backup plan (flok.cc). focusing on a low barrier to entry also means the code should be as easy to understand as possible, so avoiding too many complexities is a good idea. perfection is not the goal. it's better to make a bad contribution than to make no contribution at all. 
 
+<br>
+
+<hr>
+
+<br>
+
+Before joining nudel, I had minimal understanding of open source collaboration. Despite coding extensively in my free time, I never felt comfortable contributing to other's repositories, fearing that my work might not be up to their standards. Nudel's community and collaboration practices completely changed that perspective. It fosters a very welcoming environment where even small contributions and changes are encouraged and valued. Whether the code is perfectly optimized or structured is secondary. What matters is pushing something functional and receiving constructive feedback. Watching my changes go live on the website gave me a lot of confidence and created a desire to improve and learn new things.
+
+Nudel's low barrier to entry and jam like approach allows everyone to be a "maintainer" immediately, encouraging contribution without the fear of failure. Breaking something is not world-ending but part of the process, with backups in place to mitigate issues. This freedom creates space for direct learning from more experienced contributors, while being part of a diverse, supportive community that shares the same goals. With an easy to understand codebase, starting a new contribution feels seamless. It's this mix of collaboration, creativity, and trust that makes contributing deeply rewarding.
+
 ## References
 
 [^website]: [Pastagang website](https://pastagang.cc)
