@@ -1,1 +1,1 @@
-🔫🔫put things in the bag
+💰 put things in the bag if you want
