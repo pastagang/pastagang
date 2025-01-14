@@ -2,7 +2,9 @@
 
 ## Abstract
 
-This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.
+<!--This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.-->
+
+This is a second attempt at an abstract. Pastagang is a jamming group that accidentally emerged in late 2024. In this paper, various participants and onlookers record and reflect on their experience of the phenomenon. In the spirit of the jam, no individual author is responsible for what you are about to read. Instead, it is the natural result of many people editing the same document with no oversight, plan, organisation or discussion. As you read through the following scattered contributions, you may notice glimpses of / fragments of / I dunno... (pls help)
 
 <br>
 
