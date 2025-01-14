@@ -4,21 +4,20 @@
 
 This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.
 
-## Currently untitled introduction
+<br>
 
-### Backstory
+# Introduction
+
+## Backstory
 
 - people enjoyed live coding solo but craved more group jamming.
 - how about... instead of doing our live coding "practice" in a solo editor, we all do it in a single multiplayer flok room?
 - people occasionally bump into each other in the room and jamming happens.
 - no one expected it to become so special.
 
-## Cursors
+<br>
 
-> Analogous to the pulsing live body within other forms of performance, the flashing cursor marks the point of decision-making – of consciousness perhaps – within the live programming of code; the movement of the coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational form of code and the ‘continuous’ – even sensuous – experience of coding as a lived experience.
-> [^cocker2016]
-
-Thoughts about the experience of being cursors on a screen go here
+# Learning
 
 ## User Friendly
 
@@ -52,9 +51,9 @@ I love performing to an audience. I find it very exhilarating. But it can someti
 
 Link to that audiences paper[^audience]
 
-## Untitled other sections 
+<br>
 
-## Currently untitled section
+# Jamming
 
 Pastagang has been one of the most ... of my life. ...
 
@@ -97,6 +96,17 @@ talk about nudel and how contributions are approached like a jam as well. everyb
 Before contributing to nudel, I had minimal understanding of open source collaboration. Despite coding extensively in my free time, I never felt comfortable contributing to other's repositories, fearing that my work might not be up to the repository maintainers' standards. However, nudel's community and collaboration practices completely changed that perspective. It fosters a very welcoming environment where even small contributions and changes are encouraged and valued. Whether the code is optimized or well-structured is secondary. What matters is pushing something functional and receiving constructive and actionable feedback. Watching my changes go live on the website gave me a lot of confidence and created a desire to improve and learn new things.
 
 Nudel's low barrier to entry and Jam-like approach allows everyone to be a "maintainer" immediately, encouraging contribution without the fear of failure. Breaking something isn’t catastrophic but rather a part of the process, with backups in place to mitigate issues. This freedom creates space for direct learning from more experienced contributors, while being part of a diverse, supportive community that shares the same goals. With an easy-to-understand codebase, starting a new contribution is seamless. It's this mix of collaboration, creativity, and trust that makes contributing deeply rewarding.
+
+<br>
+
+# Presence
+
+## Cursors
+
+> Analogous to the pulsing live body within other forms of performance, the flashing cursor marks the point of decision-making – of consciousness perhaps – within the live programming of code; the movement of the coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational form of code and the ‘continuous’ – even sensuous – experience of coding as a lived experience.
+> [^cocker2016]
+
+Thoughts about the experience of being cursors on a screen go here
 
 ## References
 
