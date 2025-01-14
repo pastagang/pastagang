@@ -1,4 +1,4 @@
-# Currently untitled pastagang paper
+# Pastagang: A huddle of fusili getting silly with the beats B)
 
 ## Abstract
 
@@ -47,6 +47,10 @@ When you only see cursors jumping on the screen it can seem like they know exact
 
 The natural highs and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bunch of people.
 
+<br>
+
+The pastagang culture really invites new people to make changes and fiddle with things. It's really cool when you're groovin' and you have a little idea based on what you've seen other people do, and then you make the change and it all grooves even harder!!
+
 ## Audience
 
 I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
@@ -60,6 +64,8 @@ Link to that audiences paper[^audience]
 Pastagang has been one of the most ... of my life. ...
 
 For me, **jamming** means high levels of trust, listening and making space for others. I hope to take these skills into other areas of my life...
+
+I was at the climbing wall today, and I thought "huh, we're all doing our own thing here, what if we *jammed* about it instead?" (that's a climbing pun for all you climbers out there) so I just spoke to people, asked what they were working on, if I could try it. Once two of us were doing it, it became much easier to include other people, and by the end there were about 4 or so strangers all trying different boulders and collaborating on ideas on how to solve them. It felt really good, and social and nice, and was a consequence of me *inviting collaboration* and putting myself *with* (not in front) of other people. I love the social aspect of jamming, and that's something pastagang captures when its at its best. (Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its lagging like hell because of the cool hydra thing).
 
 ## Untitled but might fit in previous section ... #feelings
 
@@ -109,6 +115,8 @@ Nudel's low barrier to entry and Jam-like approach allows everyone to be a "main
 > [^cocker2016]
 
 Thoughts about the experience of being cursors on a screen go here
+
+I like imagining myself as a little cursor person. I'm gender-neutral and colourful, and I duck and weave amongst the code. Sometimes I tweak a little number, and we all groove harder. Sometimes I hop out next to someone else's code just to write them a lil' complement. I really like doing that. I think We As A Society should give everybody more encouragement all the time. Being a cursor is freeing.
 
 ## References
 
