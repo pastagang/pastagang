@@ -51,6 +51,7 @@ ch of people.
 # Accesing Art throug a new perspective
 
 As someone who has trouble visualizing most writen or spoken pictures (aphantasia [citation needed], a bit, not diagnosed and sometimes I can.), coding visuals gave me a new avenue to access artistic expressions that with traditional tools are always hard ta archive.
+
 Being able to understand how code interacts and quickly toy around with it, makes giving life to the abstract ideas in my head somewhat easier. Because the abstraction in hydra is very similar to what my brain does itself.
 
 - something about the logical side of coding / syntaxt of code and the contrast to painting a picture / being artsy "traditionaly"
@@ -109,13 +110,47 @@ Link to that audiences paper[^audience]
 
 # Sacrifice
 
-## Attribution
+Everything we make gets attributed to "pastagang" rather than any individual(s).
 
-Everything we make gets attributed to "pastagang" rather than any individual(s). 
+This is partly due to convenience. for any one piece of music or visual, there may have been countless contributors, some anonymous, over a long scattered period. hunting them all down would be a nightmare. 
 
-For some people, this may seem like a shame. but in many ways, it is liberating. 
+and even if you do hunt down everyone who wrote those individual lines of code, what about those who came before?
+
+those lines of code didn't come out of nowhere: they grew from what was there previously. 
+
+<br>
+
+the jam is continuous. it has no start and end. so every product of the pastagang is a product of everyone who has ever set foot inside it. 
+
+even a motionless cursor can influence the sounds and sights it makes. your presence or lack of presence steers the jam.
+
+## Responsibility 
+
+For some people, it may seem like a shame to not get individually credited. but in many ways, it is liberating. 
 
 if something sounds bad, it's not *your* fault. it's pastagang's fault. so your reputation isn't on the line. in this way, the jam serves as a tool that removes emotional blockers, in the same way that my arroost tool aimed to be[^unblocking].
+
+## Differences to algorave
+
+Pastagang's approach to responsibility differs to the typical mindset of algorave. Here's a quote from the algorave website:
+
+> Algorave musicians don’t pretend their software is being creative, they take responsibility for the music they make, shaping it using whatever means they have.
+
+In algorave, musicians take responsibility, but in pastagang, musicians relinquish responsibility — the jam claims your outputs as its own.
+
+## Pride
+
+todo
+
+## Surrealism
+
+todo
+- tigers eye
+
+## Exquisite corpse
+
+todo
+- share activity, Long Distance, lead into feeling connected + present, which leads into the next section
 
 # Presence
 
