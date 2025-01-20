@@ -23,9 +23,23 @@ This is a second attempt at an abstract. Pastagang is a jamming group that accid
 
 ## User Friendly
 
-Thoughts about the user experience and how easy it is to join go here
+I heard about pastagang for the first time after clicking on a Strudel URL shared on the Fediverse.
+This opened a web page containing a bit of source code and a play button to render the audio directly in my browser.
+I was vaguely familiar with Tidalcycles, but I had never used it since I was not particularly enjoying it on my own.
 
-The fact that all you need is clicking on a link to participate must not be underestimated.
+Even though I could make my own variations, and reading the Strudel's documentation helped me understand a bit what was going on,
+I still couldn't do much with it.
+This quickly changed after visiting another link shared by a pastagang member: a URL for an interface called Flok.
+Like Strudel, it is a web page that contains a text editor, but it is multiplayer with the other participants' cursors moving in real time.
+
+Seeing the code being developed collaboratively was a transformative experience. Soon, I felt like I could add my own patterns, and
+with the help of the pastagang, I quickly learned how to make it sound the way I liked.
+Suffice it to say I was hooked, and out of nowhere,
+I spent a few hours here and there reading and writing live code with the pastagang.
+
+All of that to say that I came for the sound, and I stayed for the experience.
+Pastagang is powered by the most user-friendly system I can think of;
+you just need a web browser and some free time.
 
 ## Learning & Teaching
 
