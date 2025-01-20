@@ -10,6 +10,10 @@ the origins of "let code die" lie in [robust first computing](https://andrewwalp
 
 why do we try to maintain projects that are old and should be deprecated? most such projects have newer alternatives that are more secure, more functional, and better suited for the modern world, yet we keep using things like email, pgp, x11, etc etc
 
+Software is a sort of executable knowledge, and just like unstable particles decaying over time, [knowledge has a half-life too]([url](https://en.wikipedia.org/wiki/Half-life_of_knowledge))!
+
+**So let's [kill it with fire](https://www.goodreads.com/en/book/show/54716655-kill-it-with-fire)**
+
 # why
 - Let code die to have less emotional attachment to code
 - and to write more code and then it gets easier
