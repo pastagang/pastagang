@@ -161,6 +161,12 @@ todo
 
 (Thoughts about the experience of being cursors on a screen go here)
 
+<br>
+
+During the jamming sessions, seeing multiple cursors move across the screen making art creates a unique form of unspoken collaboration. Each cursor's movement represents someone's creativity and intentions, making you part of a larger collective experience. While working in Hydra, watching more experienced coders take your initial concepts in a new direction creates a feeling that solo coding cannot match. The nature of adapting your plans to work with others' contributions mirrors the dynamics of an in-person jamming session. Without communicating, these cursors interact with one another and enable a constantly flowing exchange of ideas, leading to unexpected creative directions and fostering a sense of collective creation.
+
+<br>
+
 (Insert screenshots of cursors doing things in cursorland, etc)
 
 <br>
