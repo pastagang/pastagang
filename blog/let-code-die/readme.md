@@ -10,8 +10,21 @@ the origins of "let code die" lie in [robust first computing](https://andrewwalp
 
 why do we try to maintain projects that are old and should be deprecated? most such projects have newer alternatives that are more secure, more functional, and better suited for the modern world, yet we keep using things like email, pgp, x11, etc etc
 
-Let code die to have less emotional attachment to code and to write more code and then it gets easier. Also to create more room for new different code including all kinds of fun errors.
+# why
+- Let code die to have less emotional attachment to code
+- and to write more code and then it gets easier
+- also to create more room for new different code including all kinds of fun errors.
 
 And
-Let performances die by not recording them. Let music die by not recording it.
-Then record anyway to share with people (which kills the music)
+- Let performances die by not recording them. - Let music die by not recording it.
+- Then record anyway to share with people (which kills the music)
+
+If you are grieving or otherwise sensitive to mortality, you can thing of this concept as 'let it float down the river'. Be an observer, take an interest, but don't form unhealthy attachments where they aren't necessary. You can work on this by forming/strengthening healthy attachments with humans using careful trust, self-care and strong boundaries.
+
+# but wait, you're overthinking this, I just am too lazy to keep writing new code all the time.
+
+oh, yes, that happens... well, your code will die anyway at some point. plus exercise is good, repetition is good. repetition is also good and bear in mind that repetition is good too. In moderation. and unmoderation.
+
+# let this blog post die
+
+i let all the changes I contributed to this blog post die. 
