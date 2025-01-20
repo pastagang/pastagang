@@ -1,16 +1,21 @@
-let's write a blog post.
-
-i sometimes find that it's helpful to write a throwaway blog post when trying to write something [bigger](https://github.com/pastagang/pastagang/edit/main/paper/readme.md)
-
-<br>
 
 # Let code die 
 
-the origins of "let code die" lie in [robust first computing](https://andrewwalpole.com/blog/an-introduction-to-robust-first-computation/) and [permacomputing](https://permacomputing.net/permacomputing/) and [local first computing](https://www.inkandswitch.com/local-first/). all three movements acknowledge that code can break and die in various ways, and that we should plan around that
+the idea of "letting code die" comes from a few different computing movements: 
 
-Software is a sort of executable knowledge, and just like unstable particles decaying over time, [knowledge has a half-life too]([url](https://en.wikipedia.org/wiki/Half-life_of_knowledge))!
+- [robust first computing](https://andrewwalpole.com/blog/an-introduction-to-robust-first-computation/)
+- [permacomputing](https://permacomputing.net/permacomputing/)
+- [local first computing](https://www.inkandswitch.com/local-first/)
+
+i wanted to participate in all three movements at the same time so i tried to figure out what they all have in common. and my idea was that they all acknowledge that code can break and die in various ways, and that we should plan around that.
+
+in my opinion, the three movements— it's not that code dying is something to be avoided, but it is something to be handled gracefully.
+
+you see, Software is a sort of executable knowledge, and just like unstable particles decaying over time, [knowledge has a half-life too]([url](https://en.wikipedia.org/wiki/Half-life_of_knowledge))!
 
 Should we [kill code with fire](https://www.goodreads.com/en/book/show/54716655-kill-it-with-fire)?
+
+I don't know. is killing it with fire the most graceful thing to do?
 
 <br>
 
@@ -19,6 +24,8 @@ Should we [kill code with fire](https://www.goodreads.com/en/book/show/54716655-
 <br>
 
 why do we try to maintain projects that are old and should be deprecated? most such projects have newer alternatives that are more secure, more functional, and better suited for the modern world, yet we keep using things like email, pgp, x11, etc etc
+
+i guess the problem is that we rely on heaps and heaps and stacks and stacks of technology. we can't and probably don't want to get rid of all of it. but where we can and where is reasonable, i think it's nice to not rely on specific pieces of technology. i don't think that's too crazy an idea :)
 
 ## why let code die
 - Let code die to have less emotional attachment to code
