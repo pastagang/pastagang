@@ -45,15 +45,8 @@ My <strong>discovery</strong> of different language features was greatly improve
 
 When you only see cursors jumping on the screen it can seem like they know exactly what they are doing. It takes courage to jump in and change a number. Learning that this is ok, and actually encouraged, is a process. But because you see it happen, it makes doing it a bit easier every time.
 
-The natural highs and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bunch of people.
-
-## Audience
-
-I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
-
-Link to that audiences paper[^audience]
-
-<br>
+The natural highs and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bun
+ch of people.
 
 # Jamming
 
@@ -101,6 +94,22 @@ Nudel's low barrier to entry and Jam-like approach allows everyone to be a "main
 
 <br>
 
+## Audience
+
+I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
+
+Link to that audiences paper[^audience]
+
+# Sacrifice
+
+## Attribution
+
+Everything we make gets attributed to "pastagang" rather than any individual(s). 
+
+For some people, this may seem like a shame. but in many ways, it is liberating. 
+
+if something sounds bad, it's not *your* fault. it's pastagang's fault. so your reputation isn't on the line. in this way, the jam serves as a tool that removes emotional blockers, in the same way that my arroost tool aimed to be[^unblocking].
+
 # Presence
 
 ## Cursors
@@ -108,7 +117,13 @@ Nudel's low barrier to entry and Jam-like approach allows everyone to be a "main
 > Analogous to the pulsing live body within other forms of performance, the flashing cursor marks the point of decision-making – of consciousness perhaps – within the live programming of code; the movement of the coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational form of code and the ‘continuous’ – even sensuous – experience of coding as a lived experience.
 > [^cocker2016]
 
-Thoughts about the experience of being cursors on a screen go here
+(Thoughts about the experience of being cursors on a screen go here)
+
+(Insert screenshots of cursors doing things in cursorland, etc)
+
+<br>
+
+<br>
 
 ## References
 
@@ -116,4 +131,5 @@ Thoughts about the experience of being cursors on a screen go here
 [^nudel]: [Nudel](https://nudel.cc)
 [^cocker2016]: Cocker, E. (2016). Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12(2), 102–116. https://doi.org/10.1080/14794713.2016.1227597
 [^audience]: McLean, A., Rohrhuber, J., & Wieser, R. (2023). The Meaning of Live: From Art Without Audience to Programs Without Users. International Conference on Live Coding (ICLC2023), Utrecht, Netherlands. https://doi.org/10.5281/zenodo.7843567
+[^unblocking]: Wilson, L. (2024). Arroost: Unblocking creation with friends. [https://todepond.com/report/arroost](https://todepond.com/report/arroost)
 
