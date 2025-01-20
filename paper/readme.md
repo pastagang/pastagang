@@ -48,6 +48,13 @@ When you only see cursors jumping on the screen it can seem like they know exact
 The natural highs and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bun
 ch of people.
 
+# Accesing Art throug a new perspective
+
+As someone who has trouble visualizing most writen or spoken pictures (aphantasia [citation needed], a bit, not diagnosed and sometimes I can.), coding visuals gave me a new avenue to access artistic expressions that with traditional tools are always hard ta archive.
+Being able to understand how code interacts and quickly toy around with it, makes giving life to the abstract ideas in my head somewhat easier. Because the abstraction in hydra is very similar to what my brain does itself.
+
+- something about the logical side of coding / syntaxt of code and the contrast to painting a picture / being artsy "traditionaly"
+
 # Jamming
 
 Pastagang has been one of the most ... of my life. ...
