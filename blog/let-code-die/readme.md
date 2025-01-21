@@ -25,6 +25,8 @@ Should we [kill code with fire](https://www.goodreads.com/en/book/show/54716655-
 
 I don't know. is killing it with fire the most graceful thing to do?
 
+(maybe)
+
 <br>
 
 Let's look at what the three movements say: 
@@ -47,10 +49,11 @@ Local first computing proposes a set of principles and ideas for software that r
 
 why do we try to maintain projects that are old and should be deprecated? most such projects have newer alternatives that are more secure, more functional, and better suited for the modern world, yet we keep using things like email, pgp, x11, etc etc
 
-i guess the problem is that we rely on heaps and heaps and stacks and stacks of technology. we can't and probably don't want to get rid of all of it. but where we can and where is reasonable, i think it's nice to not rely on specific pieces of technology. i don't think that's too crazy an idea :)
+i guess the problem is that we rely on heaps and heaps and stacks and stacks of technology. we can't and probably don't want to get rid of all of it. but where we can and where is reasonable, i think it's nice to not rely on specific pieces of technology. i don't think that's too crazy an idea
 
-The pastagang paradox:
-Temporary code will live permanently. Code you want to live long and prosper will die young.
+<br>
+
+<br>
 
 ## why let code die
 - Let code die to have less emotional attachment to code
@@ -66,9 +69,18 @@ And
 
 If you are grieving or otherwise sensitive to mortality, you can thing of this concept as 'let it float down the river'. Be an observer, take an interest, but don't form unhealthy attachments where they aren't necessary. You can work on this by forming/strengthening healthy attachments with humans using careful trust, self-care and strong boundaries.
 
-# but wait, you're overthinking this, I just am too lazy to keep writing new code all the time.
+# but wait, you're overthinking this
 
-oh, yes, that happens... well, your code will die anyway at some point. plus exercise is good, repetition is good. repetition is also good and bear in mind that repetition is good too. In moderation. and unmoderation.
+The pastagang paradox:\
+Temporary code will live permanently. Code you want to live long and prosper will die young.
+
+everything produced is a product of everything that preceded it, whether it's still around or not
+
+<br>
+
+<br>
+
+well, your code will die anyway at some point. plus exercise is good, repetition is good. repetition is also good and bear in mind that repetition is good too. In moderation. and unmoderation.
 
 <br>
 
@@ -78,3 +90,5 @@ i let all the changes I contributed to this blog post die.
 
 
 <br>
+
+by pastagang 
