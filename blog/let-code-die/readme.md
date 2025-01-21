@@ -41,6 +41,9 @@ why do we try to maintain projects that are old and should be deprecated? most s
 
 i guess the problem is that we rely on heaps and heaps and stacks and stacks of technology. we can't and probably don't want to get rid of all of it. but where we can and where is reasonable, i think it's nice to not rely on specific pieces of technology. i don't think that's too crazy an idea :)
 
+The pastagang paradox:
+Temporary code will live permanently. Code you want to live long and prosper will die young.
+
 ## why let code die
 - Let code die to have less emotional attachment to code
 - and to write more code and then it gets easier
