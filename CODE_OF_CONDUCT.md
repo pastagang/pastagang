@@ -30,7 +30,7 @@ At this point, facilitators include:
 - Lu Wilson, todepond@gmail.com
 - Daniel, (todo: insert a public facing email here)
 
-Algorave facilitators will try to be responsive - additionally, all participants (where possible/appropriate) will be briefed on this code and facilitators may ask individual participants to act on their behalf.
+Pastagang facilitators will try to be responsive - additionally, all participants (where possible/appropriate) will be briefed on this code and facilitators may ask individual participants to act on their behalf.
 
 If you report an incident of harassment to pastagang facilitators you can expect to be listened to and taken seriously. They will take action they deem appropriate in response depending on the scale and severity of the incident.  For example:
 
