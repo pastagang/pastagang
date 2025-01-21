@@ -5,9 +5,9 @@
 
 <br>
 
-<hr>
-
 <br>
+
+## Origins
 
 the idea of "letting code die" can be traced back to three different computing movements: 
 
