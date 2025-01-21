@@ -29,7 +29,15 @@ I don't know. is killing it with fire the most graceful thing to do?
 
 Let's look at what the three movements say: 
 
+- robust first computing
 todo
+<br>
+- permacomputing
+todo
+<br>
+- local first computing
+
+Local first computing proposes a set of principles and ideas for software that resonates with the *let code die* philosophy. It acknowledges that software services and cloud providers will inevitably become inaccessible. Instead of fighting this thought, local first  embraces this nature of software by ensuring that the user's data survives irrespective of any particular service or implementation. When code dies in a local first environment, the data remains alive, ready to be reused with new code. This turns code death into a natural part of the software lifecycle. 
 
 <br>
 
