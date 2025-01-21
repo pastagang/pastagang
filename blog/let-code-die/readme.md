@@ -1,7 +1,15 @@
 
 # Let code die 
 
-the idea of "letting code die" comes from a few different computing movements: 
+"let code die" is a recurring mantra that the [pastagang](https://pastagang.cc) group has picked up and run with
+
+<br>
+
+<hr>
+
+<br>
+
+the idea of "letting code die" can be traced back to three different computing movements: 
 
 - [robust first computing](https://andrewwalpole.com/blog/an-introduction-to-robust-first-computation/)
 - [permacomputing](https://permacomputing.net/permacomputing/)
@@ -9,13 +17,19 @@ the idea of "letting code die" comes from a few different computing movements:
 
 i wanted to participate in all three movements at the same time so i tried to figure out what they all have in common. and my idea was that they all acknowledge that code can break and die in various ways, and that we should plan around that.
 
-in my opinion, the three movements— it's not that code dying is something to be avoided, but it is something to be handled gracefully.
+in my opinion, the three movements don't say that code death is something to be avoided, but rather that it is something to be handled gracefully.
 
 you see, Software is a sort of executable knowledge, and just like unstable particles decaying over time, [knowledge has a half-life too]([url](https://en.wikipedia.org/wiki/Half-life_of_knowledge))!
 
 Should we [kill code with fire](https://www.goodreads.com/en/book/show/54716655-kill-it-with-fire)?
 
 I don't know. is killing it with fire the most graceful thing to do?
+
+<br>
+
+Let's look at what the three movements say: 
+
+todo
 
 <br>
 
