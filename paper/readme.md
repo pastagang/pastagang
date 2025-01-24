@@ -10,40 +10,9 @@ This is a second attempt at an abstract. Pastagang is an emergent jamming group 
 
 # Introduction
 
-## Backstory
+pastagang is a phenomenon where various live coders use a single collaborative environment as their live coding tool of choice. 
 
-live coding is a practice enjoyed by many people around the globe.
-
-they use various tools like strudel, hydra, tidalcycles, etc
-
-one place people enjoy live coding is algorave.
-
-algorave performances typically involve collaboration, eg: with someone on audio and someone on visuals. but there's also an element of collaboration with the room itself.
-
-<br>
-
-when a live coder is **not** at an algorave (or live coding event like a meetup or workshop) they might miss that collaborative experience they get from them.\
-(improve wording^)
-
-as live coders, some of us found ourselves doing lots of live coding by ourselves, at scattered points in the day — for practice, for fun, as an escape, for many reasons. 
-
-but live coding alone feels like a vastly different experience.
-
-firstly, live coding alone doesn't provide you with any of the immediate feedback from having others around. and there's no social pressure to keep the sounds or visuals going. so ... as practice, it is far away from something real, like an algorave. 
-
-and secondly:
-
-## let code die
-
-live coding is not only the creation of code, but also the deletion of code.
-
-every change we make advances the sounds / lights in some way
-
-- how about... instead of doing our live coding "practice" in a solo editor, we all do it in a single multiplayer flok room?
-- people occasionally bump into each other in the room and jamming happens.
-- no one expected it to become so special.
-
-(citations needed for the above sections)
+whether they're practising at home, performing at an algorave, facilitating a workshop, or jamming at a meetup, a live coder might decide to do it in a shared space. 
 
 <br>
 
