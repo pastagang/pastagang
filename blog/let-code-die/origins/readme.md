@@ -54,4 +54,4 @@ i guess the problem is that we rely on heaps and heaps and stacks and stacks of 
 
 <br>
 
-back to the [pastagang blog](/blog)
+a blog post by [pastagang](/)
