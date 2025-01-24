@@ -32,7 +32,7 @@ Let's look at what the three movements say:
 
 ### robust first computing
 
-
+todo
 
 ### permacomputing
   
@@ -51,6 +51,22 @@ Local first computing proposes a set of principles and ideas for software that r
 why do we try to maintain projects that are old and should be deprecated? most such projects have newer alternatives that are more secure, more functional, and better suited for the modern world, yet we keep using things like email, pgp, x11, etc etc
 
 i guess the problem is that we rely on heaps and heaps and stacks and stacks of technology. we can't and probably don't want to get rid of all of it. but where we can and where is reasonable, i think it's nice to not rely on specific pieces of technology. i don't think that's too crazy an idea
+
+## tadi web
+
+todo
+
+https://tadiweb.com
+
+## embrace death
+
+todo
+
+https://www.youtube.com/watch?v=ft6xOAijwFo
+
+## let code die
+
+todo
 
 <br>
 
