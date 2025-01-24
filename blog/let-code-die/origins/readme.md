@@ -50,6 +50,8 @@ Local first computing proposes a set of principles and ideas for software that r
 
 why do we try to maintain projects that are old and should be deprecated? most such projects have newer alternatives that are more secure, more functional, and better suited for the modern world, yet we keep using things like email, pgp, x11, etc etc
 
+this software will die. maybe not within the decade, our or lifetimes, but it will pass on. adobe flash died, and now there's [new code](https://ruffle.rs/) to reuse old flash files. who's to say this couldn't happen to something more vital, like web browsers?
+
 i guess the problem is that we rely on heaps and heaps and stacks and stacks of technology. we can't and probably don't want to get rid of all of it. but where we can and where is reasonable, i think it's nice to not rely on specific pieces of technology. i don't think that's too crazy an idea
 
 ## tadi web
