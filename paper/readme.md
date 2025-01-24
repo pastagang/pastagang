@@ -4,7 +4,7 @@
 
 <!--This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.-->
 
-This is a second attempt at an abstract. Pastagang is a jamming group that accidentally emerged in late 2024. In this paper, various participants and onlookers record and reflect on their experience of the phenomenon. In the spirit of the jam, no individual author is responsible for what you are about to read. Instead, it is the natural result of many people editing the same document with no oversight, plan, organisation or discussion. As you read through the following scattered contributions, you may notice glimpses of / fragments of / I dunno... (pls help)
+This is a second attempt at an abstract. Pastagang is an emergent jamming group that accidentally emerged in late 2024. In this paper, various participants and onlookers record and reflect on their experience of the phenomenon. In the spirit of the jam, no individual author is responsible for what you are about to read. Instead, it is the natural result of many people editing the same document with no oversight, plan, organisation or discussion. As you read through the following scattered contributions, you may notice glimpses of / fragments of / I dunno... (pls help)
 
 <br>
 
@@ -12,10 +12,38 @@ This is a second attempt at an abstract. Pastagang is a jamming group that accid
 
 ## Backstory
 
-- people enjoyed live coding solo but craved more group jamming.
+live coding is a practice enjoyed by many people around the globe.
+
+they use various tools like strudel, hydra, tidalcycles, etc
+
+one place people enjoy live coding is algorave.
+
+algorave performances typically involve collaboration, eg: with someone on audio and someone on visuals. but there's also an element of collaboration with the room itself.
+
+<br>
+
+when a live coder is **not** at an algorave (or live coding event like a meetup or workshop) they might miss that collaborative experience they get from them.\
+(improve wording^)
+
+as live coders, some of us found ourselves doing lots of live coding by ourselves, at scattered points in the day — for practice, for fun, as an escape, for many reasons. 
+
+but live coding alone feels like a vastly different experience.
+
+firstly, live coding alone doesn't provide you with any of the immediate feedback from having others around. and there's no social pressure to keep the sounds or visuals going. so ... as practice, it is far away from something real, like an algorave. 
+
+and secondly:
+
+## let code die
+
+live coding is not only the creation of code, but also the deletion of code.
+
+every change we make advances the sounds / lights in some way
+
 - how about... instead of doing our live coding "practice" in a solo editor, we all do it in a single multiplayer flok room?
 - people occasionally bump into each other in the room and jamming happens.
 - no one expected it to become so special.
+
+(citations needed for the above sections)
 
 <br>
 
@@ -194,4 +222,3 @@ During the jamming sessions, seeing multiple cursors move across the screen maki
 [^cocker2016]: Cocker, E. (2016). Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12(2), 102–116. https://doi.org/10.1080/14794713.2016.1227597
 [^audience]: McLean, A., Rohrhuber, J., & Wieser, R. (2023). The Meaning of Live: From Art Without Audience to Programs Without Users. International Conference on Live Coding (ICLC2023), Utrecht, Netherlands. https://doi.org/10.5281/zenodo.7843567
 [^unblocking]: Wilson, L. (2024). Arroost: Unblocking creation with friends. [https://todepond.com/report/arroost](https://todepond.com/report/arroost)
-
