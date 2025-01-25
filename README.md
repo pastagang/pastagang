@@ -1,47 +1,53 @@
 ![pastagang](/bag/pastagang.webp)
 
-pastagang is an emergent creative group that anyone can join
+pastagang is a creative group that anyone can join
 
+we tend to hop into the same collaborative environment at unplanned times. you are welcome to join any time you want!
 
-we tend to hop into the same collaborative environment at unplanned times. you are welcome to join any time you want too!
+## how to join the jam
 
+there are some different tools that let you access our shared space. right now we're mostly using [nudel](https://nudel.cc). but you can join using any of these:
 
-<br>
-
-## tools
-
-there are some different tools that let you access our shared space.
-
-- [todepond.cool/flok](https://todepond.cool/flok)
-  - the original
-  - a sandboxed flok room
-  - more features!
-  - can run slow
 - [nudel](https://nudel.cc)
-  - new
-  - work in progress
-  - simpler
-  - should run faster!
+- [todepond.cool/flok](https://todepond.cool/flok)
 - [flok.cc/s/pastagang](https://flok.cc/s/pastagang)
-  - the raw flok room
-  - warning! not sandboxed, so strangers can run code on your computer
 
-<br>
+and there's a tool for uploading files too (eg: for samples, images)
 
-## creations
+- [spag](https://spag.cc)
 
-sometimes u just gotta be there to experience it!
+## other jams
 
-but sometimes people record stuff or take things further. here are some pastagang-related creations.
+we're jamming in other ways now too.
 
-- [pastagang youtube playlist](https://www.youtube.com/playlist?list=PL9uRa69RF-7wOS5CnK0wy34t5HYgFLIng)
+- we're building [nudel](https://github.com/pastagang/nudel) together.
+- we're building things like [spag](https://github.com/pastagang/spag).
+- we're writing a [paper](https://github.com/pastagang/pastagang/edit/main/paper/readme.md)
+- we're starting a [blog](https://github.com/pastagang/pastagang/edit/main/blog/let-code-die/readme.md)
+- we gather youtube recordings on our [playlist](https://www.youtube.com/playlist?list=PL9uRa69RF-7wOS5CnK0wy34t5HYgFLIng)
+
+you are invited to join all of these.\
+all contributions get accepted, no matter what.
+
+if you want to get added to the list of contributors to any of these, let someone know
+
+## other creations
+
+here are some other pastagang things people have made
+
 - [midirus's remixes](https://midirus.com/project/pastagang)
 - [todepond's ongoing writeup](https://www.todepond.com/wikiblogarden/learn/pastagang/accident/arroost/)
-- NEW: we're writing a [paper](https://github.com/TodePond/pastagang/edit/main/paper/readme.md). help us to write it!
 
-if you make something pastagang-related, please let one of us know so we can let you add it to the list!
+## contact
 
-<br>
+here are some ways of contacting pastagang:
+
+- post a message in the [jam space](https://nudel.cc)
+- post on mastodon with the [#pastagang hashtag](https://post.lurk.org/tags/pastagang)
+
+## code of conduct
+
+we have a [code of conduct](/CODE_OF_CONDUCT.md) that we expect everyone to follow. it's adapted from the algorave code of conduct.
 
 ## how to join
 
