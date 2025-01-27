@@ -22,8 +22,8 @@ we're jamming in other ways now too.
 
 - we're building [nudel](https://github.com/pastagang/nudel) together.
 - we're building more things like [spag](https://github.com/pastagang/spag) on our [github](https://github.com/pastagang).
-- we're writing a [paper](https://github.com/pastagang/pastagang/edit/main/paper/readme.md)
-- we're starting a [blog](https://github.com/pastagang/pastagang/edit/main/blog/let-code-die/readme.md)
+- we're writing a [paper](https://github.com/pastagang/pastagang/blob/main/paper/readme.md)
+- we're starting a [blog](https://github.com/pastagang/pastagang/blob/main/blog/let-code-die/readme.md)
 - we gather youtube recordings on our [playlist](https://www.youtube.com/playlist?list=PL9uRa69RF-7wOS5CnK0wy34t5HYgFLIng)
 
 you are invited to join all of these.\
