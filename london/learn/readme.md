@@ -21,6 +21,7 @@ Or if you have anything to add or edit, please [go for it](https://github.com/pa
 ## Tips
 
 - In live coding, mistakes are embraced and encouraged and normal. They happen all the time during live sets and it's totally okay. Don't be afraid of making mistakes. 
-- There are no stupid questions. Questions are great and live coders love answering them. And it helps the community if you ask them. 
+- There are no stupid questions. Questions are great and live coders love answering them. And it helps the community if you ask them.
+- You don't need to learn everything to make good stuff. Learn like 4 or 5 tricks, and then play with them together in different combinations. That's enough to do a load of interesting stuff! You can learn some more stuff later if you like but you don't gotta know much to make good music/visuals!
 
 WELCOME TO THE LIVE CODING WORLD
