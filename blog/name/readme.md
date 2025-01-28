@@ -1,6 +1,6 @@
 # why it's called pastagang
 
-partway through the first jamming session, I stopped to go cook some dinner. so I stopped jamming and started boiling some pasta.
+partway through the first jamming session, I stopped to go cook some dinner. so I stopped jamming and I started boiling pasta.
 
 I brought my laptop to the kitchen and left pastagang running in the background to give me some background music. and i typed into the editor something like "making some pasta"
 
