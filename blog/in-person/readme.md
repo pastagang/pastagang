@@ -15,6 +15,8 @@ over the last few days i've been mulling this over... i think there are load of 
 - keeping the spirit of the jam. keeping it collaborative.
 - avoiding complete unpleasant chaos.
 
+<br>
+
 ## ideas
 
 - three to four laptops at the front? four people start up there, but invite others to come and "have a turn" at times. get vocal samples from randomers.
@@ -33,6 +35,8 @@ over the last few days i've been mulling this over... i think there are load of 
 - maybe we should have different "marketing" for local-only: lasagnajam (with a "by #pastagang"). That comes from a place that might be too gatekeeping for pastagang actually.
    - thinking about it more: yes, why shouldn't it be pastagang. But I still like "lasangajam" as a name for something haha
       - an emergency "lasagne mode" might be a good backup to be honest 
+
+<br>
 
 ## reactions
 
