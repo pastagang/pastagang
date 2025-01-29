@@ -35,4 +35,5 @@ i'll try to list out some more ideas later but... it could be anything like thes
 
 (insert your thoughts here or anywhere on this page)
 
+to edit this page, [click here](https://github.com/pastagang/pastagang/edit/main/blog/in-person/readme.md)
 
