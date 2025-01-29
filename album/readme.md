@@ -1,6 +1,6 @@
-# Pastagang Tunes
+# strudel pattern collection
 
-As of 29.01.2025, these are all tunes that have been shared to strudel.cc containing the word "pastagang":
+As of 29.01.2025, these are all patterns that have been shared to strudel.cc containing the word "pastagang":
 
 - <https://strudel.cc/?dBmeEeGNrzCm>
 - <https://strudel.cc/?Nz47-yXCsC2g>
