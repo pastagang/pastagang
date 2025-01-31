@@ -15,7 +15,7 @@ posts can be incomplete and updated/enhanced/deleted from time to time
 here are some posts
 
 - [let code die](/blog/let-code-die)
-- [origins of "let code die"](/blog/let-code-die)
+- [origins of "let code die"](/blog/let-code-die/origins)
 - [why it's called "pastagang"](/blog/name)
 - [how to learn live coding](/london/learn)
 
