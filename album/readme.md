@@ -103,7 +103,7 @@ As of 29.01.2025, these are all patterns that have been shared to strudel.cc con
 - <https://strudel.cc/?gVJMW8RwLPJX> // "shaving clouds"
 - <https://strudel.cc/?iBV1Q2nLgoId> // "shaving clouds"
 - <https://strudel.cc/?7i7oWq95AK1T> // "tell yourself"
-- <https://strudel.cc/?W3UUn78Glsbn>
+- <https://strudel.cc/?W3UUn78Glsbn> // "leaders"
 - <https://strudel.cc/?tH2ogo7Kn3Sv> // "arrhythm"
 - <https://strudel.cc/?fEPl2wU6ssg2> // mad montuno
 - <https://strudel.cc/?bl8mqsbnPLUt> // numb ears
@@ -125,4 +125,4 @@ As of 29.01.2025, these are all patterns that have been shared to strudel.cc con
 - <https://strudel.cc/?VPnaZcaA_CNw> // "hell yeah"
 - <https://strudel.cc/?CuvcPJRkYlvO> // "my first jam"
 - <https://strudel.cc/?02ihJLBk3xqO> // "happy pride month"
-- <https://strudel.cc/?kCSz7EDbSLW9>
+- <https://strudel.cc/?kCSz7EDbSLW9> // "fuck"
