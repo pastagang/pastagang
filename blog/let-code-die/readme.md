@@ -1,3 +1,4 @@
+[pastagang blog](/blog)
 
 # Let code die 
 
