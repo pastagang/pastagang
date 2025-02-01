@@ -1,3 +1,5 @@
+[pastagang blog](/blog)
+
 &lt;insert blog post about abandoning hierarchies here>
 
 # hierarchy
