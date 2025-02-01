@@ -1,1 +1,1 @@
-&lt:insert blog post about abandoning hierarchies here>
+&lt;insert blog post about abandoning hierarchies here>
