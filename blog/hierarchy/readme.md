@@ -15,8 +15,8 @@ in simple terms it increases if you have more and decreases if you have less.  \
 which leads to abuses, because human fallibility.  \
 in short, it's not a great idea to encourage that.
 
-but wait, I have no power so I can't reasonably be exoected to worry about it increasing without bounds?  \
-no. well, faie enough.
+but wait, I have no power so I can't reasonably be expected to worry about it increasing without bounds?  \
+no. well, fair enough.
 
 but
 
