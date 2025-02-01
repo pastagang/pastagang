@@ -49,7 +49,7 @@ do(live coding)
 abandon hierachy  \
 abandon comparison
 
-# oh come on &lt;insert favourite artiist> is really the best
+# oh come on &lt;insert favourite artist> is really the best
 
 ok. that's really ok.  \
 "this is the best thing EVER" is an ok thing to say. i hear you, I feel you.
