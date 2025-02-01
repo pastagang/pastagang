@@ -1,3 +1,5 @@
+[pastagang blog](/blog)
+
 # in person pastagang performance
 
 on the 9th april, pastagang will have a long slot at the London algorave.
