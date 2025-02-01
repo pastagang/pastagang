@@ -1,3 +1,5 @@
+[pastagang blog](/blog)
+
 # Origins of "Let code die" 
 
 "let code die" is a recurring mantra that the [pastagang](https://pastagang.cc) group has picked up and run with
