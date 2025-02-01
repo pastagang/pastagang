@@ -1,3 +1,5 @@
+[pastagang blog](/blog)
+
 # why it's called pastagang
 
 partway through the first jamming session, I stopped to go cook some dinner.
