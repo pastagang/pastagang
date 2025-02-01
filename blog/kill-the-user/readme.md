@@ -1,3 +1,5 @@
+[pastagang blog](/blog)
+
 # Kill the "User": Musings of a disillusioned technologist 
 
 Unrestrained, raw technological possibilities are scary. That it is why it is the duty of the corporation to package, sanitise, file down and finish with a coat of beige (or the current Pantone colour of the year, if we're being extra fruity), lest "users" hold them in the wrong way. 
