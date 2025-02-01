@@ -11,7 +11,7 @@ right?  \
 (edit if not true)
 
 why would we want to abandon that?  \
-well, power has problems. it acretes.  \
+well, power has problems. it accretes.  \
 that is to say it compounds.  \
 in simple terms it increases if you have more and decreases if you have less.  \
 which leads to abuses, because human fallibility.  \
@@ -28,7 +28,7 @@ community. creativity. amazing audio and visual experiences.
 
 what happens if we place them in a hierarchy?
 
-power acretes.
+power accretes.
 
 wait, what?
 
@@ -56,7 +56,7 @@ ok. that's really ok.  \
 
 but remember.
 
-power acretes
+power accretes
 
 # one other thing
 
