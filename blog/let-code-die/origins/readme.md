@@ -60,13 +60,13 @@ i guess the problem is that we rely on heaps and heaps and stacks and stacks of 
 
 todo
 
-https://tadiweb.com
+[https://tadiweb.com](https://tadiweb.com)
 
 ## embrace death
 
 todo
 
-https://www.youtube.com/watch?v=ft6xOAijwFo
+[Death of the tadi web presentation (youtube)](https://www.youtube.com/watch?v=ft6xOAijwFo)
 
 ## let code die
 
