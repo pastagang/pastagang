@@ -19,6 +19,7 @@ here are some posts
 - [why it's called "pastagang"](/blog/name)
 - [how to learn live coding](/london/learn)
 - [kill the user](/blog/kill-the-user)
+- [hierarchy](/blog/hierarchy)
 
 ---
 
