@@ -2,7 +2,7 @@
 
 pastagang is a creative group that anyone can join
 
-we tend to hop into the same collaborative environment at unplanned times. you are welcome to join any time you want!
+we tend to hop into the same collaborative environment at unplanned times. you are welcome to [join](https://nudel.cc) any time you want!
 
 ## how to join the jam
 
@@ -20,10 +20,10 @@ and there's a tool for uploading files too (eg: for samples, images)
 
 we're jamming in other ways now too.
 
+- we're writing a [blog](/blog)!
 - we're building [nudel](https://github.com/pastagang/nudel) together.
 - we're building more things like [spag](https://github.com/pastagang/spag) on our [github](https://github.com/pastagang).
 - we're writing a [paper](https://github.com/pastagang/pastagang/blob/main/paper/readme.md)
-- we're starting a [blog](https://github.com/pastagang/pastagang/blob/main/blog/let-code-die/readme.md)
 - we gather youtube recordings on our [playlist](https://www.youtube.com/playlist?list=PL9uRa69RF-7wOS5CnK0wy34t5HYgFLIng)
 
 you are invited to join all of these.\
@@ -37,6 +37,7 @@ here are some other pastagang things people have made
 
 - [midirus's remixes](https://midirus.com/project/pastagang)
 - [todepond's ongoing writeup](https://www.todepond.com/wikiblogarden/learn/pastagang/accident/arroost/)
+- [v's writeup of "let code die"](https://blog.vbuckenham.com/let-code-die/)
 
 ## contact
 
@@ -49,6 +50,6 @@ here are some ways of contacting pastagang:
 
 we have a [code of conduct](/CODE_OF_CONDUCT.md) that we expect everyone to follow. it's adapted from the algorave code of conduct.
 
-## how to join
+## how to join pastagang
 
 by reading this, you've already joined. welcome to pastagang 🍝
