@@ -2,20 +2,20 @@
 
 # hierarchy
 
-the notion that people or things can be ordered.  
-ordered by power. (the archy part)  
-also can mean ordered by priority, or worth.
-right?  
+the notion that people or things can be ordered.\
+ordered by power. (the archy part)  \
+also can mean ordered by priority, or worth.\
+right?  \
 (edit if not true)
 
-why would we want to abandon that?  
-well, power has problems. it acretes.  
-that is to say it compounds.  
-in simple terms it increases if you have more and decreases if you have less.  
-which leads to abuses, because human fallibility.  
+why would we want to abandon that?  \
+well, power has problems. it acretes.  \
+that is to say it compounds.  \
+in simple terms it increases if you have more and decreases if you have less.  \
+which leads to abuses, because human fallibility.  \
 in short, it's not a great idea to encourage that.
 
-but wait, I have no power so I can't reasonably be exoected to worry about it increasing without bounds?  
+but wait, I have no power so I can't reasonably be exoected to worry about it increasing without bounds?  \
 no. well, faie enough.
 
 but
@@ -30,26 +30,26 @@ power acretes.
 
 wait, what?
 
-if something is 'the best'.  
-then something is 'the worst'  
+if something is 'the best'.  \
+then something is 'the worst'  \
 something is in the middle somewhere.
 
-someone has just started. are they going to be the best? probably not.  
-could they be 'as good' as the best?  
+someone has just started. are they going to be the best? probably not.  \
+could they be 'as good' as the best?  \
 probably yes.
 
-so maybe. instead of:  
+so maybe. instead of:  \
 sort(live coding)
 
-we could just  
+we could just  \
 do(live coding)
 
-abandon hierachy  
+abandon hierachy  \
 abandon comparison
 
 # oh come on &lt;insert favourite artiist> is really the best
 
-ok. that's really ok.  
+ok. that's really ok.  \
 "this is the best thing EVER" is an ok thing to say. i hear you, I feel you.
 
 but remember.
@@ -60,12 +60,12 @@ power acretes
 
 rivalry, wanting to do better, pushing yourself and others. they're all ok. we're fallible humans after all.
 
-but remember. it's a double edged sword.  
-be careful.  
+but remember. it's a double edged sword.  \
+be careful.  \
 be human
 
-we collaborate far more than we compete.  
-thats what phrases like "global supply chain" mean.  
+we collaborate far more than we compete.  \
+thats what phrases like "global supply chain" mean.  \
 thousands and thousands (actually billions) of tiny little humans working together across time and the planet.
 
 lets work together.
