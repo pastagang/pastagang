@@ -43,7 +43,8 @@ this blog post is an attempt to wake people up about this, on behalf of all thos
 - [ ] add the ability to reload strudel and/or hydra within nudel without needing to reload the entire page
 - [ ] add more "performance" settings such as turning off jammer's cursors, and changing frame rate. 
 - [ ] measure and audit and write up what's slowing things down right now
-- [x] write a blog post to convince people to care about this 
+- [x] write a blog post to convince people to care about this
+- [ ] collecting timestamps of crashes could give us a better idea of why crashes happen
 
 <br>
 
