@@ -20,6 +20,7 @@ here are some posts
 - [how to learn live coding](/london/learn)
 - [kill the user](/blog/kill-the-user)
 - [hierarchy](/blog/hierarchy)
+- [performance](/blog/performance)
 
 ---
 
