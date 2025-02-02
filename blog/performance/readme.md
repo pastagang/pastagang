@@ -49,6 +49,6 @@ this blog post is an attempt to wake people up about this, on behalf of all thos
 
 <br>
 
-this blog post was written by pastagang in [two beat style](https://www.todepond.com/wikiblogarden/academia/style/two-beat) to keep it simple enough for all of us. all words longer than two beats were put in quotes
+this blog post was written by pastagang in [two beat style](https://www.todepond.com/wikiblogarden/academia/style/two-beat) to keep it simple enough. all words longer than two beats were put in quotes
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/29KLkK0Vlw0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
