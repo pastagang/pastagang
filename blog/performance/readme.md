@@ -34,7 +34,7 @@ this blog post is an attempt to wake people up about this, on behalf of all thos
 
 (tick when done and/or add new items to the list)
 
-- [ ] write a guide on getting nudel and flok to work well on slower machines
+- [ ] write a guide on getting nudel and flok to work well on slower machines. eg: choosing the right settings, switching clients if it helps
 - [ ] write a guide on best practice around writing "performant" jam code. like "clip(1)" and so on... keywords/functions could be colour coded to show how much "performance" they suck up
 - [ ] port all "performance" settings from flok to nudel
 - [ ] make a new flok client that aims for "performance" above all else. 
