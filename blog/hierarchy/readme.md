@@ -88,20 +88,14 @@ thanks
 
 # edit
 
-it has come to our attention that  
-this  
-[![alsoknownasrox](https://img.youtube.com/vi/dv6CRB7a7Qo/maxresdefault.jpg)](https://youtu.be/dv6CRB7a7Qo)
-[link](https://youtube.com/watch?v=dv6CRB7a7Qo)  
+this is the best live coding performance ever.
 
-that  
-is the best live coding performance ever.  
-so we were wrong  
-apologies  
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dv6CRB7a7Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
-but really, watch the video  
-the whole way through  
+so we were wrong
 
-but still  
-apart from that performance  
+but apart from that performance, abandon hierarchy  
 
-abandon hierarchy  
+<br>
+
+this blog post was written by [pastagang](/)
