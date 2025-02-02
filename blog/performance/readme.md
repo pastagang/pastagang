@@ -41,7 +41,10 @@ this blog post is an attempt to wake people up about this, on behalf of all thos
 - [ ] add a clear "performance" settings section to nudel with helpful defaults and presets to pick from
 - [ ] add "performance" tracking to nudel that gives warnings when it gets bad
 - [ ] add the ability to reload strudel and/or hydra within nudel without needing to reload the entire page
-- [ ] add more "performance" settings such as turning off jammer's cursors, and changing frame rate. 
+- [ ] add more "performance" settings such as
+  - [ ] turning off jammer's cursors
+  - [ ] changing frame rate.
+  - [x] turning off strudel highlights
 - [ ] measure and audit and write up what's slowing things down right now
 - [x] write a blog post to convince people to care about this
 - [ ] collect timestamps of slowdowns. it could give us a better idea of why they happen
