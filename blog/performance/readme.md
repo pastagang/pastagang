@@ -38,7 +38,8 @@ this blog post is an attempt to wake people up about this, on behalf of all thos
 - [ ] write a guide on best practice around writing "performant" jam code. like "clip(1)" and so on... keywords/functions could be colour coded to show how much "performance" they suck up
 - [ ] port all "performance" settings from flok to nudel
 - [ ] make a new flok client that aims for "performance" above all else.
-- [ ] add a clear "performance" settings section to nudel with helpful defaults and presets to pick from
+- [x] add a clear "performance" settings section to nudel
+- [ ] add helpful defaults and presets to pick from
 - [ ] add "performance" tracking to nudel that gives warnings when it gets bad
 - [ ] add the ability to reload strudel and/or hydra within nudel without needing to reload the entire page
 - [ ] add more "performance" settings such as
@@ -65,6 +66,7 @@ there's a huge stack to deal with here (layers of software) which is prob a big 
   - browser dev tools -> performance tab -> press record while playing -> press stop after a few seconds -> information overload
 - is wasm used for anything at the moment? can it be used in any of the bottle necks?
   - no not used. we don't really know the bottlenecks yet. wasm might or might not help. might also get difficult depending on what is ported to a language that compiles to wasm. i've done a few experiments with assemblyscript, but the performance was actually worse in my (rough) tests: <https://garten.salat.dev/wasm/wasm-worklet.html>
+    - one downside of wasm is it becomes less tinker friendly as it involves a build step. might be worth it though
 - can we compile anything else? we might be able to eliminate things like repeated multiplication in the web audio api for example
   - that's basically one goal of kabelsalat, which tries to replace the web audio graph with a custom (compiled) graph. still not at a point where it can spawn graphs
 - which slows the machine down more - hydra or strudel or?
@@ -73,10 +75,13 @@ there's a huge stack to deal with here (layers of software) which is prob a big 
   - yes, unless you disable strudel/hydra in the settings
 - at the cost of some latency, could audio be streamed out from each machine so they only have to run part of it?
   - sounds complicated, generally i like the simplicity of sending text around
+    - I've done some livestreams with it a bit recently and i do wonder how much that can be a good backup for hearing noises or seeing visuals. at the London meetup we talked about setting up a pastagang radio or something [here](https://compute.radio/)
 - or could the audio be computed on the server and streamed to each person?
   - theoretically yes, but we can't run strudel as is on the server. also, simplicity of sending text around is kind of neat
+    - see radio note above :)
 - or for in-person collabs, an option for one machine to do the computation (by switching off making sound in other machines?)
   - that already works, by disabling strudel / hydra in the settings. you can still send code from any pane
+    - yes we should remember to do this at meetups! it could be added to the guide(s) mentioned in the task list. side note: is it possible to display strudel highlights but *not* do any audio stuff. could be good for that use case.
 - in the long term, could a single binary be made to run the fastest part of the sound engine which is sent midi, osc or json "messages" by nudel/flok? it would be something to install, but should be fairly painless. ask Daniel he might have a sound engine somewhere that could do this... or people could use supercollider if that is installed already
   - yeah that's the idea of superdirt, which is tidal's audio engine. the installation is not super easy tho + local setups can differ
 
@@ -84,3 +89,4 @@ while this might all sound a bit "pessimistic", i think there is plenty of room 
 
 - optimize what is there -> start with lowest hanging fruits that improve the experience. for example, we've noticed in the strudel repl that simple css animations might make a huge difference on slow hardware. simply disabling animation improved things alot (thinking of you marquee). i think this is what we should do first to see how far we get.
 - write a custom solution, tailored to the problem of spawning audio graphs. there is not a lot in the web landscape that works like that. see <https://github.com/tidalcycles/strudel/discussions/64> for a list of candidates. most audio engines work in a way that you declare your devices/graphs/instances beforehand and then send messages to them to make sound. this is not how tidal/strudel works. here, each event is a separate instance, so you can have full polyphony of effects (think two different filters on 2 overlapping notes etc..). the initial motivation behind kabelsalat was that it could become a custom engine for strudel, so in a way i'm already on that path since last summer.
+  - another note on optimism vs pessimism: I'm confident we can make it way way way faster. i live for this stuff too. we're only just getting started with this mass collaboration use case
