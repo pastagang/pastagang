@@ -76,12 +76,14 @@ there's a huge stack to deal with here (layers of software) which is prob a big 
 - at the cost of some latency, could audio be streamed out from each machine so they only have to run part of it?
   - sounds complicated, generally i like the simplicity of sending text around
     - I've done some livestreams with it a bit recently and i do wonder how much that can be a good backup for hearing noises or seeing visuals. at the London meetup we talked about setting up a pastagang radio or something [here](https://compute.radio/)
+      - that would be super cool
 - or could the audio be computed on the server and streamed to each person?
   - theoretically yes, but we can't run strudel as is on the server. also, simplicity of sending text around is kind of neat
     - see radio note above :)
 - or for in-person collabs, an option for one machine to do the computation (by switching off making sound in other machines?)
   - that already works, by disabling strudel / hydra in the settings. you can still send code from any pane
     - yes we should remember to do this at meetups! it could be added to the guide(s) mentioned in the task list. side note: is it possible to display strudel highlights but *not* do any audio stuff. could be good for that use case.
+      - yeah! good communication can help a lot here. rn, the highlights will also be disabled, because strudel won't do anything, but in theory we could only disable superdough, so web audio won't do a thing, but strudel will still query each frame for highlighting. we still then have the issue that we don't have sync, which is mostly an issue in a local setting (highlights won't match sound)
 - in the long term, could a single binary be made to run the fastest part of the sound engine which is sent midi, osc or json "messages" by nudel/flok? it would be something to install, but should be fairly painless. ask Daniel he might have a sound engine somewhere that could do this... or people could use supercollider if that is installed already
   - yeah that's the idea of superdirt, which is tidal's audio engine. the installation is not super easy tho + local setups can differ
 
