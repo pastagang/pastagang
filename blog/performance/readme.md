@@ -92,3 +92,22 @@ while this might all sound a bit "pessimistic", i think there is plenty of room 
 - optimize what is there -> start with lowest hanging fruits that improve the experience. for example, we've noticed in the strudel repl that simple css animations might make a huge difference on slow hardware. simply disabling animation improved things alot (thinking of you marquee). i think this is what we should do first to see how far we get.
 - write a custom solution, tailored to the problem of spawning audio graphs. there is not a lot in the web landscape that works like that. see <https://github.com/tidalcycles/strudel/discussions/64> for a list of candidates. most audio engines work in a way that you declare your devices/graphs/instances beforehand and then send messages to them to make sound. this is not how tidal/strudel works. here, each event is a separate instance, so you can have full polyphony of effects (think two different filters on 2 overlapping notes etc..). the initial motivation behind kabelsalat was that it could become a custom engine for strudel, so in a way i'm already on that path since last summer.
   - another note on optimism vs pessimism: I'm confident we can make it way way way faster. i live for this stuff too. we're only just getting started with this mass collaboration use case
+
+## so far
+(edit if not true) (add also)
+
+1. target low hanging fruit;
+   - css settings
+   - other browser mischief
+   - useful defaults
+   - visual aids to performer
+   - other js and worklet optimisations?
+3. investigation, measuring to find hotspots/bottlenecks
+   - dev tools performance tab
+   - repeatable benchmark patches
+   - some kind of profiling tool or
+   - dtrace/ebpf??
+5. developing custom approaches
+   - compiling audio graphs (kabelsalat?)
+   - wasm/assemblyscript?
+   - external binaries?
