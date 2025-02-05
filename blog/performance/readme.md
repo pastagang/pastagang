@@ -92,3 +92,43 @@ while this might all sound a bit "pessimistic", i think there is plenty of room 
 - optimize what is there -> start with lowest hanging fruits that improve the experience. for example, we've noticed in the strudel repl that simple css animations might make a huge difference on slow hardware. simply disabling animation improved things alot (thinking of you marquee). i think this is what we should do first to see how far we get.
 - write a custom solution, tailored to the problem of spawning audio graphs. there is not a lot in the web landscape that works like that. see <https://github.com/tidalcycles/strudel/discussions/64> for a list of candidates. most audio engines work in a way that you declare your devices/graphs/instances beforehand and then send messages to them to make sound. this is not how tidal/strudel works. here, each event is a separate instance, so you can have full polyphony of effects (think two different filters on 2 overlapping notes etc..). the initial motivation behind kabelsalat was that it could become a custom engine for strudel, so in a way i'm already on that path since last summer.
   - another note on optimism vs pessimism: I'm confident we can make it way way way faster. i live for this stuff too. we're only just getting started with this mass collaboration use case
+
+## long lived flok sessions
+
+we've discovered that performance degrades with a longer lived flok session.
+this is one important aspect of pastagang: having a single room for everybody.
+the "pastagang" room was used first on december 30 2024 on [todepond.cool/flok](https://github.com/pastagang/dotcool/commit/5ac01e3f8eb203dcbece11119c1038c150e857d4) and one day later on [nudel](https://github.com/pastagang/nudel/commit/f8b21cc8eac70c3b04dc5762b54f3fb82cd66269#diff-27653c212e1cfe533e4eb2f7d0d3f89604c9de48a09583b4cbbbcbd08a07da79L89).
+at the time of this writing (feb 5 2025), the room is now over 2 months in (heavy) use.
+people have noticed things got slower when more people were in the same room.
+in particular, the syncing of the cursor movement seemed to be connected to it.
+even with only 2 people in a room, you could hold down the arrow keys to race through the code on one machine,
+to slow down the browser of another. the slowdown was most noticeable in the strudel clock, which missed events during cursor movement.
+we've tried turning off most features (no hydra, no strudel highlighting, no shaders, no kabelsalat), but still cursor movement was causing strudel clock callbacks to get delayed. the same phenomenon could be observed in both nudel and on flok.cc/s/pastagang.
+the slowdown didn't happen anymore in a new room. this is why nudel now uses the pastagang2 room since today.
+
+we haven't fully understood why exactly this happens but, it has to be related to yjs and its "crdt" algorithm, which is used to sync people in a session. it seems that the longer a session lasts, the more memory is used for the editor history.
+i'm still not sure how exactly the storage of the session state is working, but one piece of the puzzle in the browser's local indexDB.
+you can look up how big your indexDB is in the browser developer tools, (in chromium) going to application -> Storage.
+for me, it was around 5MB. i wanted to actually look at the data, but it seems the ui didn't let me see all of it, so i found out how to log it from the browser console:
+
+```js
+indexedDB.open("pastagang").onsuccess = function (event) {
+  const db = event.target.result;
+  const transaction = db.transaction("updates", "readonly");
+  const store = transaction.objectStore("updates");
+  const request = store.getAll();
+  request.onsuccess = () => console.log(JSON.stringify(request.result).length);
+  db.close();
+};
+```
+
+the size i'm getting for this json is 48027941 characters, which is around 48MB!
+this is a lot, and seems plausible to have caused slowdowns.
+i even get dropped events when running this code in the console, because it takes so long to complete.
+when i run the same with `pastagang2`, i get a json of 195934, which is only 0.4% of the size.
+this means, we have to switch rooms regularly to preserver performance.
+there might be a fix that doesn't involve manual labor, although changing the roomname once in a while is not a lot of maintenance.
+one idea by munshkr was that we could append a timestamp to the roomname.
+for example, we could use `pastagang-${Math.floor(Date.now() / (1000 * 60 * 60 * 24))}` to get a fresh room each 24 hours, or `pastagang-${Math.floor(Date.now() / (1000 * 60 * 60 * 24 * 7))}` to get a new one every week.
+lu had the idea to show a warning like "WARNING: JAM WILL BE PRUNED IN 60 SECONDS".
+of course, there might also be a fix on the yjs or flok side to somehow prune the history automatically.
