@@ -82,7 +82,7 @@ there's a huge stack to deal with here (layers of software) which is prob a big 
     - see radio note above :)
 - or for in-person collabs, an option for one machine to do the computation (by switching off making sound in other machines?)
   - that already works, by disabling strudel / hydra in the settings. you can still send code from any pane
-    - yes we should remember to do this at meetups! it could be added to the guide(s) mentioned in the task list. side note: is it possible to display strudel highlights but *not* do any audio stuff. could be good for that use case.
+    - yes we should remember to do this at meetups! it could be added to the guide(s) mentioned in the task list. side note: is it possible to display strudel highlights but _not_ do any audio stuff. could be good for that use case.
       - yeah! good communication can help a lot here. rn, the highlights will also be disabled, because strudel won't do anything, but in theory we could only disable superdough, so web audio won't do a thing, but strudel will still query each frame for highlighting. we still then have the issue that we don't have sync, which is mostly an issue in a local setting (highlights won't match sound)
 - in the long term, could a single binary be made to run the fastest part of the sound engine which is sent midi, osc or json "messages" by nudel/flok? it would be something to install, but should be fairly painless. ask Daniel he might have a sound engine somewhere that could do this... or people could use supercollider if that is installed already
   - yeah that's the idea of superdirt, which is tidal's audio engine. the installation is not super easy tho + local setups can differ
@@ -92,6 +92,26 @@ while this might all sound a bit "pessimistic", i think there is plenty of room 
 - optimize what is there -> start with lowest hanging fruits that improve the experience. for example, we've noticed in the strudel repl that simple css animations might make a huge difference on slow hardware. simply disabling animation improved things alot (thinking of you marquee). i think this is what we should do first to see how far we get.
 - write a custom solution, tailored to the problem of spawning audio graphs. there is not a lot in the web landscape that works like that. see <https://github.com/tidalcycles/strudel/discussions/64> for a list of candidates. most audio engines work in a way that you declare your devices/graphs/instances beforehand and then send messages to them to make sound. this is not how tidal/strudel works. here, each event is a separate instance, so you can have full polyphony of effects (think two different filters on 2 overlapping notes etc..). the initial motivation behind kabelsalat was that it could become a custom engine for strudel, so in a way i'm already on that path since last summer.
   - another note on optimism vs pessimism: I'm confident we can make it way way way faster. i live for this stuff too. we're only just getting started with this mass collaboration use case
+
+## so far
+
+(edit if not true) (add also)
+
+1. target low hanging fruit;
+   - css settings
+   - other browser mischief
+   - useful defaults
+   - visual aids to performer
+   - other js and worklet optimisations?
+2. investigation, measuring to find hotspots/bottlenecks
+   - dev tools performance tab
+   - repeatable benchmark patches
+   - some kind of profiling tool or
+   - dtrace/ebpf??
+3. developing custom approaches
+   - compiling audio graphs (kabelsalat?)
+   - wasm/assemblyscript?
+   - external binaries?
 
 ## long lived flok sessions
 

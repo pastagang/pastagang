@@ -9,8 +9,8 @@ we tend to hop into the same collaborative environment at unplanned times. you a
 there are some different tools that let you access our shared space. right now we're mostly using [nudel](https://nudel.cc). but you can join using any of these:
 
 - [nudel](https://nudel.cc)
-- [todepond.cool/flok](https://todepond.cool/flok)
-- [flok.cc/s/pastagang](https://flok.cc/s/pastagang)
+- [dotcool](https://todepond.cool/flok)
+- [flok](https://flok.cc/s/pastagang2)
 
 and there's a tool for uploading files too (eg: for samples, images)
 
