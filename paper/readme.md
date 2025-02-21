@@ -59,7 +59,7 @@ When you only see cursors jumping on the screen it can seem like they know exact
 The natural highs and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bun
 ch of people.
 
-# Accesing Art throug a new perspective
+# Accesing art through a new perspective
 
 As someone who has trouble visualizing most writen or spoken pictures (aphantasia [citation needed], a bit, not diagnosed and sometimes I can.), coding visuals gave me a new avenue to access artistic expressions that with traditional tools are always hard ta archive.
 
@@ -73,7 +73,7 @@ Pastagang has been one of the most ... of my life. ...
 
 For me, **jamming** means high levels of trust, listening and making space for others. I hope to take these skills into other areas of my life...
 
-## Untitled but might fit in previous section ... #feelings
+<br>
 
 The thing that I've noticed happens a lot in the collaborative space vs the solo space, and it's sparks of unexpected inspiration. You kind of know, more or less, what's coming when you're livecoding solo. But the moment you get a group dynamic you tend to react to the unexpected coming at you - it's generally a fairly slow burn because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece (and usually tweak it)... then you try to enjoy it for a while.
 
@@ -83,7 +83,7 @@ When I'm among familiar players, I like providing that unexpected dynamic on occ
 
 Sometimes, I run out of ideas/inspiration and don't know what to do with my code. My go to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio) for someone else to do something (which can reignite the spark in me again). When I'm solo I need to try and keep a constant stream of new ideas going which I often find difficult.
 
-With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [muse](https://en.wikipedia.org/wiki/Muse_(person)) but it's usually a two-way muse relationship, ie inspiring for both players.
+With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [muse](https://en.wikipedia.org/wiki/Muse_(person)) [todo: add reference] but it's usually a two-way muse relationship, ie inspiring for both players.
 
 I suspect this is all old news to most accomplished musicians, particularly jazz/improvisational based players - I wonder, does this serve to help validate livecoding as an instrument? Does it even need validation?
 
@@ -119,6 +119,8 @@ I love performing to an audience. I find it very exhilarating. But it can someti
 
 Link to that audiences paper[^audience]
 
+<br>
+
 # Sacrifice
 
 Everything we make gets attributed to "pastagang" rather than any individual(s).
@@ -149,19 +151,14 @@ Pastagang's approach to responsibility differs to the typical mindset of algorav
 
 In algorave, musicians take responsibility, but in pastagang, musicians relinquish responsibility — the jam claims your outputs as its own.
 
-## Pride
+The "death of the author" that goes on in pastagang does share some similarity with the algorave guidance[todo: add reference] that dissuades against having headliners at events. The focus is on the collective, rather than any individual. 
 
-todo
-
-## Surrealism
-
-todo
-- tigers eye
+Though pastagang takes this even further, to an approach more reminiscent of Tiger's Eye, a surrealist publication that did not list authors' names under specific works.[todo: add reference] Instead, they were all listed on the middle pages of the edition, in a way that individual works could not be routed back to individuals. The goal of this was to place emphasis on the works themselves, that ought to stand up on their own regardless of who made them. The same is true in pastagang: The emphasis is on the jam, not the names.
 
 ## Exquisite corpse
 
 todo
-- share activity, Long Distance, lead into feeling connected + present, which leads into the next section
+- shared activity, jamlike, Long Distance, lead into feeling connected + present, which leads into the next section [todo: add reference, "how to see an exquisite corpse"]
 
 # Presence
 
