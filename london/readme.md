@@ -34,7 +34,7 @@ Can you help maintain this list? [Edit this page](https://github.com/pastagang/p
 
 I'm trying to make this page future proof by only including central listings of events, rather than individual events, as that would become out of date very soon.
 
-If you're organising events in the London coding scene, I'd highly recommend having a central listing of your events somewhere to make our community more accessible to outsiders, even if that means having a single static page that you update. Bonus points if you can give out updates to people, so they don't have to keep manually checking. 
+If you're organising events in the London coding scene, I highly recommend having a central listing of your events somewhere to make our community more accessible to outsiders, even if that only means a single static page that you update. Bonus points if you can give out updates to people in some way, so they don't have to keep manually checking. 
 
 Thank you! 
 
