@@ -28,7 +28,7 @@ Wanna get involved in the London coding scene?
 
 <br>
 
-Can you help maintain this list? [Edit this page] right now! Or send Lu a public message on any social media site. They're @TodePond everywhere.
+Can you help maintain this list? [Edit this page](https://github.com/pastagang/pastagang/edit/main/london/readme.md) right now! Or send Lu a public message on any social media site. They're @TodePond everywhere.
 
 <br>
 
