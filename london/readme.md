@@ -36,6 +36,8 @@ I'm trying to make this page future proof by only including central listings of 
 
 If you're organising events in the London coding scene, I highly recommend having a central listing of your events somewhere to make our community more accessible to outsiders, even if that only means a single static page that you update. Bonus points if you can give out updates to people in some way, so they don't have to keep manually checking. 
 
+I'm also trying to keep this list to grassroots events only. ie: Events run by volunteers, not events run by companies. And only events you go to for the hell of it, not events to demo or pitch your startup or job project.
+
 Thank you! 
 
 <br>
