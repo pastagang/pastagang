@@ -10,7 +10,7 @@ One of the recurring mantras of [pastagang](https://pastagang.cc) is "bad code o
 
 Why would you write bad code on purpose? Why would you be [bad on purpose](https://www.todepond.com/wikiblogarden/shitpost)?
 
-Well, for a start it lowers the barrier to entry. By writing bad code, you make it more normal to write bad code, so the jam space becomes easier to become part of: Because it means you don't have to be good to fit in. You can be bad too!
+Well, for a start it lowers the barrier to entry. By writing bad code, you make it more normal to write bad code, so the jam space becomes easier to become part of: Because it means you don't have to be good to fit in.
 
 <br>
 
@@ -18,9 +18,9 @@ Well, for a start it lowers the barrier to entry. By writing bad code, you make 
 
 <br>
 
-Another reason is that whatever we perceive as "bad code" is usually more basic. "Good code" tends to be whatever is most impressive or complicated or "genius". Yes, good code is, by definition, hard to do, and bad code is easy.
+Another reason is that whatever we perceive as "bad code" is usually more basic. "Good code" tends to be whatever is most impressive or "genius" or hard. Yes, good code is, by definition, hard to do, and bad code is easy.
 
-By writing bad code, you are writing code that is easy to copy and replicate and understand and react to, and edit. Sometimes I see really "good" live coders enter something [nudel](https://nudel.cc) and I see them work away in their little corner and no one touches their code or goes near, because no one else is good enough to understand it.
+By writing bad code, you are writing code that is easy to copy and replicate and understand and react to, and edit. Sometimes I see really "good" live coders enter something like [nudel](https://nudel.cc) and I see them work away in their little corner and no one touches their code or goes near, because no one else is good enough to understand it.
 
 Maybe one day our definitions of "good" and "bad" will flip but this is currently what they are. 
 
@@ -30,7 +30,7 @@ Maybe one day our definitions of "good" and "bad" will flip but this is currentl
 
 <br>
 
-And finally, writing "bad code" is an act of rebellion. It means saying "no" to the norms that are imposed onto us. It's a rejection of values and a statement of something else, saying that what it is important to you is not what is important to us. 
+And finally, writing "bad code" is an act of rebellion. It means saying "no" to the cultural norms that are imposed onto us. It's a rejection of certain values and a statement of something else, saying that what it is important to you is not what is important to us. 
 
 "Kaleidescope is bad"?
 
