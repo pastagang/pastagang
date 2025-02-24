@@ -30,14 +30,24 @@ Maybe one day our definitions of "good" and "bad" will flip but this is currentl
 
 <br>
 
-And finally, writing "bad code" is an act of rebellion. It means saying "no" to the cultural norms that are imposed onto us. It's a rejection of certain values and a statement of something else, saying that what it is important to you is not what is important to us. 
+And finally, writing "bad code" is an act of rebellion. It means saying "no" to the cultural norms that are imposed onto us. It's a rejection of those values and a statement of something else, saying that what it is important to you is not what is important to us. 
 
 "Kaleidescope is bad"?
 
 I couldn't give a fuck. If you think being good or impressive is what we're trying to do here then you're wrong. 
 
-In my opinion, art isn't about being good or impressive or anything like that or whatever. Art is about communication! It's about expressing something to each other. It's about coming together! And community. And if the thing you're expressing with your art is that you're "good at it" then what does that say about your values / what's important to you. 
+In my opinion, art isn't about being good or impressive or anything like that or whatever. Art is about communication! It's about expressing something to each other. It's about coming together! And community. And if the thing that you're expressing with your art is that you're "good at it" then what does that say about your values / what's important to you?
 
 <br>
+
+<!--
+
+## Secret section for jammers
+
+Don't just write bad code. Write it proudly! And make it loud so that everyone knows it's okay. Chuck a "thanks yaxu" on the end to make it obvious.
+
+When something bad gets overdone, don't shy away. Push on further! Don't be a drag. Lower your standards and embrace it. Rediscover your childlike sense of wonder for the mundane. Let yourself go! Let go of what you know!
+
+-->
 
 This post was written by [pastagang](/blog). Everyone can [edit](https://github.com/pastagang/pastagang/edit/main/blog/bad-code-only/readme.md) this post.
