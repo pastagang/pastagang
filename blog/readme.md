@@ -22,6 +22,7 @@ here are some posts
 - [kill the user](/blog/kill-the-user)
 - [hierarchy](/blog/hierarchy)
 - [performance](/blog/performance)
+- [should i write a blog](/blog/should-i-write-a-blog)
 
 ---
 
