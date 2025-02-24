@@ -40,6 +40,4 @@ In my opinion, art isn't about being good or impressive or anything like that or
 
 <br>
 
-This post was written by [pastagang](/blog).
-
-Everyone can [edit] this post.
+This post was written by [pastagang](/blog). Everyone can [edit](https://github.com/pastagang/pastagang/edit/main/blog/bad-code-only/readme.md) this post.
