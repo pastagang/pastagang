@@ -1,9 +1,7 @@
 ### Hello
-
 I just found out about pastagang and I think it's extremely good. Here are some unordered thoughts I've had as I've been reading/learning about pastagang and while I was having a little jam earlier in [nudel.cc](nudel.cc)
 
 ### I
-
 But I'm not sure if I should be writing this. Everything is by pastagang, so is it okay to say "I"? I saw other people write "I" in their posts so I think it's okay to do this.
 
 Even though pastagang seems to be radically and genuinely open I feel like an imposter writing this blog post. Maybe you feel like an imposter too - from one imposter to another I think and hope it's okay to write something if you want to.
