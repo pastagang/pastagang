@@ -30,7 +30,7 @@ Maybe one day our definitions of "good" and "bad" will flip but this is currentl
 
 <br>
 
-And finally, writing "bad code" is an act of rebellion. It means saying "no" to the cultural norms that are imposed onto us. It's a rejection of those values and a statement of something else, saying that what it is important to you is not what is important to us. 
+And finally, writing "bad code" is an act of rebellion. It means saying "no" to the cultural norms that are imposed onto us. It's a rejection of those values and a statement of something else, saying that what is important to you is not what is important to us. 
 
 "Kaleidescope is bad"?
 
