@@ -10,7 +10,7 @@ Wanna get involved in the London coding scene?
   - [Luma](https://lu.ma/foclondon) (all events)
 - London Pattern Club
   - [Discord](https://discord.gg/YqDS4Kza3R)
-- Noughty fingers
+- Noughty Fingers
   - (can't find a central listing for events)
 - Creative Coding Book Club
   - [Luma](https://lu.ma/calendar/cal-l8dqsc8YHhI2Fbi) (all events)
