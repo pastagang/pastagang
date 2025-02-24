@@ -36,7 +36,7 @@ And finally, writing "bad code" is an act of rebellion. It means saying "no" to 
 
 I couldn't give a fuck. If you think being good or impressive is what we're trying to do here then you're wrong. 
 
-In my opinion, art isn't about being good or impressive or anything like that or whatever. Art is about communication! It's about expressing something to each other. It's about coming together as community. And if the thing that you're expressing with your art is that you're "good at it" then what does that say about your values / what's important to you?
+In my opinion, art isn't about being good or impressive or anything like that or whatever. Art is about communication! It's about coming together as community and expressing something to each other. And if the thing that you're expressing with your art is that you're "good at it" then what does that say about your values / what's important to you?
 
 <br>
 
