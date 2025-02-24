@@ -11,7 +11,7 @@ Wanna get involved in the London coding scene?
 - London Pattern Club
   - [Discord](https://discord.gg/YqDS4Kza3R)
 - Noughty Fingers
-  - (can't find a central listing for events)
+  - [Substack](https://substack.com/@noughtyfingers)
 - Creative Coding Book Club
   - [Luma](https://lu.ma/calendar/cal-l8dqsc8YHhI2Fbi) (all events)
   - [Website](https://creativecodingbook.club/)
