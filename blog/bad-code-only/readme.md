@@ -22,6 +22,8 @@ Another reason is that whatever we perceive as "bad code" is usually more basic.
 
 By writing bad code, you are writing code that is easy to copy and replicate and understand and react to, and edit. Sometimes I see really "good" live coders enter something like [nudel](https://nudel.cc) and I see them work away in their little corner and no one touches their code or goes near, because no one else is good enough to understand it.
 
+Maybe when bad code dies, we don't feel so sad about it.
+
 Maybe one day our definitions of "good" and "bad" will flip but this is currently what they are. 
 
 <br>
