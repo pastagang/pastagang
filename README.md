@@ -1,6 +1,8 @@
+![pastagang](/bag/pastagang.webp)
+
 [JAM](https://nudel.cc) | [BLOG](/blog)
 
-![pastagang](/bag/pastagang.webp)
+<br>
 
 pastagang is a creative group that anyone can join
 
