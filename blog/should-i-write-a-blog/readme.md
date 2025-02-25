@@ -28,3 +28,5 @@ Also going back to what I said earlier about the feeling of anonymity in pastaga
 
 ### Ok bye
 Maybe I should have sent an email or something instead of writing this post on what feels like someone else's blog (even though I know rationally that it's pastagang's blog and I am pastagang, I'm also irrationally imagining pastagang as a creepypasta type urban legend monster that is going to be mad at me for writing this).
+
+Another I: Hey, I am (as you are too now), a part of the "urban legend monster" that is pastagang, and I can assure you I am not mad. In fact, it's lovely too see people taking this space and making it their own, because I think this is what pastagang should be about.
