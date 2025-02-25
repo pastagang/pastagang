@@ -17,6 +17,8 @@ Wanna get involved in the London coding scene?
   - [Website](https://creativecodingbook.club/)
 - Creative Coding Crafts Space
   - [Discord](https://discord.gg/kxWFc5w2M3)
+- London Data Visualisation
+  - [Luma](https://lu.ma/londondatavis) (all events)
 
 <br>
 
@@ -34,11 +36,11 @@ Can you help maintain this list? [Edit this page](https://github.com/pastagang/p
 
 I'm trying to make this page future proof by only including central listings of events, rather than individual events, as that would become out of date very soon.
 
-If you're organising events in the London coding scene, I highly recommend having a central listing of your events somewhere to make our community more accessible to outsiders, even if that only means a single static page that you update. Bonus points if you can give out updates to people in some way, so they don't have to keep manually checking. 
+If you're organising events in the London coding scene, I highly recommend having a central listing of your events somewhere to make our community more accessible to outsiders, even if that only means a single static page that you update. Bonus points if you can give out updates to people in some way, so they don't have to keep manually checking.
 
 I'm also trying to keep this list to grassroots events only. ie: Events run by volunteers, not events run by companies. And only events you go to for the hell of it, not events to demo or pitch your startup or job project.
 
-Thank you! 
+Thank you!
 
 <br>
 
