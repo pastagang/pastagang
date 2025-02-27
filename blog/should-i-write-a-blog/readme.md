@@ -34,3 +34,6 @@ Another I: Hey, I am (as you are too now), a part of the "urban legend monster" 
 
 
 This post was written by [pastagang](/blog). Everyone can [edit](https://github.com/pastagang/pastagang/edit/main/blog/bad-code-only/readme.md) this post.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v6nF8sajcJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+
