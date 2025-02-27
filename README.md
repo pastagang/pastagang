@@ -1,6 +1,6 @@
 ![pastagang](/bag/pastagang.webp)
 
-[JAM](https://nudel.cc) | [BLOG](/blog)
+[JAM](https://nudel.cc) | [BLOG](/blog) | [PODCAST](/podcast)
 
 <br>
 
