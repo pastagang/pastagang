@@ -1,7 +1,7 @@
 Welcome to the pastagang blog.
 
 to add a new post, create a folder and drop a readme.md file in it.
-for example /name/readme.md will become https://www.pastagang.cc/blog/name/
+for example `blog/name/readme.md` will become `www.pastagang.cc/blog/name`
 
 (you'll need to add the folder and the readme.md file to the blog folder of the pastagang repository over at [github](https://github.com/pastagang/pastagang/tree/main/blog) - if you're not sure how to do that then [here are some instructions](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files))
 
