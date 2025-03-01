@@ -25,6 +25,7 @@ here are some posts
 - [performance](/blog/performance)
 - [should i write a blog](/blog/should-i-write-a-blog)
 - [bad code only](/blog/bad-code-only)
+- [thanks yaxu](/blog/thanks-yaxu)
 
 ---
 
