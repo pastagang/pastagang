@@ -31,7 +31,7 @@ But Yes, Alex sometimes shies away from / regrets being a role model / elder of 
 > 
 > I'm still getting my head around this, but it seems people sometimes have too much respect for their 'elders', to the point of paradoxically getting angry when their ideals/interests don't match their own. Really I want to discuss and explore making stuff without my opinions somehow having extra weight just because I've been around for longer. Again it's paradoxical that I'm not sure if this can make sense to earlier career people without coming across as arrogant.. But I just want to make mistakes, challenge assumptions and make space for alternatives while making broken music..
 
-In pastagang, lack of [hierarchy](https://www.pastagang.cc/blog/hierarchy/) seems important. But so does [making space](https://www.pastagang.cc/blog/let-code-die/). And it seems as if the pastagang community has made space for `thanking yaxu` every time we `jux(rev)`, just as yaxu has helped to make some space for all of us
+In pastagang, lack of [hierarchy](https://www.pastagang.cc/blog/hierarchy/) seems important. But so does [making space](https://www.pastagang.cc/blog/let-code-die/). And it seems as if the pastagang community has made space for `thanking yaxu` every time we `jux(rev)`, just as yaxu has made space for all of us
 
 <br>
 
