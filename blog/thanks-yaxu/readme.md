@@ -35,4 +35,4 @@ In pastagang, lack of [hierarchy](https://www.pastagang.cc/blog/hierarchy/) seem
 
 <br>
 
-this blog post was written by [pastagang](/). anyone can [edit] the blog post.
+this blog post was written by [pastagang](/). anyone can [edit](https://github.com/pastagang/pastagang/edit/main/blog/thanks-yaxu/readme.md) this blog post.
