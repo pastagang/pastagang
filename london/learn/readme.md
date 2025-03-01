@@ -10,6 +10,8 @@ Or if you have anything to add or edit, please [go for it](https://github.com/pa
 - To learn how to make visuals with [hydra](https://hydra.ojack.xyz), check out the [hydra docs](https://hydra.ojack.xyz/docs/).
 - Alex McLean made a great [video introduction to live coding](https://youtu.be/-QY2x6aZzqc?si=djIynwmZLAyUdRwy) (thanks yaxu)
 - Alex also made some [video tutorials](https://youtube.com/playlist?list=PL2lW1zNIIwj3bDkh-Y3LUGDuRcoUigoDs) for learning tidal (for making music) (thanks yaxu)
+- Lucy made a video for site gallery on [making music with Strudel](https://www.sitegallery.org/lucy-cheesman-make-music-through-live-coding/)
+- Antonio made a video for site gallery on [making visuals with Hydra](https://www.sitegallery.org/antonio-roberts-make-visuals-on-hydra/)
 
 ## Community
 
