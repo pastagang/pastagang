@@ -8,7 +8,7 @@ the only "problem" is that no one is in charge of pastagang so there's no one to
 
 HELLO - I'm organising a gig in Sheffield on 18th April... pastagang is invited to play... no idea how that works!!!
 
-here's a link with more info: [Sheffield Algorave](https://patternclub.org/events/algorave-sheffield/)
+here's a link with (a bit) more info: [Sheffield Algorave](https://patternclub.org/events/algorave-sheffield/)
 
 <br>
 
