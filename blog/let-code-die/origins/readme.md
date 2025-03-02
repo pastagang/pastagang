@@ -20,7 +20,7 @@ i wanted to participate in all three movements at the same time so i tried to fi
 
 in my opinion, the three movements don't say that code death is something to be avoided, but rather that it is something to be handled gracefully.
 
-you see, Software is a sort of executable knowledge, and just like unstable particles decaying over time, [knowledge has a half-life too]([url](https://en.wikipedia.org/wiki/Half-life_of_knowledge))!
+you see, Software is a sort of executable knowledge, and just like unstable particles decaying over time, [knowledge has a half-life too](https://en.wikipedia.org/wiki/Half-life_of_knowledge)!
 
 Should we [kill code with fire](https://www.goodreads.com/en/book/show/54716655-kill-it-with-fire)?
 
