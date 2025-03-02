@@ -8,7 +8,7 @@ the only "problem" is that no one is in charge of pastagang so there's no one to
 
 HELLO - I'm organising a gig in Sheffield on 18th April... pastagang is invited to play... no idea how that works!!!
 
-here's a link with more info: (insert link here)
+here's a link with more info: [Sheffield Algorave](https://patternclub.org/events/algorave-sheffield/)
 
 <br>
 
@@ -36,8 +36,9 @@ over the last few days i've been mulling this over... i think there are load of 
      - having done one algorave now, i think i should write up what we learned about this
 - set up chairs and things in different places in the room (or venue) and let any visitor connect and jam. but this could get very chaotic right? jamming with large numbers is quite hard. but maybe thats okay.
 - i feel like someone should give a little intro at the start. like "this is pastagang. anyone can join. there is no pasting or undo. advice: make room for someone else. if something needs doing, do it. if something doesnt need doing, dont do it. if something sounds good, let it shine. if something sounds bad let it die."
-   - lucy: pastagang manifesto? i am thinking of alex's generative manifesto but 'manifesto' doesn't feel very pastagang... but maybe more like pastagang welcome message - to invite/excite people rather than a set of rules.
+   - lucy: ~~pastagang manifesto? i am thinking of alex's generative manifesto but 'manifesto' doesn't feel very pastagang... but maybe more like~~ pastagang welcome message - to invite/excite people rather than a set of rules.
      - a lot more emphasis is put on "mantra" then "manifesto". this is largely rooted in [natural code](https://todepond.com/code), as a way of influencing people positively - but crucially, in a distributed way (bottom up, not top down)
+     - Yeeeeeees mantra is a lot more what I was thinking - thanks for sharing this idea! <3 your paper looks exciting, I will read it later
 - some occasional moments of silence could help to reset the madness. pause for silence. record some samples. and repeat - starting from scratch
 - QR code on screen for people to join with phone? hmm nah
 - mad idea: implement a way of letting people stream their cameras into the visuals. then lots of people at the venue could whip out phones or laptop cameras, and let the internet-connected people feel more present in the jam. this also centers the jam on the crowd, not the performers. as hopefullly.. there would be lots of footage of the crowd etc. i dunno
@@ -48,6 +49,7 @@ over the last few days i've been mulling this over... i think there are load of 
    - could be fun. i would love us to figure out a solution that doesnt need this tho. good vibes might be enough.
    - lucy: some pastagangers could volunteer for code pruning duties? could rotate this duty?
      - at one meetup, i felt like i did 10x more deleting them adding, and that felt like the right thing to do
+     - the same in TYPE i was the dedicated deleter, i think it's important to keep things on track and leave space for people do do stuff. I also think it takes a bit of confidence to go round deleting code (especially other people's!) so it can be hard for people who are new to the jam. maximalism is also good sometimes though - 20 drum beats!!! yeah!!!!!
 - maybe we should have different "marketing" for local-only: lasagnajam (with a "by #pastagang"). That comes from a place that might be too gatekeeping for pastagang actually.
    - thinking about it more: yes, why shouldn't it be pastagang. But I still like "lasangajam" as a name for something haha
       - an emergency "lasagne mode" might be a good backup to be honest
