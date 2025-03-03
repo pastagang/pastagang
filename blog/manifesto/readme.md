@@ -66,7 +66,9 @@ You might disagree with this blog post, or there may be some parts of it you thi
 
 ## Jam 
 
-one thing I do know is that you don't have to follow a manifesto or mantra to be part of pastagang. you're part of pastagang first, then you shape it. it doesn't shape you
+one thing I do know is that you don't have to follow a manifesto or mantra to be part of pastagang. you're part of pastagang first, then you shape it.
+
+it doesn't shape you!
 
 <br>
 
