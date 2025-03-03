@@ -20,6 +20,7 @@ here are some posts
 - [origins of "let code die"](/blog/let-code-die/origins)
 - [why it's called "pastagang"](/blog/name)
 - [how to learn live coding](/london/learn)
+- [in person](/blog/in-person)
 - [kill the user](/blog/kill-the-user)
 - [hierarchy](/blog/hierarchy)
 - [performance](/blog/performance)
