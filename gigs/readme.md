@@ -8,7 +8,7 @@
 
 ## Past
 
-- [Type Techno](https://toplap-ka.de/events/type-techno-2025-02-28), Karlsruhe, 28th February 20
+- [Type Techno](https://toplap-ka.de/events/type-techno-2025-02-28), Karlsruhe, 28th February 2025
 - [AlgoRhythms](https://lu.ma/z75ou3z0), London, 5th February 2025, [recorded](https://youtu.be/mKE-aMVR0E4)
 - [Solstice Stream](https://eulerroom.com/), Online, 20th December 2024, [recorded](https://youtu.be/VNqsIyCejOc?si=j1ZZoe_ziJj1_GaW)
 
