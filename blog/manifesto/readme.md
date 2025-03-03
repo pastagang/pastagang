@@ -75,8 +75,6 @@ one thing I do know is that you don't have to follow a manifesto or mantra to be
 
 it doesn't shape you!
 
-![brand crimes of pastagang](brand.png)
-
 <br>
 
 this manifesto was written by [pastagang](/)
