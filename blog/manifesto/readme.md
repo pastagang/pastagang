@@ -11,7 +11,7 @@ every now and then, an art movement makes a manifesto. for example:
 
 <br>
 
-These manifestos are prescriptive. They require you to obey if you want to be part of the gang:
+These manifestos tend to be prescriptive. They require you to obey if you want to be part of the gang:
 
 Breton excluded surrealists who did not join in with his idea of collective action. 
 
