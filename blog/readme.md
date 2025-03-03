@@ -26,6 +26,7 @@ here are some posts
 - [should i write a blog](/blog/should-i-write-a-blog)
 - [bad code only](/blog/bad-code-only)
 - [thanks yaxu](/blog/thanks-yaxu)
+- [manifesto](/blog/manifesto)
 
 ---
 
