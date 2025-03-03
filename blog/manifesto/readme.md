@@ -27,11 +27,9 @@ The [algorave guidlines](https://github.com/Algorave/guidelines/blob/master/READ
 
 Do you want to run an algorave? Great! Here are some tips that will help you be successful.
 
-Still, I have seen some people misunderstand this. They think that the guidance is restrictive, rather than an aid. Perhaps they are still stuck in the top-down mindset of the manifesto. Perhaps they even write [their own](https://mastodon.social/@fakedac/114048413663098460). After all, a manifesto is an expression of values, and shouldn't we express our values?
-
-Well, yes but—
-
 <br>
+
+Still, I have seen some people misunderstand this. They think that the guidance is restrictive, rather than an aid. Perhaps they are still stuck in the top-down mindset of the manifesto. Perhaps they even write [their own](https://mastodon.social/@fakedac/114048413663098460).
 
 Whether it's manifesto or guidance, it's usually top-down. It's the old-timers telling the new-comers what to do, because the old-timers think that they know better.
 
@@ -39,11 +37,11 @@ Whether it's manifesto or guidance, it's usually top-down. It's the old-timers t
 
 ## Mantra
 
-Instead of manifesto or guidance, pastagang has stuck to mantras.
+Instead of manifesto or guidance, pastagang has stuck to mantra.
 
 Mantras like "let code die" and "make space" and "bad code only" and "energy YES, quality NO" have been put forward and picked up by the jam, and eventually put down again. 
 
-No one's in charge of what gets picked up. It takes some initial enthusiasm from one or more people. but then it needs enough of the jam to accept it, otherwise it won't stick. It's not a top-down initiative. It's a sideways thing. 
+No one's in charge of what gets picked up. It takes some initial enthusiasm from one or more people. but then it needs enough of the jam to accept it, otherwise it won't stick. It's not a top-down thing. It's a sideways thing. 
 
 Or at least it should be. But it's hard to say that that's really the case. If a mantra gets put forward by someone who's been around for a while, it's more likely to be accepted, which is wrong.
 
@@ -53,9 +51,15 @@ Or at least it should be. But it's hard to say that that's really the case. If a
 
 <br>
 
-I think we should all be careful with new mantras. Any time a new mantra appears, we should all judge it for ourselves. We should understand it and dissect it and not just accept it because some old-timer said it
+I think we should all be careful about which mantras we do or don't accept. Any time a new mantra appears, we should all judge it for ourselves. We should understand it and dissect it and not just accept it because some old-timer said it. or not just reject it because it's from someone new
 
-Mantras can be bad. If the wrong mantra sinks in, it can be dangerous. For example "make america great again" is a very very bad mantra, causing lots and lots of trouble right now.
+Mantras can be good and Mantras can be bad. If the wrong mantra sinks in, it can be dangerous. For example "make america great again" is a very very bad mantra, causing lots and lots of trouble right now.
+
+But a good mantra can help us all. It can bring us closer together and make us do good things
+
+<br>
+
+<hr>
 
 <br>
 
@@ -70,6 +74,8 @@ You might disagree with this blog post, or there may be some parts of it you thi
 one thing I do know is that you don't have to follow a manifesto or mantra to be part of pastagang. you're part of pastagang first, then you shape it.
 
 it doesn't shape you!
+
+![brand crimes of pastagang](brand.png)
 
 <br>
 
