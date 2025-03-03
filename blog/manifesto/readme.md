@@ -60,7 +60,13 @@ Mantras can be bad. If the wrong mantra sinks in, it can be dangerous. For examp
 
 I think it takes continual effort to keep things hierarchy free, as it goes against some of our natural tendencies as humans. 
 
-You might disagree with this blog post, or there may be some parts of it you think are wrong. you don't have to explain yourself to me or anyone else. please delete it! you can delete my stuff. it's okay. it's all part of it. [edit this page by clicking here] 
+You might disagree with this blog post, or there may be some parts of it you think are wrong. you don't have to explain yourself to me or anyone else. please delete it! you can delete my stuff. it's okay. it's all part of it. [edit this page by clicking here](https://github.com/pastagang/pastagang/edit/main/blog/manifesto/readme.md)
+
+<br>
+
+## Jam 
+
+one thing I do know is that you don't have to follow a manifesto or mantra to be part of pastagang. you're part of pastagang first, then you shape it. it doesn't shape you
 
 <br>
 
