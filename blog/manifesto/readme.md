@@ -5,7 +5,7 @@ every now and then, an art movement makes a manifesto. for example:
 - Andre Breton's two and a half [surrealist manifestos](https://ia802807.us.archive.org/20/items/andrebretonmanifestoesofsurrealism/Andre%20Breton%20-%20Manifestoes%20of%20Surrealism.pdf), all highly overrated.
 - Yvon Goll's competing [surrealist manifesto](https://bluemountain.princeton.edu/bluemtn/cgi-bin/bluemtn?a=d&d=bmtnaaj19241001-01&e=-------en-20--1--txt-txIN-------#), a flop.
 - Art and Liberty's own manifesto for [degenerate art](https://www.tate.org.uk/tate-etc/issue-41-autumn-2017/surrealism-egypt-long-live-degenerate-art-clare-davies), inspired by Breton.
-- Ade Ward and Alex McLean's [generative manifesto](https://slab.org/2015/07/28/the-generative-manifesto-august-2000/), [dorky](https://post.lurk.org/@yaxu/114063778085438570).
+- Ade Ward and Alex McLean's [generative manifesto](https://slab.org/2015/07/28/the-generative-manifesto-august-2000/), dorky[^dorky].
 - TOPLAP's original [manifesto for music performance](https://tidalcycles.org/docs/around_tidal/toplap_manifesto/), still a draft.
 - (insert more manifestos here)
 
@@ -75,6 +75,6 @@ it doesn't shape you!
 
 this manifesto was written by [pastagang](/)
 
-
+[^dorky]: [Toot by Alex McLean, 2025](https://post.lurk.org/@yaxu/114063778085438570)
 
 
