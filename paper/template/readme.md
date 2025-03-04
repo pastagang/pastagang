@@ -54,11 +54,11 @@ Please upload videos to vimeo or youtube, and embed as shown. For example to emb
 
 Please also include captions numbering the video as a figure in italic, as shown before.
 
-{%youtube q5ObYqWIkyM %}
+youtube q5ObYqWIkyM 
 
 *Figure 2: Video - Ulaṭbānsi | Zigzagging by Handloom Futures, commissioned by the PENELOPE project*
 
-{%vimeo 699880166 %}
+vimeo 699880166 
 
 *Figure 3: Video - "Algorithms Are Thoughts, Chainsaws Are Tools" by Stephen Ramsay*
 
