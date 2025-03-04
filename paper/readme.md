@@ -1,4 +1,8 @@
-# Pastagang: A huddle of fusili getting silly with the beats B)
+# Pastagang: A huddle of fusilli
+
+Pasta Gang\
+*pastagang*\
+pastagang@groups.io
 
 ## Abstract
 
