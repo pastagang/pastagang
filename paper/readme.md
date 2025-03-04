@@ -169,6 +169,8 @@ The "death of the author" that goes on in pastagang does share some similarity w
 
 Though pastagang takes this even further, to an approach more reminiscent of Tiger's Eye, a surrealist publication that did not list authors' names under specific works.[todo: add reference] Instead, they were all listed on the middle pages of the edition, in a way that individual works could not be routed back to individuals. The goal of this was to place emphasis on the works themselves, that ought to stand up on their own regardless of who made them. The same is true in pastagang: The emphasis is on the jam, not the names.
 
+This paper is attributed only to "pastagang", not any individual, despite over 10 different people participating at my last count. I registered for [Algorithmic Pattern 2025](https://2025.algorithmicpattern.org/call-for-paper-contributions/) with the pastagang@groups.io email address. Others are invited to join the [mailing list](https://groups.io/g/pastagang) to read that email's inbox, and to speak to the organisers on behalf of pastagang.
+
 ## Exquisite corpse
 
 todo
