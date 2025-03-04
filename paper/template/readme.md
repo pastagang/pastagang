@@ -49,7 +49,8 @@ For longevity, it is best to upload the images to HedgeDoc, rather than add a li
 
 ## Including video material
 
-Please upload videos to vimeo or youtube, and embed as shown. For example to embed a youtube video `https://www.youtube.com/watch?v=q5ObYqWIkyM`, take the identifier in the website address `q5ObYqWIkyM` and place it in the youtube code <!--`{%youtube q5ObYqWIkyM %}` -->. Similarly a vimeo with address `https://vimeo.com/699880166` can be embedded with the code <!--`{%vimeo 699880166 %}` -->.
+Please upload videos to vimeo or youtube, and embed as shown. For example to embed a youtube video `https://www.youtube.com/watch?v=q5ObYqWIkyM`, take the identifier in the website address `q5ObYqWIkyM` and place it in the youtube code youtube q5ObYqWIkyM Similarly a vimeo with address `https://vimeo.com/699880166` can be embedded with the code %vimeo 699880166 %}`.
+<!-- recker: removed tags, because they failed to build -->
 
 Please also include captions numbering the video as a figure in italic, as shown before.
 
