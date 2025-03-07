@@ -26,7 +26,7 @@ we're jamming in other ways now too.
 
 - we're writing a [blog](/blog)!
 - we're building [nudel](https://github.com/pastagang/nudel) together.
-- we're building more things like [spag](https://github.com/pastagang/spag) on our [github](https://github.com/pastagang).
+- we're building more things like [spag](https://www.val.town/x/todepond/spag).
 - we're doing [gigs](/gigs).
 - we're writing a [paper](https://github.com/pastagang/pastagang/blob/main/paper/readme.md)
 - we gather youtube recordings on our [playlist](https://www.youtube.com/playlist?list=PL9uRa69RF-7wOS5CnK0wy34t5HYgFLIng)
