@@ -50,6 +50,7 @@ here are some ways of contacting pastagang:
 
 - post a message in the [jam space](https://nudel.cc)
 - post on mastodon with the [#pastagang hashtag](https://post.lurk.org/tags/pastagang)
+- post on mastodon mentioning the [@pastagang@a.gup.pe](https://a.gup.pe/u/pastagang) group
 
 ## code of conduct
 
