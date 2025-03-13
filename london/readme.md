@@ -4,14 +4,14 @@ Wanna get involved in the London coding scene?
   - [Luma](https://lu.ma/londonlivecoding) (meetups + jams)
   - [Resident Advisor](https://ra.co/promoters/143671) (raves)
   - [Discord](https://discord.gg/eVHd5e3fhJ)
+- Noughty Fingers
+  - [Resident Advisor](https://ra.co/promoters/150349) (all events)
 - London Creative Coding
   - [Luma](https://lu.ma/london-creative-coding) (all events)
 - London Future of Coding
   - [Luma](https://lu.ma/foclondon) (all events)
 - London Pattern Club
   - [Discord](https://discord.gg/YqDS4Kza3R)
-- Noughty Fingers
-  - [Substack](https://substack.com/@noughtyfingers)
 - Creative Coding Book Club
   - [Luma](https://lu.ma/calendar/cal-l8dqsc8YHhI2Fbi) (all events)
   - [Website](https://creativecodingbook.club/)
