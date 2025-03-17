@@ -8,7 +8,7 @@ different people and communities are doing different things with "pastagang" and
 
 ## attribution
 
-if we create something in a pastagang space, we tend to say that the creation is "by pastagang" and not by any of the individuals involved.
+if we create something in a pastagang space, we tend to say that the thing is "by pastagang" and not by any of the individuals involved.
 
 the blog and website are also "by pastagang", as is everything else that people make around it, like the [nudel](https://nudel.cc) tool itself.
 
