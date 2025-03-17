@@ -15,8 +15,9 @@ Wanna get involved in the London coding scene?
 - Creative Coding Book Club
   - [Luma](https://lu.ma/calendar/cal-l8dqsc8YHhI2Fbi) (all events)
   - [Website](https://creativecodingbook.club/)
-- Creative Coding Crafts Space
+- c3s: Creative Coding Crafts Space
   - [Discord](https://discord.gg/kxWFc5w2M3)
+  - [Website](https://www.creativecodingcrafts.space/)
 - London Data Visualisation
   - [Luma](https://lu.ma/londondatavis) (all events)
 
