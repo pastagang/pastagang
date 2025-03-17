@@ -78,7 +78,7 @@ I think that people are too obsessed with giving, taking and claiming credit. th
 
 live coding is not just "writing code". it is also "editing code" and "deleting code". in fact, "deleting code" is perhaps the *most* important part, as we have [previously discussed](/blog/let-code-die)
 
-by deleting some code, you create some negative space, which may contribute to the creation in some way. or it may make room for something else to grow. by having the insight or instinct or gut to delete some code, you are partly responsible for comes next.
+by deleting some code, you create some negative space, which may contribute to the creation in some way. or it may make room for something else to grow. by having the insight or instinct or gut to delete some code, you are partly responsible for what comes next.
 
 even if you come in and delete everything and leave / you could delete the whole thing / you could delete every line of code and do nothing else, and you would still be contributing to the jam. so even if you make something in nudel entirely from scratch, you were only able to do that because someone else deleted something.
 
