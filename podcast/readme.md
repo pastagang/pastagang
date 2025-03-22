@@ -6,8 +6,6 @@
 - episode one
   - youtube (coming soon)
   - google drive (coming soon)
-- episode two???
-  - (insert your episode here)
 
 <br>
 
