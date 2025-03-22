@@ -1,10 +1,19 @@
 # Pastagang podcast
 
-doesn't exist yet
+
+## Episodes
+
+- episode one
+  - youtube (coming soon)
+  - google drive (coming soon)
 
 <br>
 
-but maybe...
+## How to make an episode
+
+Record an episode! Then list it on this page. Edit the page [here](https://github.com/pastagang/pastagang/edit/main/podcast/readme.md).
+
+You can do any format you want, but here's an idea for a format if you're looking for one:
 
 two pastagangers talk and share their perspective on pastaganging
 - where and when they do it
@@ -13,8 +22,12 @@ two pastagangers talk and share their perspective on pastaganging
 
 the episode starts and ends with a little jam
 
-OR MAYBE NOT I DON'T KNOW DO WHATEVER YOU WANT
+## Where to upload the episode
 
-## Episodes
+It could be anywhere. someone could probably set up an RSS feed or mailing list or something 🤷
 
-- (insert your episode here)
+We could probably also upload audio-only as well as video
+
+Maybe we could reach out to [compute.radio](https://compute.radio) to host the podcast, I dunno! 
+
+
