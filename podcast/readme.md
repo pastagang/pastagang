@@ -2,7 +2,7 @@
 
 - episode one
   - [youtube](https://www.youtube.com/watch?v=x7Z6Uo4torg)
-  - [google drive](https://drive.google.com/file/d/1Tpf8kdoX6rKkn9oXKTxuzmgWmur-Gq6D/view?usp=sharing)
+  - [google drive](https://drive.google.com/drive/folders/1L_T6lu23w3mNrlVfNz5OY-VYAFXkUY9Y?usp=sharing)
 
 <br>
 
