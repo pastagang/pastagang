@@ -5,8 +5,7 @@
 
 - episode one
   - [youtube](https://www.youtube.com/watch?v=x7Z6Uo4torg)
-  - google drive (coming soon)
-  - internet archive (coming eventually)
+  - [google drive](https://drive.google.com/file/d/1Tpf8kdoX6rKkn9oXKTxuzmgWmur-Gq6D/view?usp=sharing)
 
 <br>
 
