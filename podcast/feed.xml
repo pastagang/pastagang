@@ -1,0 +1,34 @@
+<rss version="2.0">
+    <channel>
+        <title>
+            pastagang Podcast
+        </title>
+        <description>
+            Just people talking about pastagang
+        </description>
+        <link>
+            http://pastagang.cc/podcast
+        </link>
+        <lastBuildDate>
+            Tue, 23 Mar 2025 15:21:43 +0100
+        </lastBuildDate>
+        <language>
+            en-EN
+        </language>
+        <ttl>
+            600
+        </ttl>
+        <item>
+            <title>
+                todepond and froos
+            </title>
+            <link>
+                https://pastagang.cc/podcast
+            </link>
+            <enclosure url="https://pastagang.cc/podecast/01_todepond_froos.mp3"
+                       length="174179564"
+                       type="audio/mpeg"
+            />
+        </item>
+    </channel>
+</rss>
