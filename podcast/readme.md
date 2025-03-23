@@ -4,8 +4,9 @@
 ## Episodes
 
 - episode one
-  - youtube (coming soon)
+  - [youtube](https://www.youtube.com/watch?v=x7Z6Uo4torg)
   - google drive (coming soon)
+  - internet archive (coming eventually)
 
 <br>
 
