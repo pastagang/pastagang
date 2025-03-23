@@ -1,8 +1,8 @@
 # How to learn live coding
 
-At this week's [london live coding](/london) meetup, someone asked how to learn live coding. People gave lots of different suggestions. Here they all are. I've tried to remember them all, but if I missed any, let me (Lu) know on the [london discord server](/london) or anywhere else.
+At this week's [london live coding](/london) meetup, someone asked how to learn live coding. People gave lots of different suggestions. Here they all are.
 
-Or if you have anything to add or edit, please [go for it](https://github.com/pastagang/pastagang/tree/main/london/learn) :)
+Over time, people have added more resources to this list! If you have anything to add or edit, please [go for it](https://github.com/pastagang/pastagang/tree/main/london/learn) :)
 
 ## Resources
 
