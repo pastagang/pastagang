@@ -10,7 +10,11 @@
 
 Record an episode! Then list it on this page. Edit the page [here](https://github.com/pastagang/pastagang/edit/main/podcast/readme.md).
 
-You can do any format you want, but here's an idea for a format if you're looking for one:
+## Format ideas
+
+You can do any format you want, but here are a couple ideas for formats if you're looking for one:
+
+### Jam format
 
 two pastagangers talk and share their perspective on pastaganging
 - where and when they do it
@@ -18,6 +22,16 @@ two pastagangers talk and share their perspective on pastaganging
 - anything else
 
 the episode starts and ends with a little jam
+
+### Signature move format
+
+take turns showing each other a 'signature move' you like to do.
+
+- how do you do it
+- how does it work
+- why do you like it
+
+you could do start and end with a jam if you want
 
 ## Where to upload the episode
 
