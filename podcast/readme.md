@@ -6,7 +6,9 @@
 
 <br>
 
-## How to make an episode
+## Make your own episode
+
+You are welcome to add your own episode to the podcast.
 
 Record an episode! Then list it on this page. Edit the page [here](https://github.com/pastagang/pastagang/edit/main/podcast/readme.md).
 
@@ -37,8 +39,11 @@ you could do start and end with a jam if you want
 
 It could be anywhere. someone could probably set up an RSS feed or mailing list or something 🤷
 
-We could probably also upload audio-only as well as video
+It can be audio-only, or include your screen and/or camera as well.
 
-Maybe we could reach out to [compute.radio](https://compute.radio) to host the podcast, I dunno! 
+## Safety
 
+As always, be a bit cautious when interacting with people over the internet :)
+
+Add to the work-in-progress safety tips [here](/safety).
 
