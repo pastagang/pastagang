@@ -1,8 +1,7 @@
 # Pastagang podcast
 
-- episode one
-  - [youtube](https://www.youtube.com/watch?v=x7Z6Uo4torg)
-  - [google drive](https://drive.google.com/drive/folders/1L_T6lu23w3mNrlVfNz5OY-VYAFXkUY9Y?usp=sharing)
+- [episode one](https://www.youtube.com/watch?v=x7Z6Uo4torg)
+- [episode two](https://youtu.be/gxDust_MYgU)
 
 <br>
 
