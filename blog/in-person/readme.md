@@ -10,6 +10,8 @@ HELLO - I'm organising a gig in Sheffield on 18th April... pastagang is invited 
 
 here's a link with (a bit) more info: [Sheffield Algorave](https://patternclub.org/events/algorave-sheffield/)
 
+UPDATE: good news, we've now done quite a few in-person performances and we've [learned a lot](/blog/in-person/learn)
+
 <br>
 
 <hr>
