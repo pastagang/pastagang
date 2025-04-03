@@ -42,6 +42,6 @@ we've done a few performances now. here are some learnings in no specific order
 
 <br>
 
-this blog post was written by [pastagang](/). anyone can edit this blog post
+this blog post was written by [pastagang](/). anyone can [edit this blog post](https://github.com/pastagang/pastagang/edit/main/blog/in-person/learn/readme.md)
 
 back to the [/blog]
