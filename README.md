@@ -41,7 +41,7 @@ if you want to get added to the list of contributors to any of these, let someon
 
 here are some ways of contacting pastagang:
 
-- email [mailto:pastagang@groups.io]. everyone can access the inbox [here](https://groups.io/g/pastagang/)
+- email [pastagang@groups.io](mailto:pastagang@groups.io). everyone can access the inbox [here](https://groups.io/g/pastagang/)
 - post on mastodon or bluesky with the [#pastagang hashtag](https://post.lurk.org/tags/pastagang)
 - post on mastodon mentioning the [@pastagang@a.gup.pe](https://a.gup.pe/u/pastagang) group
 - write something in the [jam space](https://nudel.cc)
