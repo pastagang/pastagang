@@ -23,7 +23,7 @@ And
 
 ## Moving on
 
-If you are grieving or otherwise sensitive to mortality, you can thing of this concept as 'let it float down the river'. Be an observer, take an interest, but don't form unhealthy attachments where they aren't necessary. You can work on this by forming/strengthening healthy attachments with humans using careful trust, self-care and strong boundaries.
+If you are sensitive to mortality, you can thing of this concept as 'let it float down the river'. Be an observer, take an interest, but don't form unhealthy attachments where they aren't necessary. You can work on this by forming/strengthening healthy attachments with humans using careful trust, self-care and strong boundaries.
 
 ## when to let code die
 
