@@ -38,6 +38,12 @@ we've done a few performances now. here are some learnings in no specific order
 - it's great to encourage people to take photos and film things, as it's nice to collect these together into a supercut to share with people around the world. it also serves as a nice souvenir for people. in the future, you could consider having an easy place for people to upload or send these, as it might be a fun way for audience members to take part, and it's much easier than trying to gather up photos and film from millions of different social media sites. 
 - when editing a supercut— no, wait, that should be a different guide
 
+## Learnings from Sheffield
+
+(insert learnings hear)
+
+---
+
 **I THINK THE MOST IMPORTANT THING I'VE LEARNED IS THAT NONE OF THIS MATTERS TOO MUCH AND YOU CAN DO WHAT YOU WANT AS LONG AS LOVE IS IN YOUR HEART AND YOU LET CODE DIE.**
 
 <br>
