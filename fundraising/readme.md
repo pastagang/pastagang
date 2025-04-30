@@ -6,4 +6,4 @@ This is a non-exhaustive list of some of the payments it has done. If you ever m
 
 - £23 from Noughty Fingers, donated to [Hydra](https://opencollective.com/hydra-synth)
 - £150 from Sheffield Algorave, invoice sent for a donation to [Flok](https://ko-fi.com/munshkr)
-- £82 from London Algorave, half donated to [Strudel](https://opencollective.com/tidalcycles), half donated to ???
+- £82 from London Algorave, half donated to [Strudel](https://opencollective.com/tidalcycles), half donated to [Palestine Solidarity Campaign](https://palestinecampaign.org/)
