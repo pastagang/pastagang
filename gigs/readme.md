@@ -2,7 +2,7 @@
 
 - [A MAZE.](https://2025.amaze-berlin.de/), Berlin, 17th May 2025 (we will try to claim an open slot)
 - [Algorave](https://patternclub.org/events/algorave-sheffield/), Sheffield, 18th April 2025
-- [Algorave](https://ra.co/events/2108876), London, 9th April 2025
+- [Algorave](https://ra.co/events/2108876), London, 9th April 2025, [Recorded](https://youtu.be/FmE_yUIz4lQ?si=DyX9v1RBUgtOJJhD)
 - [Noughty Fingers](https://ra.co/events/2117681), London, 26th March 2025, [Recorded](https://www.youtube.com/watch?v=k0H_rX7G2oQ)
 - [Živopisana glasba](https://multimedija.info/zivopisana-glasba/), Ljubljana, 20th March 2025
 - [AlgoRhythms](https://lu.ma/35xf6hly), London, 5th March 2025, [Recorded](http://www.youtube.com/watch?v=HCcSHMu0gzg)
