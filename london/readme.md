@@ -6,16 +6,20 @@ Wanna get involved in the London coding scene?
   }
 </style>
 
+
 <iframe
   src="https://lu.ma/embed/calendar/cal-qaBuxr3sRTGy0Ol/events?lt=light"
   width="600"
-  height="450"
+  height="500"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
   aria-hidden="false"
   tabindex="0"
-></iframe>
+></iframe
+   >
+
+<br>
 
 - London Live Coding
   - [Luma](https://lu.ma/londonlivecoding) (meetups + jams)
@@ -38,10 +42,6 @@ Wanna get involved in the London coding scene?
   - [Website](https://www.creativecodingcrafts.space/)
 - London Data Visualisation
   - [Luma](https://lu.ma/londondatavis) (all events)
-
-<br>
-
-<br>
 
 <br>
 
