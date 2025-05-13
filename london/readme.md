@@ -1,7 +1,13 @@
 Wanna get involved in the London coding scene?
 
+<style>
+  iframe {
+    max-width: 100%;
+  }
+</style>
+
 <iframe
-  src="https://lu.ma/embed/calendar/cal-qaBuxr3sRTGy0Ol/events"
+  src="https://lu.ma/embed/calendar/cal-qaBuxr3sRTGy0Ol/events?lt=light"
   width="600"
   height="450"
   frameborder="0"
