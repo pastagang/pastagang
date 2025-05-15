@@ -1,10 +1,8 @@
-Hello hello!
-
-If you're reading this, it's because you signed up to get notified about London live coding events and algoraves. Good news! It's time.
+# London Live Coding Festival — starting Monday
 
 You may or may not know this, but... Very soon, there's a huge conference going on in Barcelona, all about live coding. Artists from all around the world are traveling in to attend it.
 
-Here in London, we're in a lucky position. For one reason or another, many of those travelling artists are stopping off in London for a week or two, ahead of the conference. This means: Next week, London will be even more of a mixing pot than usual.
+**Here in London, we're in a lucky position. For one reason or another, many of those travelling artists are stopping off in London for a week or two, ahead of the conference. This means: Next week, London will be even more of a mixing pot than usual.**
 
 To make the most of this unique moment, there's not one, not two, but three(!) live coding events happening next week:
 
