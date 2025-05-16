@@ -14,7 +14,7 @@ there are some different tools that let you access our shared space. right now w
 
 - [nudel](https://nudel.cc)
 - [dotcool](https://todepond.cool/flok)
-- [flok](https://flok.cc/s/pastagang6)
+- [flok](https://www.pastagang.com/flok)
 
 and there's a tool for uploading files too (eg: for samples, images)
 
@@ -37,7 +37,7 @@ all contributions get accepted, no matter what.
 
 if you want admin access to to any of these, contact pastagang
 
-## how to contact pastagang 
+## how to contact pastagang
 
 here are some ways of contacting pastagang:
 
