@@ -14,7 +14,7 @@ there are some different tools that let you access our shared space. right now w
 
 - [nudel](https://nudel.cc)
 - [dotcool](https://todepond.cool/flok)
-- [flok](https://www.pastagang.com/flok)
+- [flok](https://www.pastagang.cc/flok)
 
 and there's a tool for uploading files too (eg: for samples, images)
 
