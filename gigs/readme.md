@@ -1,6 +1,8 @@
 # Gigs
 
-- [A MAZE.](https://2025.amaze-berlin.de/), Berlin, 17th May 2025 (we will try to claim an open slot)
+- [AlgoRhythms](https://lu.ma/nwmbc9gb), London, 21st May 2025
+- [Adela](https://wiki.ljudmila.org/Adela_2025:_From_Scratch_(en)), Ljubljana, 17th May 2025
+- [A MAZE.](https://2025.amaze-berlin.de/), Berlin, 17th May 2025
 - [Algorave](https://patternclub.org/events/algorave-sheffield/), Sheffield, 18th April 2025
 - [Algorave](https://ra.co/events/2108876), London, 9th April 2025, [Recorded](https://youtu.be/FmE_yUIz4lQ?si=DyX9v1RBUgtOJJhD)
 - [Noughty Fingers](https://ra.co/events/2117681), London, 26th March 2025, [Recorded](https://www.youtube.com/watch?v=k0H_rX7G2oQ)
