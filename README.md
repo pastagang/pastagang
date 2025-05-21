@@ -41,7 +41,7 @@ if you want admin access to to any of these, contact pastagang
 
 here are some ways of contacting pastagang:
 
-- email [pastagang@groups.io](mailto:pastagang@groups.io). everyone can access the inbox [here](https://groups.io/g/pastagang/)
+- email pastagang (at) groups.io. everyone can access the inbox [here](https://groups.io/g/pastagang/)
 - use the [#pastagang hashtag](https://post.lurk.org/tags/pastagang) on mastodon or bluesky
 - mention the [@pastagang@a.gup.pe](https://a.gup.pe/u/pastagang) group on mastodon
 - write something in the [jam space](https://nudel.cc)
