@@ -175,9 +175,33 @@ Since then, I contributed drums to another jam.
 There was one moment where I felt like some changes that I was making caused a shift in the sounds that someone else was making.
 I had never had that experience before when making music!
 
-## Jam Oriented Programming (or another term like that)
+## Jam Oriented Programming
 
-talk about nudel and how contributions are approached like a jam as well. everybody can become "maintainer" immediately, being able to change the site without asking. in a jam, communication and decision making happens mostly through the music, less through talking about it. talking is a detour. trust the process. the jam is a SUBSTRATE. similarly, in JOP, people don't need to ask before making a change (they still can if they want to have feedback etc). the software is not part of a critical infrastructure, so breaking it has no severe consequences. similar to how it happens that someone makes a mistake in a jam, it can happen that the thing breaks. it's fine. we even have a backup plan (flok.cc). focusing on a low barrier to entry also means the code should be as easy to understand as possible, so avoiding too many complexities is a good idea. perfection is not the goal. it's better to make a bad contribution than to make no contribution at all. 
+[//]: # (talk about nudel and how contributions are approached like a jam as well. everybody can become "maintainer" immediately, being able to change the site without asking.)
+
+The most used tool to join the flok room (currently) is nudel.cc.
+Unlike "traditional" open source projects it doesn't follow any strict development paradigms.
+If anyone wants to change it, they will be added as maintainer, and they can change it at will.
+Most tools that pastagang calls "theirs" are maintained that way.
+Including this paper!
+
+In a jam, communication and decision-making happens mostly through the music, less through talking about it.
+Talking is a detour.
+Trust the process.
+The jam is a SUBSTRATE.
+Similarly, in JOP, people don't need to ask before making a change (they still can if they want to have feedback etc).
+The software is not part of a critical infrastructure, so breaking it has no severe consequences.
+Similar to how it happens that someone makes a mistake in a jam, it can happen that the thing breaks.
+It's fine.
+We even have a backup plan (flok.cc).
+Focusing on a low barrier to entry also means the code should be as easy to understand as possible, so avoiding too many complexities is a good idea.
+Perfection is not the goal.
+It's better to make a bad contribution than to make no contribution at all. 
+
+On top of that developing most often happens on a client connected to the shared room. 
+So changes come into effect almost immediately, and you can watch the testing of the changes live.
+Meta jams start to happen, and multiple people work on different things at the same time, showing it to each other and giving real-time thoughts.
+All using the very tool we use to jam together in the first place.
 
 <br>
 
