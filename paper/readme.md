@@ -4,6 +4,10 @@ Pasta Gang\
 *pastagang*\
 pastagang@groups.io
 
+## Thoughts on what to edit:
+- r: Maybe move all the "first person accounts" into their own section, and have the rest reflect the points taken from them? Its both a bit weird and cool to read a lot of accounts when talking about different parts, so I don't know.
+- 
+
 ## Abstract
 
 <!--This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.-->
@@ -24,7 +28,6 @@ As you read through the following scattered contributions, you may notice glimps
 * [Learning](#learning)
   * [User Friendly](#user-friendly)
   * [Learning & Teaching](#learning--teaching)
-* [Accesing art through a new perspective](#accesing-art-through-a-new-perspective)
 * [Jamming](#jamming)
   * [Untitled but might fit in previous section ... #feelings](#untitled-but-might-fit-in-previous-section--feelings)
   * [Untitled ... rough account of experience compared to conventional jam sessions](#untitled--rough-account-of-experience-compared-to-conventional-jam-sessions)
