@@ -8,15 +8,43 @@ pastagang@groups.io
 
 <!--This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.-->
 
-This is a second attempt at an abstract. Pastagang is an emergent jamming group that accidentally emerged in late 2024. In this paper, various participants and onlookers record and reflect on their experience of the phenomenon. In the spirit of the jam, no individual author is responsible for what you are about to read. Instead, it is the natural result of many people editing the same document with no oversight, plan, organisation or discussion. As you read through the following scattered contributions, you may notice glimpses of / fragments of / I dunno... (pls help)
+This is a second attempt at an abstract.
+Pastagang is an emergent jamming group that accidentally emerged in late 2024.
+In this paper, various participants and onlookers record and reflect on their experience of the phenomenon.
+In the spirit of the jam, no individual author is responsible for what you are about to read.
+Instead, it is the natural result of many people editing the same document with no oversight, plan, organisation or discussion.
+As you read through the following scattered contributions, you may notice glimpses of / fragments of / I dunno... (pls help)
 
 <br>
+
+<!-- TOC -->
+* [Pastagang: A huddle of fusilli](#pastagang-a-huddle-of-fusilli)
+  * [Abstract](#abstract)
+* [Introduction](#introduction)
+* [Learning](#learning)
+  * [User Friendly](#user-friendly)
+  * [Learning & Teaching](#learning--teaching)
+* [Accesing art through a new perspective](#accesing-art-through-a-new-perspective)
+* [Jamming](#jamming)
+  * [Untitled but might fit in previous section ... #feelings](#untitled-but-might-fit-in-previous-section--feelings)
+  * [Untitled ... rough account of experience compared to conventional jam sessions](#untitled--rough-account-of-experience-compared-to-conventional-jam-sessions)
+  * [Jam Oriented Programming (or another term like that)](#jam-oriented-programming-or-another-term-like-that)
+  * [Audience](#audience)
+* [Sacrifice](#sacrifice)
+  * [Responsibility](#responsibility-)
+  * [Differences to algorave](#differences-to-algorave)
+  * [Exquisite corpse](#exquisite-corpse)
+* [Presence](#presence)
+  * [Cursors](#cursors)
+  * [References](#references)
+<!-- TOC -->
+
 
 # Introduction
 
 pastagang is a phenomenon where various live coders use a single collaborative environment as their live coding tool of choice. 
-
-whether they're practising at home, performing at an algorave, facilitating a workshop, or jamming at a meetup, a live coder might decide to do it in a shared space. 
+Whether they're practising at home, performing at an algorave, facilitating a workshop, or jamming at a meetup, a live coder might decide to do it in a shared space. 
+Because everyone uses the same shared room, often people meet in that room and jam together. 
 
 <br>
 
@@ -34,9 +62,8 @@ This quickly changed after visiting another link shared by a pastagang member: a
 Like Strudel, it is a web page that contains a text editor, but it is multiplayer with the other participants' cursors moving in real time.
 
 Seeing the code being developed collaboratively was a transformative experience. Soon, I felt like I could add my own patterns, and
-with the help of the pastagang, I quickly learned how to make it sound the way I liked.
-Suffice it to say I was hooked, and out of nowhere,
-I spent a few hours here and there reading and writing live code with the pastagang.
+with the help of pastagang, I quickly learned how to make it sound the way I liked.
+Suffice it to say I was hooked, and out of nowhere, I spent a few hours here and there reading and writing live code with the pastagang.
 
 All of that to say that I came for the sound, and I stayed for the experience.
 Pastagang is powered by the most user-friendly system I can think of;
@@ -44,13 +71,20 @@ you just need a web browser and some free time.
 
 ## Learning & Teaching
 
-As someone who is new to the whole live coding performance thing, it is very intimidating to see with how much finess and focus people can perform in these live events. Because of the sharing nature of the online jam, not only can you look over the shoulder of someone else doing it but you also get access to the code in real time, seeing how they change it and what effects it has. You can copy out code, and understand how it works. Try out some changes and bring them back into the jam. This allowed me to get the confidence needed to just jam with the others. 
+As someone who is new to the whole live coding performance thing, it is very intimidating to see with how much finess and focus people can perform in these live events.
+Because of the sharing nature of the online jam, you can look over the shoulder of someone else doing it.
+You also get access to the code in real time, seeing how they change it and what effects it has.
+You can copy out code, dissect it, and understand how it works.
+Try out some changes and bring them back into the jam.
+This allowed me to get the confidence needed to just jam with the others. 
 
-Yes, when I switched from strudel to flok, I thought I would learn slower because I wouldn't have the inline docs or autocomplete. But the surprising thing for me was how my learning rapidly sped up, just by looking and seeing other people code. 
+Yes, when I switched from strudel to flok, I thought I would learn slower because I wouldn't have the inline docs or autocomplete.
+But the surprising thing for me was how my learning rapidly sped up, just by looking and seeing other people code. 
 
 I remember thinking things like "`ply`? what does that do?" and then I fiddle with the number, explore it, and try it out myself. 
 
-My <strong>discovery</strong> of different language features was greatly improved by being around other people (in a virtual space). Not just discovery of the existence of these features, but also their varying uses / the moments they can good in.
+My <strong>discovery</strong> of different language features was greatly improved by being around other people (in a virtual space).
+Not just discovery of the existence of these features, but also their varying uses / the moments they can be good in.
 
 <br>
 
@@ -58,25 +92,20 @@ My <strong>discovery</strong> of different language features was greatly improve
 
 <br>
 
-When you only see cursors jumping on the screen it can seem like they know exactly what they are doing. It takes courage to jump in and change a number. Learning that this is ok, and actually encouraged, is a process. But because you see it happen, it makes doing it a bit easier every time.
+When you only see cursors jumping on the screen, it can seem like they know exactly what they are doing.
+It takes courage to jump in and change a number.
+Learning that this is ok, and actually encouraged, is a process.
+But because you see it happen, it makes doing it a bit easier every time.
 
-The natural highs and lows of activity in the shared room create opportunity for people, to be inspired by others jamming, as well as try out their feet, when no one else (or less cursors) are around. The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bun
-ch of people.
+The natural highs and lows of activity in the shared room create opportunities for people to be inspired by others jamming, as well as try it out themselves, when no one else (or less) are around.
+The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bunch of people.
 
 <br>
 
-The pastagang culture really invites new people to make changes and fiddle with things. It's really cool when you're groovin' and you have a little idea based on what you've seen other people do, and then you make the change and it all grooves even harder!!
+The pastagang culture really invites new people to make changes and fiddle with things.
+It's really cool when you're groovin' and you have a little idea based on what you've seen other people do, and then you make the change and it all grooves even harder!!
 
 <br>
-
-# Accesing art through a new perspective
-
-
-As someone who has trouble visualizing most writen or spoken pictures (aphantasia [citation needed], a bit, not diagnosed and sometimes I can.), coding visuals gave me a new avenue to access artistic expressions that with traditional tools are always hard ta archive.
-
-Being able to understand how code interacts and quickly toy around with it, makes giving life to the abstract ideas in my head somewhat easier. Because the abstraction in hydra is very similar to what my brain does itself.
-
-- something about the logical side of coding / syntaxt of code and the contrast to painting a picture / being artsy "traditionaly"
 
 # Jamming
 
@@ -85,7 +114,11 @@ Pastagang has been one of the most ... of my life. ...
 For me, **jamming** means high levels of trust, listening and making space for others. I hope to take these skills into other areas of my life...
 
 
-I was at the climbing wall today, and I thought "huh, we're all doing our own thing here, what if we *jammed* about it instead?" (that's a climbing pun for all you climbers out there) so I just spoke to people, asked what they were working on, if I could try it. Once two of us were doing it, it became much easier to include other people, and by the end there were about 4 or so strangers all trying different boulders and collaborating on ideas on how to solve them. It felt really good, and social and nice, and was a consequence of me *inviting collaboration* and putting myself *with* (not in front) of other people. I love the social aspect of jamming, and that's something pastagang captures when its at its best. (Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its lagging like hell because of the cool hydra thing).
+I was at the climbing wall today, and I thought "huh, we're all doing our own thing here, what if we *jammed* about it instead?" (that's a climbing pun for all you climbers out there) so I just spoke to people, asked what they were working on, if I could try it.
+Once two of us were doing it, it became much easier to include other people, and by the end there were about 4 or so strangers all trying different boulders and collaborating on ideas on how to solve them.
+It felt wonderful, and social and nice, and was a consequence of me *inviting collaboration* and putting myself *with* (not in front) of other people.
+I love the social aspect of jamming, and that's something pastagang captures when it's at its best.
+(Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its lagging like hell because of the cool hydra thing).
 
 <br>
 
@@ -93,11 +126,14 @@ I was at the climbing wall today, and I thought "huh, we're all doing our own th
 
 <br>
 
-The thing that I've noticed happens a lot in the collaborative space vs the solo space, and it's sparks of unexpected inspiration. You kind of know, more or less, what's coming when you're livecoding solo. But the moment you get a group dynamic you tend to react to the unexpected coming at you - it's generally a fairly slow burn because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece (and usually tweak it)... then you try to enjoy it for a while.
+The thing that I've noticed happens a lot in the collaborative space vs the solo space, and it's sparks of unexpected inspiration.
+You kind of know, more or less, what's coming when you're livecoding solo.
+But the moment you get a group dynamic you tend to react to the unexpected coming at you - it's generally a fairly slow burn because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece (and usually tweak it)...
+then you try to enjoy it for a while.
 
-These sparks of inspiration can lead to learning how to use new functions, or old functions in new ways, or discover new samples, interesting patterns etc
+These sparks of inspiration can lead to learning how to use new functions, or old functions in new ways, or discover new samples, interesting patterns etc.
 
-When I'm among familiar players, I like providing that unexpected dynamic on occasion just to see what reactions/changes that causes, and where that can lead to
+When I'm among familiar players, I like providing that unexpected dynamic on occasion just to see what reactions/changes that causes, and where that can lead to.
 
 Sometimes, I run out of ideas/inspiration and don't know what to do with my code. My go to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio) for someone else to do something (which can reignite the spark in me again). When I'm solo I need to try and keep a constant stream of new ideas going which I often find difficult.
 
@@ -107,13 +143,34 @@ I suspect this is all old news to most accomplished musicians, particularly jazz
 
 ## Untitled ... rough account of experience compared to conventional jam sessions
 
-My perspective on jam-oriented programming is shaped by an acute sense of my own lack of formal background in music or programming. Partially because of this, I have mostly pursued these activities non-collaboratively. When I was younger, I did find myself attending conventional jam sessions on two occasions. Everyone brought their specialist instrument but I had never learned how to play one and felt completely blocked both times. There was also a kind of secret jam language that was incomprehensible to me. The guitarist nodded at the drummer and the sound changed. A vocalist shouted "G", glanced, and said "just like last time...". I didn't really know how to participate, so I didn't. As the years went by I experimented more with music (and coding) but always as solo endeavours. I have never felt sufficiently prepared for collaboration in either domain, _especially_ in a live context.
+My perspective on jam-oriented programming is shaped by an acute sense of my own lack of formal background in music or programming.
+Partially because of this, I have mostly pursued these activities non-collaboratively.
+When I was younger, I did find myself attending conventional jam sessions on two occasions.
+Everyone brought their specialist instrument but I had never learned how to play one and felt completely blocked both times.
+There was also a kind of secret jam language that was incomprehensible to me.
+The guitarist nodded at the drummer and the sound changed.
+A vocalist shouted "G", glanced, and said "just like last time...".
+I didn't really know how to participate, so I didn't.
+As the years went by I experimented more with music (and coding) but always as solo endeavours.
+I have never felt sufficiently prepared for collaboration in either domain, _especially_ in a live context.
 
-In Flok, the nods and glances were largely textual and readable. There was time to acknowledge and interpret them without needing to immediately act. I could make an adjustment to a sound, then sit back and reflect on its effect before acting again. I had access to a bank of samples and instruments, so I could find something that felt right for the moment and swap it out at will. There were certainly people who knew the environment better, but it never felt like a group of specialists with secret knowledge.
+In Flok, the nods and glances were largely textual and readable.
+There was time to acknowledge and interpret them without needing to immediately act.
+I could make an adjustment to a sound, then sit back and reflect on its effect before acting again.
+I had access to a bank of samples and instruments, so I could find something that felt right for the moment and swap it out at will.
+There were certainly people who knew the environment better, but it never felt like a group of specialists with secret knowledge.
 
-In my first jam, I was admittedly hesitant. I avoided contributing any melodies or rhythms, instead opting for barely-audible textures. After a while, I thought the textures sounded good, so I increased the gain and added more variation. Then I got really confident and added a guitar sound. "Oh no!" — it sound terrible! Immediately, some friendly cursors floated over to my pane and helped me make it better. Someone can hand me an instrument, shout "G" and I will freeze. In Flok, someone said "E Dorian", I could see where it should be typed and then I could listen passively to the results of their wise suggestion.
+In my first jam, I was admittedly hesitant.
+I avoided contributing any melodies or rhythms, instead opting for barely-audible textures.
+After a while I thought the textures sounded good, so I increased the gain and added more variation.
+Then I got really confident and added a guitar sound.
+"Oh no!" — it sound terrible! Immediately, some friendly cursors floated over to my pane and helped me make it better.
+Someone can hand me an instrument, shout "G" and I will freeze.
+In Flok, someone said "E Dorian", I could see where it should be typed and then I could listen passively to the results of their wise suggestion.
 
-Since then I contributed drums to another jam. There was one moment where I felt like some changes that I was making caused a shift in the sounds that someone else was making. I had never had that experience before when making music!
+Since then, I contributed drums to another jam.
+There was one moment where I felt like some changes that I was making caused a shift in the sounds that someone else was making.
+I had never had that experience before when making music!
 
 ## Jam Oriented Programming (or another term like that)
 
@@ -125,15 +182,29 @@ talk about nudel and how contributions are approached like a jam as well. everyb
 
 <br>
 
-Before contributing to nudel, I had minimal understanding of open source collaboration. Despite coding extensively in my free time, I never felt comfortable contributing to other's repositories, fearing that my work might not be up to the repository maintainers' standards. However, nudel's community and collaboration practices completely changed that perspective. It fosters a very welcoming environment where even small contributions and changes are encouraged and valued. Whether the code is optimized or well-structured is secondary. What matters is pushing something functional and receiving constructive and actionable feedback. Watching my changes go live on the website gave me a lot of confidence and created a desire to improve and learn new things.
+Before contributing to nudel, I had minimal understanding of open source collaboration.
+Despite coding extensively in my free time, I never felt comfortable contributing to other's repositories, fearing that my work might not be up to the repository maintainers' standards.
+However, nudel's community and collaboration practices completely changed that perspective.
+It fosters a very welcoming environment where even small contributions and changes are encouraged and valued.
+Whether the code is optimized or well-structured is secondary.
+What matters is pushing something functional and receiving constructive and actionable feedback.
+Watching my changes go live on the website gave me a lot of confidence and created a desire to improve and learn new things.
 
-Nudel's low barrier to entry and Jam-like approach allows everyone to be a "maintainer" immediately, encouraging contribution without the fear of failure. Breaking something isn’t catastrophic but rather a part of the process, with backups in place to mitigate issues. This freedom creates space for direct learning from more experienced contributors, while being part of a diverse, supportive community that shares the same goals. With an easy-to-understand codebase, starting a new contribution is seamless. It's this mix of collaboration, creativity, and trust that makes contributing deeply rewarding.
+Nudel's low barrier to entry and Jam-like approach allows everyone to be a "maintainer" immediately, encouraging contribution without the fear of failure.
+Breaking something isn’t catastrophic but rather a part of the process, with backups in place to mitigate issues.
+This freedom creates space for direct learning from more experienced contributors, while being part of a diverse, supportive community that shares the same goals.
+With an easy-to-understand codebase, starting a new contribution is seamless.
+It's this mix of collaboration, creativity, and trust that makes contributing deeply rewarding.
 
 <br>
 
 ## Audience
 
-I love performing to an audience. I find it very exhilarating. But it can sometimes feel self-indulgent. With jamming, this isn't a problem. It's more collaborative or something blah blah blah...
+I love performing to an audience.
+I find it very exhilarating.
+But it can sometimes feel self-indulgent.
+With jamming, this isn't a problem.
+It's more collaborative or something blah blah blah...
 
 Link to that audiences paper[^audience]
 
@@ -143,37 +214,47 @@ Link to that audiences paper[^audience]
 
 Everything we make gets attributed to "pastagang" rather than any individual(s).
 
-This is partly due to convenience. for any one piece of music or visual, there may have been countless contributors, some anonymous, over a long scattered period. hunting them all down would be a nightmare. 
+This is partly due to convenience: For any one piece of music or visual, there may have been countless contributors, some anonymous, over a long scattered period.
+Hunting them all down would be a nightmare. 
 
-and even if you do hunt down everyone who wrote those individual lines of code, what about those who came before?
+Even if you do hunt down everyone who wrote those individual lines of code, what about those who came before?
+Those lines of code didn't come out of nowhere: They grew from what was there previously. 
 
-those lines of code didn't come out of nowhere: they grew from what was there previously. 
+The jam is continuous.
+It has no start and end. So every product of the pastagang is a product of everyone who has ever set foot inside it. 
 
-<br>
-
-the jam is continuous. it has no start and end. so every product of the pastagang is a product of everyone who has ever set foot inside it. 
-
-even a motionless cursor can influence the sounds and sights it makes. your presence or lack of presence steers the jam.
+Even a motionless cursor can influence the sounds and sights it makes.
+Your presence or lack of presence steers the jam.
 
 ## Responsibility 
 
-For some people, it may seem like a shame to not get individually credited. but in many ways, it is liberating. 
+For some people, it may seem like a shame to not get individually credited, but in many ways, it is liberating. 
 
-if something sounds bad, it's not *your* fault. it's pastagang's fault. so your reputation isn't on the line. in this way, the jam serves as a tool that removes emotional blockers, in the same way that my arroost tool aimed to be[^unblocking].
+If something sounds bad, it's not *your* fault.
+It's pastagang's fault.
+So your reputation isn't on the line.
+In this way, the jam serves as a tool that removes emotional blockers, in the same way that my arroost tool aimed to be[^unblocking].
 
 ## Differences to algorave
 
-Pastagang's approach to responsibility differs to the typical mindset of algorave. Here's a quote from the algorave website:
+Pastagang's approach to responsibility differs from the typical mindset of algorave.
+Here's a quote from the algorave website:
 
 > Algorave musicians don’t pretend their software is being creative, they take responsibility for the music they make, shaping it using whatever means they have.
 
 In algorave, musicians take responsibility, but in pastagang, musicians relinquish responsibility — the jam claims your outputs as its own.
 
-The "death of the author" that goes on in pastagang does share some similarity with the algorave guidance[todo: add reference] that dissuades against having headliners at events. The focus is on the collective, rather than any individual. 
+The "death of the author" that goes on in pastagang does share some similarity with the algorave guidance[todo: add reference] that dissuades against having headliners at events.
+The focus is on the collective, rather than any individual. 
 
-Though pastagang takes this even further, to an approach more reminiscent of Tiger's Eye, a surrealist publication that did not list authors' names under specific works.[todo: add reference] Instead, they were all listed on the middle pages of the edition, in a way that individual works could not be routed back to individuals. The goal of this was to place emphasis on the works themselves, that ought to stand up on their own regardless of who made them. The same is true in pastagang: The emphasis is on the jam, not the names.
+Though pastagang takes this even further, to an approach more reminiscent of Tiger's Eye, a surrealist publication that did not list authors' names under specific works.[todo: add reference]
+Instead, they were all listed on the middle pages of the edition, in a way that individual works could not be routed back to individuals.
+The goal of this was to place emphasis on the works themselves that ought to stand up on their own regardless of who made them.
+The same is true in pastagang: The emphasis is on the jam, not the names.
 
-This paper is attributed only to "pastagang", not any individual, despite over 10 different people participating at my last count. I registered for [Algorithmic Pattern 2025](https://2025.algorithmicpattern.org/call-for-paper-contributions/) with the pastagang@groups.io email address. Others are invited to join the [mailing list](https://groups.io/g/pastagang) to read that email's inbox, and to speak to the organisers on behalf of pastagang.
+This paper is attributed only to "pastagang", not any individual, despite over 10 different people participating at my last count.
+I registered for [Algorithmic Pattern 2025](https://2025.algorithmicpattern.org/call-for-paper-contributions/) with the pastagang@groups.io email address.
+Others are invited to join the [mailing list](https://groups.io/g/pastagang) to read that email's inbox, and to speak to the organisers on behalf of pastagang.
 
 ## Exquisite corpse
 
@@ -191,7 +272,11 @@ todo
 
 <br>
 
-During the jamming sessions, seeing multiple cursors move across the screen making art creates a unique form of unspoken collaboration. Each cursor's movement represents someone's creativity and intentions, making you part of a larger collective experience. While working in Hydra, watching more experienced coders take your initial concepts in a new direction creates a feeling that solo coding cannot match. The nature of adapting your plans to work with others' contributions mirrors the dynamics of an in-person jamming session. Without communicating, these cursors interact with one another and enable a constantly flowing exchange of ideas, leading to unexpected creative directions and fostering a sense of collective creation.
+During the jamming sessions, seeing multiple cursors move across the screen making art creates a unique form of unspoken collaboration.
+Each cursor's movement represents someone's creativity and intentions, making you part of a larger collective experience.
+While working in Hydra, watching more experienced coders take your initial concepts in a new direction creates a feeling that solo coding cannot match.
+The nature of adapting your plans to work with others' contributions mirrors the dynamics of an in-person jamming session.
+Without explicit communicating, these cursors interact with one another and enable a constantly flowing exchange of ideas, leading to unexpected creative directions and fostering a sense of collective creation.
 
 <br>
 
@@ -201,7 +286,12 @@ During the jamming sessions, seeing multiple cursors move across the screen maki
 
 <br>
 
-I like imagining myself as a little cursor person. I'm gender-neutral and colourful, and I duck and weave amongst the code. Sometimes I tweak a little number, and we all groove harder. Sometimes I hop out next to someone else's code just to write them a lil' complement. I really like doing that. I think We As A Society should give everybody more encouragement all the time. Being a cursor is freeing.
+I like imagining myself as a little cursor person.
+I'm gender-neutral and colourful, and I duck and weave amongst the code.
+Sometimes I tweak a little number, and we all groove harder.
+Sometimes I hop out next to someone else's code just to write them a lil' complement.
+I really like doing that.
+I think We As A Society should give everybody more encouragement all the time. Being a cursor is freeing.
 
 ## References
 
