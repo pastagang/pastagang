@@ -16,13 +16,17 @@ This is a second attempt at an abstract.
 Pastagang is an emergent jamming group that accidentally emerged in late 2024.
 In this paper, various participants and onlookers record and reflect on their experience of the phenomenon.
 In the spirit of the jam, no individual author is responsible for what you are about to read.
-Instead, it is the natural result of many people editing the same document with no oversight, plan, organisation or discussion.
-As you read through the following scattered contributions, you may notice glimpses of / fragments of / I dunno... (pls help)
+Instead, it is the natural result of many people editing the same document with no oversight, plan, organization or discussion.
+As you read through the following scattered contributions, you may notice that it's not a singular coherent thought and might contain differing statements or even small contradictions.
+This all is part of how pastagang operates, pastagang is not one coherent entity.
+It is made up of individuals who choose to forgo their authorship in order to create something together.
+But you can still see the influence of individuals in everything pastagang does.
 
 <br>
 
 <!-- TOC -->
 * [Pastagang: A huddle of fusilli](#pastagang-a-huddle-of-fusilli)
+  * [Thoughts on what to edit:](#thoughts-on-what-to-edit)
   * [Abstract](#abstract)
 * [Introduction](#introduction)
 * [Learning](#learning)
@@ -31,7 +35,7 @@ As you read through the following scattered contributions, you may notice glimps
 * [Jamming](#jamming)
   * [Untitled but might fit in previous section ... #feelings](#untitled-but-might-fit-in-previous-section--feelings)
   * [Untitled ... rough account of experience compared to conventional jam sessions](#untitled--rough-account-of-experience-compared-to-conventional-jam-sessions)
-  * [Jam Oriented Programming (or another term like that)](#jam-oriented-programming-or-another-term-like-that)
+  * [Jam Oriented Programming](#jam-oriented-programming)
   * [Audience](#audience)
 * [Sacrifice](#sacrifice)
   * [Responsibility](#responsibility-)
@@ -39,7 +43,7 @@ As you read through the following scattered contributions, you may notice glimps
   * [Exquisite corpse](#exquisite-corpse)
 * [Presence](#presence)
   * [Cursors](#cursors)
-  * [References](#references)
+* [References](#references)
 <!-- TOC -->
 
 
@@ -47,7 +51,10 @@ As you read through the following scattered contributions, you may notice glimps
 
 pastagang is a phenomenon where various live coders use a single collaborative environment as their live coding tool of choice. 
 Whether they're practising at home, performing at an algorave, facilitating a workshop, or jamming at a meetup, a live coder might decide to do it in a shared space. 
-Because everyone uses the same shared room, often people meet in that room and jam together. 
+Because everyone uses the same shared room, often people meet in that room and jam together.
+There is no inclusion ritual, nor is there a high barrier of entry.
+Whenever someone joins the jam, they are now part of pastagang.
+But there is also no list of pastagangers, nor is there a set list of organizers.
 
 <br>
 
@@ -286,7 +293,7 @@ Others are invited to join the [mailing list](https://groups.io/g/pastagang) to 
 ## Exquisite corpse
 
 todo
-- shared activity, jamlike, Long Distance, lead into feeling connected + present, which leads into the next section [todo: add reference, "how to see an exquisite corpse"]
+- shared activity, jamlike, Long Distance, lead into feeling connected and present, which leads into the next section [todo: add reference, "how to see an exquisite corpse"]
 
 # Presence
 
@@ -307,6 +314,14 @@ Without explicit communicating, these cursors interact with one another and enab
 
 <br>
 
+From time to time "cursoroland" comments appear in jam.
+Little ascii-art landscapes like buildings, parks or just "chill-zones".
+Especially during times of working hours (in Europe), you will then sometimes see a few cursors chilling in asci chairs, just listening to the music going on.
+This creates a kind of co-working environment, where the shared music and visuals are grown while working on their respective non-pastagang projects.
+
+But these cursorlands also tend to pop up during bigger live events.
+Where not all cursors are trying to actively participate, but maybe also just want to chill out in the shared space.
+
 (Insert screenshots of cursors doing things in cursorland, etc)
 
 <br>
@@ -320,7 +335,7 @@ Sometimes I hop out next to someone else's code just to write them a lil' comple
 I really like doing that.
 I think We As A Society should give everybody more encouragement all the time. Being a cursor is freeing.
 
-## References
+# References
 
 [^website]: [Pastagang website](https://pastagang.cc)
 [^nudel]: [Nudel](https://nudel.cc)
