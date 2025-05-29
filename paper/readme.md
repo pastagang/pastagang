@@ -147,7 +147,7 @@ When I'm among familiar players, I like providing that unexpected dynamic on occ
 
 Sometimes, I run out of ideas/inspiration and don't know what to do with my code. My go to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio) for someone else to do something (which can reignite the spark in me again). When I'm solo I need to try and keep a constant stream of new ideas going which I often find difficult.
 
-With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [muse](https://en.wikipedia.org/wiki/Muse_(person)) [todo: add reference] but it's usually a two-way muse relationship, ie inspiring for both players.
+With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [^muse] but it's usually a two-way muse relationship, ie inspiring for both players.
 
 I suspect this is all old news to most accomplished musicians, particularly jazz/improvisational based players - I wonder, does this serve to help validate livecoding as an instrument? Does it even need validation?
 
@@ -342,3 +342,4 @@ I think We As A Society should give everybody more encouragement all the time. B
 [^cocker2016]: Cocker, E. (2016). Performing thinking in action: the meletē of live coding. International Journal of Performance Arts and Digital Media, 12(2), 102–116. https://doi.org/10.1080/14794713.2016.1227597
 [^audience]: McLean, A., Rohrhuber, J., & Wieser, R. (2023). The Meaning of Live: From Art Without Audience to Programs Without Users. International Conference on Live Coding (ICLC2023), Utrecht, Netherlands. https://doi.org/10.5281/zenodo.7843567
 [^unblocking]: Wilson, L. (2024). Arroost: Unblocking creation with friends. [https://todepond.com/report/arroost](https://todepond.com/report/arroost)
+[^muse]: [https://en.wikipedia.org/wiki/Muse_(person)](https://en.wikipedia.org/wiki/Muse_(person))
