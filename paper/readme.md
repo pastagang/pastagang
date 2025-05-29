@@ -71,7 +71,7 @@ I still couldn't do much with it.
 This quickly changed after visiting another link shared by a pastagang member: a URL for an interface called Flok.
 Like Strudel, it is a web page that contains a text editor, but it is multiplayer with the other participants' cursors moving in real time.
 
-Seeing the code being developed collaboratively was a transformative experience. Soon, I felt like I could add my own patterns, and
+Seeing the code being developed collaboratively was a transformative experience. Soon I felt like I could add my own patterns, and
 with the help of pastagang, I quickly learned how to make it sound the way I liked.
 Suffice it to say I was hooked, and out of nowhere, I spent a few hours here and there reading and writing live code with the pastagang.
 
@@ -107,13 +107,13 @@ It takes courage to jump in and change a number.
 Learning that this is ok, and actually encouraged, is a process.
 But because you see it happen, it makes doing it a bit easier every time.
 
-The natural highs and lows of activity in the shared room create opportunities for people to be inspired by others jamming, as well as try it out themselves, when no one else (or less) are around.
+The natural highs and lows of activity in the shared room create opportunities for people to be inspired by others jamming, as well as try it out themselves when no one else (or less) are around.
 The transition from "real performance" and just goofying around for oneself gets blurry, and before you know it, you lose an hour to a jam with a bunch of people.
 
 <br>
 
 The pastagang culture really invites new people to make changes and fiddle with things.
-It's really cool when you're groovin' and you have a little idea based on what you've seen other people do, and then you make the change and it all grooves even harder!!
+It's really cool when you're groovin' and you get an idea based on what you've seen other people do and then you make the change and it all grooves even harder!!
 
 <br>
 
@@ -121,11 +121,12 @@ It's really cool when you're groovin' and you have a little idea based on what y
 
 Pastagang has been one of the most ... of my life. ...
 
-For me, **jamming** means high levels of trust, listening and making space for others. I hope to take these skills into other areas of my life...
+For me, **jamming** means high levels of trust, listening, and making space for others. I hope to take these skills into other areas of my life...
 
+<br>
 
 I was at the climbing wall today, and I thought "huh, we're all doing our own thing here, what if we *jammed* about it instead?" (that's a climbing pun for all you climbers out there) so I just spoke to people, asked what they were working on, if I could try it.
-Once two of us were doing it, it became much easier to include other people, and by the end there were about 4 or so strangers all trying different boulders and collaborating on ideas on how to solve them.
+Once two of us were doing it, it became much easier to include other people, and by the end there were about four or so strangers all trying different boulders and collaborating on ideas on how to solve them.
 It felt wonderful, and social and nice, and was a consequence of me *inviting collaboration* and putting myself *with* (not in front) of other people.
 I love the social aspect of jamming, and that's something pastagang captures when it's at its best.
 (Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its lagging like hell because of the cool hydra thing).
@@ -136,27 +137,29 @@ I love the social aspect of jamming, and that's something pastagang captures whe
 
 <br>
 
-The thing that I've noticed happens a lot in the collaborative space vs the solo space, and it's sparks of unexpected inspiration.
+The thing that I've noticed happens a lot in the collaborative space vs. the solo space, and it's sparks of unexpected inspiration.
 You kind of know, more or less, what's coming when you're livecoding solo.
 But the moment you get a group dynamic you tend to react to the unexpected coming at you - it's generally a fairly slow burn because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece (and usually tweak it)...
 then you try to enjoy it for a while.
 
-These sparks of inspiration can lead to learning how to use new functions, or old functions in new ways, or discover new samples, interesting patterns etc.
+These sparks of inspiration can lead to learning how to use new functions, or old functions in new ways, or discover new samples, interesting patterns, etc.
 
 When I'm among familiar players, I like providing that unexpected dynamic on occasion just to see what reactions/changes that causes, and where that can lead to.
 
-Sometimes, I run out of ideas/inspiration and don't know what to do with my code. My go to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio) for someone else to do something (which can reignite the spark in me again). When I'm solo I need to try and keep a constant stream of new ideas going which I often find difficult.
+Sometimes, I run out of ideas/inspiration and don't know what to do with my code.
+My go-to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio) for someone else to do something (which can reignite the spark in me again).
+When I'm solo, I need to try and keep a constant stream of new ideas going which I often find difficult.
 
-With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [^muse] but it's usually a two-way muse relationship, ie inspiring for both players.
+With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [^muse], but it's usually a two-way muse relationship, ie inspiring for both players.
 
-I suspect this is all old news to most accomplished musicians, particularly jazz/improvisational based players - I wonder, does this serve to help validate livecoding as an instrument? Does it even need validation?
+I suspect this is all old news to most accomplished musicians, particularly jazz/ improvisational-based players — I wonder, does this serve to help validate livecoding as an instrument? Does it even need validation?
 
 ## Untitled ... rough account of experience compared to conventional jam sessions
 
 My perspective on jam-oriented programming is shaped by an acute sense of my own lack of formal background in music or programming.
 Partially because of this, I have mostly pursued these activities non-collaboratively.
 When I was younger, I did find myself attending conventional jam sessions on two occasions.
-Everyone brought their specialist instrument but I had never learned how to play one and felt completely blocked both times.
+Everyone brought their specialist instrument, but I had never learned how to play one and felt completely blocked both times.
 There was also a kind of secret jam language that was incomprehensible to me.
 The guitarist nodded at the drummer and the sound changed.
 A vocalist shouted "G", glanced, and said "just like last time...".
@@ -171,10 +174,10 @@ I had access to a bank of samples and instruments, so I could find something tha
 There were certainly people who knew the environment better, but it never felt like a group of specialists with secret knowledge.
 
 In my first jam, I was admittedly hesitant.
-I avoided contributing any melodies or rhythms, instead opting for barely-audible textures.
+I avoided contributing any melodies or rhythms, instead opting for barely audible textures.
 After a while I thought the textures sounded good, so I increased the gain and added more variation.
 Then I got really confident and added a guitar sound.
-"Oh no!" — it sound terrible! Immediately, some friendly cursors floated over to my pane and helped me make it better.
+"Oh no!" — it sounds terrible! Immediately, some friendly cursors floated over to my pane and helped me make it better.
 Someone can hand me an instrument, shout "G" and I will freeze.
 In Flok, someone said "E Dorian", I could see where it should be typed and then I could listen passively to the results of their wise suggestion.
 
@@ -192,11 +195,11 @@ If anyone wants to change it, they will be added as maintainer, and they can cha
 Most tools that pastagang calls "theirs" are maintained that way.
 Including this paper!
 
-In a jam, communication and decision-making happens mostly through the music, less through talking about it.
+In a jam, communication and decision-making happen mostly through the music, less through talking about it.
 Talking is a detour.
 Trust the process.
 The jam is a SUBSTRATE.
-Similarly, in JOP, people don't need to ask before making a change (they still can if they want to have feedback etc).
+Similarly, in JOP, people don't need to ask before making a change (they still can if they want to have feedback etc.).
 The software is not part of a critical infrastructure, so breaking it has no severe consequences.
 Similar to how it happens that someone makes a mistake in a jam, it can happen that the thing breaks.
 It's fine.
@@ -205,9 +208,9 @@ Focusing on a low barrier to entry also means the code should be as easy to unde
 Perfection is not the goal.
 It's better to make a bad contribution than to make no contribution at all. 
 
-On top of that developing most often happens on a client connected to the shared room. 
+On top of that, development most often happens on a client connected to the shared room. 
 So changes come into effect almost immediately, and you can watch the testing of the changes live.
-Meta jams start to happen, and multiple people work on different things at the same time, showing it to each other and giving real-time thoughts.
+Meta jams start to happen, and multiple people work on different things at the same time, showing them to each other and giving real-time thoughts.
 All using the very tool we use to jam together in the first place.
 
 <br>
