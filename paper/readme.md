@@ -62,7 +62,7 @@ But there is also no list of pastagangers, nor is there a set list of organizers
 
 I heard about pastagang for the first time after clicking on a Strudel URL shared on the Fediverse.
 This opened a web page containing a bit of source code and a play button to render the audio directly in my browser.
-I was vaguely familiar with Tidalcycles [^tidalcycle], but I had never used it since I was not particularly enjoying it on my own.
+I was vaguely familiar with Tidalcycles [^tidalcycles], but I had never used it since I was not particularly enjoying it on my own.
 
 Even though I could make my own variations, and reading the Strudel's documentation helped me understand a bit what was going on, I still only couldn't do much with it.
 This quickly changed after visiting another link shared by a pastagang member: a URL for an interface called flok.
@@ -132,7 +132,7 @@ Sometimes it doesn't, when it doesn't sound groovy, and its all complete strange
 A thing that I've noticed happens a lot in the collaborative space is sparks of unexpected inspiration.
 You kind of know, more or less, what's coming when you're livecoding solo.
 But the moment you get a group dynamic, you tend to react to the unexpected coming at you.
-I's generally a fairly slow burn because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece.
+It's generally a fairly slow burn, because you get the new sound, it sparks the inspiration, the inspiration gets turned into code and then you add your piece.
 Then you try to enjoy it for a while.
 A new spark comes around and the cycle repeats.
 
@@ -144,7 +144,7 @@ Sometimes, I run out of ideas/inspiration and don't know what to do with my code
 My go-to in this scenario is to remove my code altogether and make space (on the screen, and in the density of audio/visuals) for someone else to do something (which can reignite the spark in me again).
 When I'm solo, I need to try and keep a constant stream of new ideas going which I often find difficult.
 
-With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a [^muse], but it's usually a two-way muse relationship, inspiring for both players.
+With certain people I very much feel that sense of inspiration far more strongly, it reminds me of the concept of a muse [^muse], but it's usually a two-way muse relationship, inspiring for both players.
 
 I suspect this is all old news to most accomplished musicians, particularly jazz/ improvisational-based players.
 I wonder, does this serve to help validate livecoding as an instrument? Does it even need validation?
@@ -220,7 +220,7 @@ What matters is pushing something functional and receiving constructive and acti
 Watching my changes go live on the website gave me a lot of confidence and created a desire to improve and learn new things.
 
 Nudel's low barrier to entry and Jam-like approach allows everyone to be a "maintainer" immediately, encouraging contribution without the fear of failure.
-Breaking something isn’t catastrophic but rather a part of the process, with backups in place to mitigate issues.
+Breaking something isn’t catastrophic, but rather a part of the process, with backups in place to mitigate issues.
 This freedom creates space for direct learning from more experienced contributors, while being part of a diverse, supportive community that shares the same goals.
 With an easy-to-understand codebase, starting a new contribution is seamless.
 It's this mix of collaboration, creativity, and trust that makes contributing deeply rewarding.
@@ -264,7 +264,7 @@ For some people, it may seem like a shame to not get individually credited, but 
 If something sounds bad, it's not *your* fault.
 It's pastagang's fault.
 So your reputation isn't on the line.
-In this way, the jam serves as a tool that removes emotional blockers, in the same way that my arroost tool aimed to be[^unblocking].
+In this way, the jam serves as a tool that removes emotional blockers, in the same way that my arroost tool aimed to be.[^unblocking]
 
 ## Differences to algorave
 
@@ -340,4 +340,4 @@ I think We As A Society should give everybody more encouragement all the time. B
 [^audience]: McLean, A., Rohrhuber, J., & Wieser, R. (2023). The Meaning of Live: From Art Without Audience to Programs Without Users. International Conference on Live Coding (ICLC2023), Utrecht, Netherlands. https://doi.org/10.5281/zenodo.7843567
 [^unblocking]: Wilson, L. (2024). Arroost: Unblocking creation with friends. [https://todepond.com/report/arroost](https://todepond.com/report/arroost)
 [^muse]: [https://en.wikipedia.org/wiki/Muse_(person)](https://en.wikipedia.org/wiki/Muse_(person))
-[^tidalcycle]: <!-- TODO: link to tidal cycle -->
+[^tidalcycles]: <!-- TODO: link to tidal cycles -->
