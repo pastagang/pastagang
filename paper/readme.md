@@ -109,6 +109,13 @@ The transition from "real performance" and just goofying around gets blurry, and
 The pastagang culture really invites new people to make changes and fiddle with things.
 It's really cool when you're groovin' and you get an idea based on what you've seen other people do and then you make the change and it all grooves even harder!!
 
+<hr>
+
+To provide examples of the above comment on how inviting and how good of a teacher Pastagang is, multiple times on being present in the Nudel room either as myself or as a mantra or other weather-induced name, other members of Pastagang have singled me out and encouraged me to try something new in either the audio or the visuals, and have nudged me in the right direction with zero judgement.
+One time, another user and I collaborated on an evil doom filled donut based upon something they saw at Outernet and posted a video of. Other times, people multiple times wrote up a template akin to `$: s("") //<name's> awesome drum pattern` beneath my cursor and then waited patiently for me to (read the docs and) fill it out and play in that space, correcting mistakes with empathy for the cursor-person.
+It is truly a freeing and delightful experience to arrive, see what's going on, become one of the cursors and start to change things. 
+I also accidentally learnt how to lambda function, which had eluded me for a mighty long time.
+
 # Jamming
 
 Pastagang has been one of the most ... of my life. ...
