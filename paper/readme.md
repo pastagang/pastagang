@@ -112,9 +112,11 @@ It's really cool when you're groovin' and you get an idea based on what you've s
 <hr>
 
 To provide examples of the above comment on how inviting and how good of a teacher Pastagang is, multiple times on being present in the Nudel room either as myself or as a mantra or other weather-induced name, other members of Pastagang have singled me out and encouraged me to try something new in either the audio or the visuals, and have nudged me in the right direction with zero judgement.
+
 One time, another user and I collaborated on an evil doom filled donut based upon something they saw at Outernet and posted a video of. Other times, people multiple times wrote up a template akin to `$: s("") //<name's> awesome drum pattern` beneath my cursor and then waited patiently for me to (read the docs and) fill it out and play in that space, correcting mistakes with empathy for the cursor-person.
+
 It is truly a freeing and delightful experience to arrive, see what's going on, become one of the cursors and start to change things. 
-I also accidentally learnt how to lambda function, which had eluded me for a mighty long time.
+I also accidentally learnt how to lambda function, which had eluded me for a mighty long time. 
 
 # Jamming
 
@@ -131,7 +133,11 @@ Once two of us were doing it, it became much easier to include other people.
 By the end there were about four strangers, all trying different boulders and collaborating on ideas on how to solve them.
 It felt wonderful, and social and nice, and was a consequence of me *inviting collaboration* and putting myself *with* (not in front) of other people.
 I love the social aspect of jamming, and that's something pastagang captures when it's at its best.
-Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its lagging like hell because of the cool hydra thing.
+Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its laggi<hr>
+
+To provide examples of the above comment on how inviting Pastagang is, multiple times on being present in the Nudel room either as myself or as a mantra or other weather-induced name, other members of Pastagang have singled me out and encouraged me to try something new in either the audio or the visuals, and have nudged me in the right direction with zero judgement.
+One time, another user and I collaborated on an evil doom filled donut based upon something they saw at Outernet and posted a video of. Other times, people write up a template akin to `$: s("") //awesome drum pattern` and then wait for me to fill it out and play in that space, correcting mistakes with empathy
+It is truly a freeing and delightful experience to arrive, see what's going on, become one of the cursors and start to change things.ng like hell because of the cool hydra thing.
 
 
 <hr> 
@@ -214,7 +220,11 @@ It's better to make a bad contribution than to make no contribution at all.
 Development most often happens on a client connected to the shared room. 
 So changes come into effect almost immediately, and you can watch the testing of the changes live.
 Meta jams start to happen, and multiple people work on different things at the same time, showing them to each other and giving real-time thoughts.
-All using the very tool we use to jam together in the first place.
+All using the very tool we use to jam together in the first place.<hr>
+
+To provide examples of the above comment on how inviting Pastagang is, multiple times on being present in the Nudel room either as myself or as a mantra or other weather-induced name, other members of Pastagang have singled me out and encouraged me to try something new in either the audio or the visuals, and have nudged me in the right direction with zero judgement.
+One time, another user and I collaborated on an evil doom filled donut based upon something they saw at Outernet and posted a video of. Other times, people write up a template akin to `$: s("") //awesome drum pattern` and then wait for me to fill it out and play in that space, correcting mistakes with empathy
+It is truly a freeing and delightful experience to arrive, see what's going on, become one of the cursors and start to change things.
 
 <hr>
 
