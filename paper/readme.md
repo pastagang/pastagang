@@ -5,7 +5,7 @@ Pasta Gang\
 pastagang@groups.io
 
 ## Thoughts on what to edit:
-- 
+-
 
 ## Abstract
 
@@ -47,8 +47,8 @@ It is made up of individuals who choose to forgo their authorship to create some
 
 # Introduction
 
-Pastagang is a phenomenon where various live coders use a single collaborative environment as their live coding tool of choice. 
-Whether they're practising at home, performing at an algorave, facilitating a workshop, or jamming at a meetup, a live coder might decide to do it in a shared space. 
+Pastagang is a phenomenon where various live coders use a single collaborative environment as their live coding tool of choice.
+Whether they're practising at home, performing at an algorave, facilitating a workshop, or jamming at a meetup, a live coder might decide to do it in a shared space.
 Because everyone uses the same shared room, often people meet in that room and jam together.
 There is no inclusion ritual, nor is there a high barrier of entry.
 Whenever someone joins the jam, they are now part of pastagang.
@@ -83,13 +83,13 @@ Because of the sharing nature of the online jam, you can look over the shoulder 
 You also get access to the code in real time, seeing how they change it and what effects it has.
 You can copy out code, dissect it, and understand how it works.
 Try out some changes and bring them back into the jam.
-This allowed me to get the confidence needed to just jam with the others. 
+This allowed me to get the confidence needed to just jam with the others.
 
 <hr>
 Yes, when I switched from strudel to flok, I thought I would learn slower because I wouldn't have the inline docs or autocomplete.
-But the surprising thing for me was how my learning rapidly sped up, just by looking and seeing other people code. 
+But the surprising thing for me was how my learning rapidly sped up, just by looking and seeing other people code.
 
-I remember thinking things like "`ply`? what does that do?" and then I fiddle with the number, explore it, and try it out myself. 
+I remember thinking things like "`ply`? what does that do?" and then I fiddle with the number, explore it, and try it out myself.
 
 My <strong>discovery</strong> of different language features was greatly improved by being around other people (in a virtual space).
 Not just discovery of the existence of these features, but also their varying uses / the moments they can be good in.
@@ -109,6 +109,16 @@ The transition from "real performance" and just goofying around gets blurry, and
 The pastagang culture really invites new people to make changes and fiddle with things.
 It's really cool when you're groovin' and you get an idea based on what you've seen other people do and then you make the change and it all grooves even harder!!
 
+<hr>
+
+To provide examples of the above comment on how inviting and how good of a teacher Pastagang is, multiple times on being present in the Nudel room either as myself or as a mantra or other weather-induced name, other members of Pastagang have singled me out and encouraged me to try something new in either the audio or the visuals, and have nudged me in the right direction with zero judgement.
+
+One time, another user and I collaborated on an evil doom filled donut based upon something they saw at Outernet and posted a video of. Other times, people multiple times wrote up a template akin to `$: s("") //<name's> awesome drum pattern` beneath my cursor and then waited patiently for me to (read the docs and) fill it out and play in that space, correcting mistakes with empathy for the cursor-person.
+
+It is truly a freeing and delightful experience to arrive, see what's going on, become one of the cursors and start to change things. 
+I also accidentally learnt how to lambda function, which had eluded me for a mighty long time. 
+
+
 # Jamming
 
 Pastagang has been one of the most ... of my life. ...
@@ -127,7 +137,7 @@ I love the social aspect of jamming, and that's something pastagang captures whe
 Sometimes it doesn't, when it doesn't sound groovy, and its all complete strangers, and its lagging like hell because of the cool hydra thing.
 
 
-<hr> 
+<hr>
 
 A thing that I've noticed happens a lot in the collaborative space is sparks of unexpected inspiration.
 You kind of know, more or less, what's coming when you're livecoding solo.
@@ -201,10 +211,10 @@ It's fine.
 We even have a backup plan (flok.cc).
 Focusing on a low barrier to entry also means the code should be as easy to understand as possible, so avoiding too many complexities is a good idea.
 Perfection is not the goal.
-It's better to make a bad contribution than to make no contribution at all. 
+It's better to make a bad contribution than to make no contribution at all.
 
 <br>
-Development most often happens on a client connected to the shared room. 
+Development most often happens on a client connected to the shared room.
 So changes come into effect almost immediately, and you can watch the testing of the changes live.
 Meta jams start to happen, and multiple people work on different things at the same time, showing them to each other and giving real-time thoughts.
 All using the very tool we use to jam together in the first place.
@@ -246,20 +256,20 @@ Link to that audiences paper[^audience]
 Everything we make gets attributed to "pastagang" rather than any individual(s).
 
 This is partly due to convenience: For any one piece of music or visual, there may have been countless contributors, some anonymous, over a long scattered period.
-Hunting them all down would be a nightmare. 
+Hunting them all down would be a nightmare.
 
 Even if you do hunt down everyone who wrote those individual lines of code, what about those who came before?
-Those lines of code didn't come out of nowhere: They grew from what was there previously. 
+Those lines of code didn't come out of nowhere: They grew from what was there previously.
 
 The jam is continuous.
-It has no start and end. So every product of the pastagang is a product of everyone who has ever set foot inside it. 
+It has no start and end. So every product of the pastagang is a product of everyone who has ever set foot inside it.
 
 Even a motionless cursor can influence the sounds and sights it makes.
 Your presence or lack of presence steers the jam.
 
-## Responsibility 
+## Responsibility
 
-For some people, it may seem like a shame to not get individually credited, but in many ways, it is liberating. 
+For some people, it may seem like a shame to not get individually credited, but in many ways, it is liberating.
 
 If something sounds bad, it's not *your* fault.
 It's pastagang's fault.
@@ -276,7 +286,7 @@ Here's a quote from the algorave website:
 In algorave, musicians take responsibility, but in pastagang, musicians relinquish responsibility — the jam claims your outputs as its own.
 
 The "death of the author" that goes on in pastagang does share some similarity with the algorave guidance[todo: add reference] that dissuades against having headliners at events.
-The focus is on the collective, rather than any individual. 
+The focus is on the collective, rather than any individual.
 
 Though pastagang takes this even further, to an approach more reminiscent of Tiger's Eye, a surrealist publication that did not list authors' names under specific works.[todo: add reference]
 Instead, they were all listed on the middle pages of the edition, in a way that individual works could not be routed back to individuals.
