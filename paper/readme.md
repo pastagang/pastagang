@@ -16,7 +16,7 @@ Pastagang is an emergent jamming group that accidentally emerged in late 2024.
 In this paper, various participants and onlookers record and reflect on their experience of the phenomenon.
 In the spirit of the jam, no individual author is responsible for what you are about to read.
 Instead, it is the natural result of many people editing the same document with no oversight, plan, organization or discussion.
-As you read through the following scattered contributions, you may notice that because of that, it's not a singular coherent thought and might contain differing statements or even small contradictions.
+As you read through the following scattered contributions, you may notice that for that reason, it's not a singular coherent thought and might contain differing statements or even small contradictions.
 This all is part of how pastagang operates.
 It is made up of individuals who choose to forgo their authorship to create something together.
 
@@ -237,6 +237,10 @@ It's this mix of collaboration, creativity, and trust that makes contributing de
 
 <br>
 
+Cocreation brings to new unexpected directions. It's hard to enforce an artistic vision. One can share, suggest, but then it depends on those in the room to pick it up, feel it and expand it in their own ways. It is not easy to successfully jam and speak together in this shared space. It requires coordination and somehow knowing each other, having jammed for a while and percieve unspoken rules, such as: yes now it's time for a feedback, `.modulate(o0)`. I miss sometimes all the good hydra code that was made and I didn't had the time to copy in my notes. I guess I'll just embrace it flowing as many other things in life.
+
+<br>
+
 ## Audience
 
 I love performing to an audience.
@@ -266,6 +270,8 @@ It has no start and end. So every product of the pastagang is a product of every
 
 Even a motionless cursor can influence the sounds and sights it makes.
 Your presence or lack of presence steers the jam.
+
+There is no `git` to track authorship, so no `blame` is possible, no `commit` either.
 
 ## Responsibility
 
@@ -332,6 +338,10 @@ Where not all cursors are trying to actively participate, but maybe also just wa
 (Insert screenshots of cursors doing things in cursorland, etc)
 
 <br>
+
+Cursors move with a personality. They edit the code in their own way. Usually their represent a person thorugh their choosen name. Other times they have emojis or mantras depending on the weather. Can we still recognise each other in those moments? or do we mistake one for another? Which way is better?
+
+Sometimes it feels like cursors have thier own good practice rules. Since cursors take space (some pixels in a rectangular arrangement) they might hide the lines of code below. So other cursors will maintain an empty line below in order to continue editing. Others will gently comment the line in which they're elaborating their next thought, in order to not disrupt the execution of the code made by others. 
 
 <br>
 
