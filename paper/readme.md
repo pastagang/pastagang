@@ -29,7 +29,7 @@ It is made up of individuals who choose to forgo their authorship to create some
   * [User Friendly](#user-friendly)
   * [Learning & Teaching](#learning--teaching)
 * [Jamming](#jamming)
-  * [Untitled ... rough account of experience compared to conventional jam sessions](#untitled--rough-account-of-experience-compared-to-conventional-jam-sessions)
+  * [The Language of a Jam](#the-language-of-a-jam)
   * [Jam Oriented Programming](#jam-oriented-programming)
   * [Audience](#audience)
 * [Sacrifice](#sacrifice)
@@ -304,7 +304,7 @@ Others are invited to join the [mailing list](https://groups.io/g/pastagang) to 
 
 ## Exquisite corpse
 
-<---! todoL write this out --->
+<---! todo: write this out --->
 - shared activity, jamlike, Long Distance, lead into feeling connected and present, which leads into the next section [todo: add reference, "how to see an exquisite corpse"]
 
 # Presence
@@ -332,7 +332,7 @@ This creates a kind of co-working environment, where the shared music and visual
 But these cursorlands also tend to pop up during bigger live events.
 Where not all cursors are trying to actively participate, but maybe also just want to chill out in the shared space.
 
-<!--- TODO: add screenshot -->
+![cursorland.png](cursorland.png)
 (Insert screenshots of cursors doing things in cursorland, etc)
 
 <br>
@@ -358,4 +358,4 @@ I think We As A Society should give everybody more encouragement all the time. B
 [^audience]: McLean, A., Rohrhuber, J., & Wieser, R. (2023). The Meaning of Live: From Art Without Audience to Programs Without Users. International Conference on Live Coding (ICLC2023), Utrecht, Netherlands. https://doi.org/10.5281/zenodo.7843567
 [^unblocking]: Wilson, L. (2024). Arroost: Unblocking creation with friends. [https://todepond.com/report/arroost](https://todepond.com/report/arroost)
 [^muse]: [https://en.wikipedia.org/wiki/Muse_(person)](https://en.wikipedia.org/wiki/Muse_(person))
-[^tidalcycles]: <!-- TODO: link to tidal cycles -->
+[^tidalcycles]: [https://tidalcycles.org/](https://tidalcycles.org/)
