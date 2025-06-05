@@ -9,8 +9,6 @@ pastagang@groups.io
 
 ## Abstract
 
-<!--This is a first attempt at an abstract. Pastagang is an accidental emergent group that formed in late 2024. In this paper, various participants reflect on their personal experiences of the phenomena. This is Lu writing this right now but I'm pretty sure all of these words will get deleted at some point. Words can be added or edited or removed anywhere. Who knows if people will do this or not. Maybe soon, or maybe months from now.-->
-
 This is a second attempt at an abstract.
 Pastagang is an emergent jamming group that accidentally emerged in late 2024.
 In this paper, various participants and onlookers record and reflect on their experience of the phenomenon.
@@ -24,19 +22,19 @@ It is made up of individuals who choose to forgo their authorship to create some
 
 <!-- TOC -->
 * [Pastagang: A huddle of fusilli](#pastagang-a-huddle-of-fusilli)
-  * [Thoughts on what to edit:](#thoughts-on-what-to-edit)
+  * [## Thoughts on what to edit:](#-thoughts-on-what-to-edit)
   * [Abstract](#abstract)
 * [Introduction](#introduction)
 * [Learning](#learning)
   * [User Friendly](#user-friendly)
   * [Learning & Teaching](#learning--teaching)
 * [Jamming](#jamming)
-  * [Untitled but might fit in previous section ... #feelings](#untitled-but-might-fit-in-previous-section--feelings)
   * [Untitled ... rough account of experience compared to conventional jam sessions](#untitled--rough-account-of-experience-compared-to-conventional-jam-sessions)
   * [Jam Oriented Programming](#jam-oriented-programming)
   * [Audience](#audience)
 * [Sacrifice](#sacrifice)
-  * [Responsibility](#responsibility-)
+  * [Authorship](#authorship)
+  * [Responsibility](#responsibility)
   * [Differences to algorave](#differences-to-algorave)
   * [Exquisite corpse](#exquisite-corpse)
 * [Presence](#presence)
@@ -161,7 +159,7 @@ I wonder, does this serve to help validate livecoding as an instrument? Does it 
 
 <hr>
 
-## Untitled ... rough account of experience compared to conventional jam sessions
+## The Language of a Jam
 
 My perspective on jam-oriented programming is shaped by an acute sense of my own lack of formal background in music or programming.
 Partially because of this, I have mostly pursued these activities non-collaboratively.
@@ -249,6 +247,7 @@ But it can sometimes feel self-indulgent.
 With jamming, this isn't a problem.
 It's more collaborative or something blah blah blah...
 
+<!-- TODO: paper and, the sentence above -->
 Link to that audiences paper[^audience]
 
 <br>
@@ -305,7 +304,7 @@ Others are invited to join the [mailing list](https://groups.io/g/pastagang) to 
 
 ## Exquisite corpse
 
-todo
+<---! todoL write this out --->
 - shared activity, jamlike, Long Distance, lead into feeling connected and present, which leads into the next section [todo: add reference, "how to see an exquisite corpse"]
 
 # Presence
@@ -314,8 +313,6 @@ todo
 
 > Analogous to the pulsing live body within other forms of performance, the flashing cursor marks the point of decision-making – of consciousness perhaps – within the live programming of code; the movement of the coder’s thinking as its oscillates between sense-making through the discontinuous, abstract notational form of code and the ‘continuous’ – even sensuous – experience of coding as a lived experience.
 > [^cocker2016]
-
-(Thoughts about the experience of being cursors on a screen go here)
 
 <br>
 
@@ -335,6 +332,7 @@ This creates a kind of co-working environment, where the shared music and visual
 But these cursorlands also tend to pop up during bigger live events.
 Where not all cursors are trying to actively participate, but maybe also just want to chill out in the shared space.
 
+<!--- TODO: add screenshot -->
 (Insert screenshots of cursors doing things in cursorland, etc)
 
 <br>
