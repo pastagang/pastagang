@@ -20,10 +20,8 @@ It is made up of individuals who choose to forgo their authorship to create some
 
 <br>
 
-<!-- TOC -->
-* [Pastagang: A huddle of fusilli](#pastagang-a-huddle-of-fusilli)
-  * [## Thoughts on what to edit:](#-thoughts-on-what-to-edit)
-  * [Abstract](#abstract)
+* [## Thoughts on what to edit:](#-thoughts-on-what-to-edit)
+* [Abstract](#abstract)
 * [Introduction](#introduction)
 * [Learning](#learning)
   * [User Friendly](#user-friendly)
