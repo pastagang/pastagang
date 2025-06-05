@@ -326,8 +326,10 @@ This creates a kind of co-working environment, where the shared music and visual
 But these cursorlands also tend to pop up during bigger live events.
 Where not all cursors are trying to actively participate, but maybe also just want to chill out in the shared space.
 
-![cursorland.png](cursorland.png)
-(Insert screenshots of cursors doing things in cursorland, etc)
+![cursorland.png](cursorland1.png)
+*Figure 1: Room made of ascii and emoji art.*
+![cursorland.png](cursorland3.png)
+*Figure 2: A destroyed ascii art.*
 
 <br>
 
