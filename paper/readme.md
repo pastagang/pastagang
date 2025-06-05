@@ -4,9 +4,6 @@ Pasta Gang\
 *pastagang*\
 pastagang@groups.io
 
-## Thoughts on what to edit:
--
-
 ## Abstract
 
 This is a second attempt at an abstract.
@@ -20,7 +17,6 @@ It is made up of individuals who choose to forgo their authorship to create some
 
 <br>
 
-* [## Thoughts on what to edit:](#-thoughts-on-what-to-edit)
 * [Abstract](#abstract)
 * [Introduction](#introduction)
 * [Learning](#learning)
