@@ -1,4 +1,4 @@
-# Pastagang: A huddle of fusilli
+# Pastagang: Jamming together far apart
 
 Pasta Gang\
 *pastagang*\
