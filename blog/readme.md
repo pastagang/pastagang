@@ -30,6 +30,7 @@ here are some posts
 - [thanks yaxu](/blog/thanks-yaxu)
 - [manifesto](/blog/manifesto)
 - [story: so i went to an algorave](/blog/stories/reckter)
+- [writing a paper](/blog/writing-a-paper/)
 
 ---
 
