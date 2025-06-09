@@ -25,7 +25,7 @@ Wanna get involved in the London coding scene?
   - [Luma](https://lu.ma/londonlivecoding) (meetups + jams)
   - [Resident Advisor](https://ra.co/promoters/143671) (raves)
   - [Discord](https://discord.gg/eVHd5e3fhJ)
-  - [Telegram](https://t.me/+J0ENXEDygAk1OWRk)
+  - [Signal](https://signal.group/#CjQKILVUFMuI1r_tNi4k7Ei4aHTOSVZfYljCjnzal_hmKtMlEhDWv7WqmYv7p2DDkHu4_kGQ)
 - Noughty Fingers
   - [Resident Advisor](https://ra.co/promoters/150349) (all events)
 - London Creative Coding
