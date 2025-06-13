@@ -1,6 +1,7 @@
 # Gigs
 
 - [Algorave](https://london.sciencegallery.com/sgl-events/algorave), London, 11th July 2025
+- [AlgoRhythms](https://lu.ma/vp5swhx4), London, 2nd July 2025
 - [AlgoRhythms](https://lu.ma/rykjwzu2), London, 4th June 2025
 - [ICLC](https://iclc.toplap.org/2025/), Barcelona, 31st May 2025
 - Errorcamp, Peak District, 24th May 2025
