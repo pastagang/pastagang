@@ -9,13 +9,13 @@
 - [Adela](https://wiki.ljudmila.org/Adela_2025:_From_Scratch_(en)), Ljubljana, 17th May 2025
 - [A MAZE.](https://2025.amaze-berlin.de/), Berlin, 17th May 2025
 - [Algorave](https://patternclub.org/events/algorave-sheffield/), Sheffield, 18th April 2025
-- [Algorave](https://ra.co/events/2108876), London, 9th April 2025, [Recorded](https://youtu.be/FmE_yUIz4lQ?si=DyX9v1RBUgtOJJhD)
-- [Noughty Fingers](https://ra.co/events/2117681), London, 26th March 2025, [Recorded](https://www.youtube.com/watch?v=k0H_rX7G2oQ)
+- [Algorave](https://ra.co/events/2108876), London, 9th April 2025 — [WATCH](https://youtu.be/FmE_yUIz4lQ?si=DyX9v1RBUgtOJJhD)
+- [Noughty Fingers](https://ra.co/events/2117681), London, 26th March 2025 — [WATCH](https://www.youtube.com/watch?v=k0H_rX7G2oQ)
 - [Živopisana glasba](https://multimedija.info/zivopisana-glasba/), Ljubljana, 20th March 2025
-- [AlgoRhythms](https://lu.ma/35xf6hly), London, 5th March 2025, [Recorded](http://www.youtube.com/watch?v=HCcSHMu0gzg)
+- [AlgoRhythms](https://lu.ma/35xf6hly), London, 5th March 2025 — [WATCH](http://www.youtube.com/watch?v=HCcSHMu0gzg)
 - [Type Techno](https://toplap-ka.de/events/type-techno-2025-02-28), Karlsruhe, 28th February 2025
-- [AlgoRhythms](https://lu.ma/z75ou3z0), London, 5th February 2025, [Recorded](https://youtu.be/mKE-aMVR0E4)
-- [Solstice Stream](https://eulerroom.com/), Online, 20th December 2024, [Recorded](https://youtu.be/VNqsIyCejOc?si=j1ZZoe_ziJj1_GaW)
+- [AlgoRhythms](https://lu.ma/z75ou3z0), London, 5th February 2025 — [WATCH](https://youtu.be/mKE-aMVR0E4)
+- [Solstice Stream](https://eulerroom.com/), Online, 20th December 2024 — [WATCH](https://youtu.be/VNqsIyCejOc?si=j1ZZoe_ziJj1_GaW)
 
 <br>
 
