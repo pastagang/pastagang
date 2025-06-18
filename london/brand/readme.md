@@ -93,6 +93,8 @@ By establishing the "Algorave London" name, I think it will be easier to state a
 
 Having recently visited ICLC and discovered all the different TOPLAPs out there in the world, I am reminded of my hatred of acronyms. I don't think we should use an acronym. I still don't know what TOPLAP stands for and hopefully I never will. 
 
+EDIT: Unfortunately I found out what it stands for almost immediately after posting this. fuck you all
+
 <br>
 
 ---
