@@ -1,1 +1,1 @@
-export const PASTAGANG_ROOM_NAME = "pastagang7"
+export const PASTAGANG_ROOM_NAME = "pastagang8"
