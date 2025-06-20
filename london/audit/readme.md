@@ -6,7 +6,7 @@ I'll almost certainly miss out LOADS so I invite you to join in and [edit this p
 
 - "[CODETRACK++](https://lu.ma/2rkkzmcz)", 14th July 2025, presented by "LiveCodeLondon", on the "London Live Coding" calendar.
 - "[Algorave](https://london.sciencegallery.com/sgl-events/algorave)", 11th July 2025, presented by "King's Institute for Artificial Intelligence", promoted on the "London Live Coding" mailing list. 
-- "[AlgoRhythms](https://lu.ma/vp5swhx4)", 2nd July 2025, presented by "London Live Coding".
+- "[AlgoRhythms](https://lu.ma/vp5swhx4)", 2nd July 2025, on the "London Live Coding" calendar.
 - "[Live Coding Meetup](https://lu.ma/4kxq8w80)", 17th June 2025, meetup, on the "London Live Coding" calendar.
 - "[Sonic Electronics: London farewell party](https://dice.fm/event/8eppn5-sonic-electronics-london-farewell-party-15th-jun-the-victoria-london-tickets)", 15th June 2025, promoted on the "London Live Coding" mailing list.
 - "[AlgoRhythms](https://lu.ma/rykjwzu2)", 4th June 2025, on the "London Live Coding" calendar.
@@ -15,7 +15,5 @@ I'll almost certainly miss out LOADS so I invite you to join in and [edit this p
 - "[Algorave: LiveCode London ICLC Satellite Event 2025](https://lu.ma/ydicdxow)", 19th May 2025, by "LiveCode London", on the "London Live Coding" calendar, promoted by "algorave london".
 - "[algorithmic picnic](https://discord.com/channels/1333535594453794937/1333580107004121150/1372561624652709989)", 18th May 2025, from the "London Live Coding" discord.
 - "[London Live Coding Festival](https://www.pastagang.cc/london/festival/2025/)", 18th May 2025, promoted on the "London Live Coding" mailing list. 
-- "[Live Coding Meetup](https://lu.ma/ig4y8mii)", 16th April 2025, "London Live Coding".
-- "[Algorave](https://lu.ma/ig4y8mii)", 9th April 2025, "London Live Coding" etc
-
-- etc etc etc
+- "[Live Coding Meetup](https://lu.ma/ig4y8mii)", 16th April 2025, on the "London Live Coding" calendar.
+- "[Algorave](https://lu.ma/ig4y8mii)", 9th April 2025, on the "London Live Coding" calendar.
