@@ -17,3 +17,5 @@ I'll almost certainly miss out LOADS so I invite you to join in and [edit this p
 - "[London Live Coding Festival](https://www.pastagang.cc/london/festival/2025/)", 18th May 2025, promoted on the "London Live Coding" mailing list. 
 - "[Live Coding Meetup](https://lu.ma/ig4y8mii)", 16th April 2025, on the "London Live Coding" calendar.
 - "[Algorave](https://lu.ma/ig4y8mii)", 9th April 2025, on the "London Live Coding" calendar.
+
+- etc etc etc
