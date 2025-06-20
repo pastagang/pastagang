@@ -26,13 +26,8 @@ Wanna get involved in the London scene?
   - [Signal](https://signal.group/#CjQKILVUFMuI1r_tNi4k7Ei4aHTOSVZfYljCjnzal_hmKtMlEhDWv7WqmYv7p2DDkHu4_kGQ)
 - Noughty Fingers
   - [Resident Advisor](https://ra.co/promoters/150349)
-- London Creative Coding
-  - [Luma](https://lu.ma/london-creative-coding)
-- London Future of Coding
-  - [Luma](https://lu.ma/foclondon)
-- London Pattern Club
-  - [Luma](https://lu.ma/london-pattern-club)
-  - [Discord](https://discord.gg/YqDS4Kza3R)
+- Electronic Music Open Mic
+  - [Website](https://electronicmusicopenmic.com/)
 - Creative Coding Book Club
   - [Luma](https://lu.ma/calendar/cal-l8dqsc8YHhI2Fbi)
   - [Website](https://creativecodingbook.club/)
@@ -40,12 +35,16 @@ Wanna get involved in the London scene?
   - [Luma](https://lu.ma/c3s)
   - [Discord](https://discord.gg/kxWFc5w2M3)
   - [Website](https://www.creativecodingcrafts.space/)
+- London Creative Coding
+  - [Luma](https://lu.ma/london-creative-coding)
+- London Pattern Club
+  - [Luma](https://lu.ma/london-pattern-club)
+  - [Discord](https://discord.gg/YqDS4Kza3R)
+- London Future of Coding
+  - [Luma](https://lu.ma/foclondon)
 - London Data Visualisation
   - [Luma](https://lu.ma/londondatavis)
-- Electronic Music Open Mic
-  - (broader electronic music, including live coding; events in London and worldwide)
-  - [EMOM](https://electronicmusicopenmic.com/)
-- TODO: Add fakedac here.
+- TODO: Add fakedac.
 
 <br>
 
