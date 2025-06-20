@@ -20,3 +20,5 @@ I'll almost certainly miss out LOADS so I invite you to join in and [edit this p
 - "[London Live Coding Meetup](https://lu.ma/6a8uoom3)", 18th March 2025, on the "London Live Coding" calendar. 
 - "[AlgoRhythms](https://lu.ma/35xf6hly)", 5th March 2025, on the "London Live Coding" calendar, promoted by "algorave london".
 - etc etc etc please help
+
+todo: all the luma events, eventbrite events, peckham digital events, one off workshops, empms, fakedacs, and everything else
