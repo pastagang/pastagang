@@ -4,12 +4,17 @@ Wanna get involved in the London coding scene?
   iframe {
     max-width: 100%;
   }
+  body {
+    max-width: 100%;
+  }
 </style>
 
-
+<section
+  style="display: flex;"
+  >
 <iframe
   src="https://lu.ma/embed/calendar/cal-qaBuxr3sRTGy0Ol/events?lt=light"
-  width="600"
+  width="400"
   height="300"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
@@ -20,7 +25,7 @@ Wanna get involved in the London coding scene?
 
 <iframe
   src="https://lu.ma/embed/calendar/cal-l8dqsc8YHhI2Fbi/events?lt=light"
-  width="600"
+  width="400"
   height="300"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
@@ -28,6 +33,7 @@ Wanna get involved in the London coding scene?
   aria-hidden="false"
   tabindex="0"
 ></iframe>
+</section>
 
 <br>
 
