@@ -40,7 +40,7 @@ Wanna get involved in the London coding scene?
 
 
 <iframe
-  src="https://lu.ma/embed/london-pattern-club/events?lt=light"
+  src="https://lu.ma/embed/calendar/london-pattern-club/events?lt=light"
   width="400"
   height="400"
   frameborder="0"
