@@ -1,6 +1,6 @@
-This is a work in progress list of EVERY SINGLE LIVE CODING AND LIVE CODING ADJACENT EVENT IN LONDON OVER THE PAST TWELVE MONTHS so that we can all see what they are and what they call themselves. and below that, I'll list out all the different organisations. and below that, I'll list out all of our sibling communities (there's a lot going on in London).
+This is a work in progress list of EVERY SINGLE LIVE CODING AND LIVE CODING ADJACENT EVENT IN LONDON, backfilled from THE PAST TWELVE MONTHS.
 
-I'll almost certainly missed LOADS so I invite you to join in and [edit this page](https://github.com/pastagang/pastagang/edit/main/london/audit/readme.md). I put it on the pastagang website so that everyone can change it (all changes get accepted).
+I'll almost certainly miss LOADS so I invite you to join in and [edit this page](https://github.com/pastagang/pastagang/edit/main/london/audit/readme.md). I put it on the pastagang website so that everyone can change it (all changes get accepted).
 
 ## Events
 
