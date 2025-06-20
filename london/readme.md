@@ -42,7 +42,9 @@ Wanna get involved in the London scene?
   - [Website](https://www.creativecodingcrafts.space/)
 - London Data Visualisation
   - [Luma](https://lu.ma/londondatavis)
-- TODO: Add emoms here.
+- Electronic Music Open Mic
+  - (broader electronic music, including live coding; events in London and worldwide)
+  - [EMOM](https://electronicmusicopenmic.com/)
 - TODO: Add fakedac here.
 
 <br>
