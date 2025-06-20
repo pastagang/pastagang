@@ -8,8 +8,8 @@ Wanna get involved in the London scene?
 
 <iframe
   src="https://lu.ma/embed/calendar/cal-p0Ty8dnCk4rsXxC/events?lt=light"
-  width="400"
-  height="800"
+  width="600"
+  height="450"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
