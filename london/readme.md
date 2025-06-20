@@ -10,7 +10,7 @@ Wanna get involved in the London coding scene?
 <iframe
   src="https://lu.ma/embed/calendar/cal-qaBuxr3sRTGy0Ol/events?lt=light"
   width="600"
-  height="500"
+  height="300"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
@@ -21,7 +21,7 @@ Wanna get involved in the London coding scene?
 <iframe
   src="https://lu.ma/embed/calendar/cal-l8dqsc8YHhI2Fbi/events?lt=light"
   width="600"
-  height="500"
+  height="300"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allowfullscreen=""
