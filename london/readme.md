@@ -4,13 +4,17 @@ Wanna get involved in the London coding scene?
   iframe {
     max-width: 100%;
   }
-  body {
+  .container-lg {
     max-width: 100%;
   }
 </style>
 
 <section
-  style="display: flex;"
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  "
   >
 <iframe
   src="https://lu.ma/embed/calendar/cal-qaBuxr3sRTGy0Ol/events?lt=light"
