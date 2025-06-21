@@ -27,6 +27,7 @@ Wanna get involved in the London scene?
 - Noughty Fingers
   - [Resident Advisor](https://ra.co/promoters/150349)
 - Electronic Music Open Mic
+  - [Resident Advisor](https://ra.co/promoters/166861)
   - [Website](https://electronicmusicopenmic.com/)
 - Creative Coding Book Club
   - [Luma](https://lu.ma/calendar/cal-l8dqsc8YHhI2Fbi)
