@@ -44,6 +44,7 @@ here are some ways of contacting pastagang:
 - email pastagang (at) groups.io. everyone can access the inbox [here](https://groups.io/g/pastagang/)
 - use the [#pastagang hashtag](https://post.lurk.org/tags/pastagang) on mastodon or bluesky
 - mention the [@pastagang@a.gup.pe](https://a.gup.pe/u/pastagang) group on mastodon
+- join the [signal chat](https://signal.group/#CjQKIIAU9xgEumalEdWltOhqXtCaRWLFwy3CzqKZtxt29VpzEhA5MxsFX_uurUroWPue4A3e)
 - write something in the [jam space](https://nudel.cc)
 
 ## code of conduct
